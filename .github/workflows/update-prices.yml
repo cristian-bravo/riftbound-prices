@@ -1,69 +1,39 @@
-const fs = require("fs");
-const puppeteer = require("puppeteer");
+name: Update Riftbound Prices
 
-const URL =
-  "https://www.tcgplayer.com/search/riftbound-league-of-legends-trading-card-game/product?productLineName=riftbound-league-of-legends-trading-card-game&view=grid";
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
-(async () => {
-  try {
-    const browser = await puppeteer.launch({
-      headless: "new",
-      args: ["--no-sandbox", "--disable-setuid-sandbox"],
-    });
+permissions:
+  contents: write
 
-    const page = await browser.newPage();
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-    await page.setUserAgent(
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-    );
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-    await page.goto(URL, {
-      waitUntil: "networkidle2",
-      timeout: 120000,
-    });
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-    await page.waitForSelector('div[class*="search-result"]', {
-      timeout: 60000,
-    });
+      - name: Install dependencies
+        run: npm install
 
-    const cards = await page.evaluate(() => {
-      const results = [];
+      - name: Install Chromium deps
+        run: sudo apt-get update && sudo apt-get install -y libgbm1
 
-      const items = document.querySelectorAll('div[class*="search-result"]');
+      - name: Run scraper
+        run: node scraper.js
 
-      items.forEach((el) => {
-        const nameEl = el.querySelector('a[href*="/product/"]');
-        const priceEl = el.querySelector('[class*="price"]');
-
-        const name = nameEl?.innerText?.trim();
-        let price = priceEl?.innerText?.trim();
-
-        if (name && price) {
-          price = parseFloat(price.replace("$", "").replace(",", ""));
-
-          results.push({
-            name,
-            price,
-            updatedAt: new Date().toISOString(),
-          });
-        }
-      });
-
-      return results;
-    });
-    const csv = [
-      ["name", "price", "updatedAt"],
-      ...cards.map((c) => [c.name, c.price, c.updatedAt]),
-    ]
-      .map((row) => row.join(","))
-      .join("\n");
-
-    fs.writeFileSync("cards.csv", csv, "utf8");
-
-    console.log(`Cartas guardadas: ${cards.length}`);
-
-    await browser.close();
-  } catch (error) {
-    console.error("ERROR SCRAPER:", error);
-  }
-})();
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cards.csv
+          git commit -m "update prices" || echo "no changes"
+          git push
