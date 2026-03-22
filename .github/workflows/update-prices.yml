@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # 🔥 ESTO ES LO QUE TE FALTABA
+
       - name: Install Chromium dependencies
         run: |
           sudo apt-get update
