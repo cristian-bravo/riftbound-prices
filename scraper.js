@@ -26,6 +26,27 @@ function parseMoney(value) {
   return Number.isFinite(parsed) ? parsed : 0;
 }
 
+function padDatePart(value) {
+  return String(value).padStart(2, "0");
+}
+
+function formatUpdatedAt(value) {
+  const date = value instanceof Date ? value : new Date(value);
+
+  if (Number.isNaN(date.getTime())) {
+    return "";
+  }
+
+  const hours = padDatePart(date.getHours());
+  const minutes = padDatePart(date.getMinutes());
+  const seconds = padDatePart(date.getSeconds());
+  const day = padDatePart(date.getDate());
+  const month = padDatePart(date.getMonth() + 1);
+  const year = date.getFullYear();
+
+  return `${hours}:${minutes}:${seconds} ${day}/${month}/${year}`;
+}
+
 function escapeCsvValue(value) {
   if (value === null || value === undefined) {
     return "";
@@ -203,7 +224,7 @@ async function extractPageData(page, pageNumber) {
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     );
 
-    const updatedAt = new Date().toISOString();
+    const updatedAt = formatUpdatedAt(new Date());
     const uniqueCards = new Map();
 
     const firstPage = await extractPageData(page, 1);

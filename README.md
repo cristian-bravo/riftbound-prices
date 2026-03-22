@@ -137,13 +137,13 @@ The generated `cards.csv` file contains structured data:
 |-----------|------------------------------|--------------------------|
 | `name`   | Card name                    | "Spiritforged Guardian Angel" |
 | `price`  | Market price (USD)          | 1.82                     |
-| `updatedAt` | ISO timestamp             | 2026-03-22T03:36:43.819Z |
+| `updatedAt` | Local timestamp (`HH:mm:ss DD/MM/YYYY`) | 03:36:43 22/03/2026 |
 
 ### Sample Output:
 ```
 name,price,updatedAt
-Spiritforged Guardian Angel,1.82,2026-03-22T03:36:43.819Z
-Origins Hidden Blade,1.34,2026-03-22T03:36:43.819Z
+Spiritforged Guardian Angel,1.82,03:36:43 22/03/2026
+Origins Hidden Blade,1.34,03:36:43 22/03/2026
 ```
 
 ---
