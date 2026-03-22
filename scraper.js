@@ -1,0 +1,65 @@
+const fs = require("fs");
+const puppeteer = require("puppeteer");
+
+const URL =
+  "https://www.tcgplayer.com/search/riftbound-league-of-legends-trading-card-game/product?productLineName=riftbound-league-of-legends-trading-card-game&view=grid";
+
+(async () => {
+  const browser = await puppeteer.launch({
+    headless: "new",
+    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+  });
+
+  const page = await browser.newPage();
+
+  await page.setUserAgent(
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+  );
+
+  await page.goto(URL, {
+    waitUntil: "networkidle2",
+    timeout: 120000,
+  });
+
+  await page.waitForSelector('div[class*="search-result"]');
+
+  const cards = await page.evaluate(() => {
+    const results = [];
+
+    const items = document.querySelectorAll('div[class*="search-result"]');
+
+    items.forEach((el) => {
+      const nameEl = el.querySelector('a[href*="/product/"]');
+      const priceEl = el.querySelector('[class*="price"]');
+
+      const name = nameEl?.innerText?.trim();
+      let price = priceEl?.innerText?.trim();
+
+      if (name && price) {
+        price = parseFloat(price.replace("$", "").replace(",", ""));
+
+        results.push({
+          name,
+          price,
+          updatedAt: new Date().toISOString(),
+        });
+      }
+    });
+
+    return results;
+  });
+
+  // 👉 convertir a CSV
+  const csv = [
+    ["name", "price", "updatedAt"],
+    ...cards.map(c => [c.name, c.price, c.updatedAt])
+  ]
+    .map(row => row.join(","))
+    .join("\n");
+
+  fs.writeFileSync("cards.csv", csv, "utf8");
+
+  console.log(`Cartas guardadas: ${cards.length}`);
+
+  await browser.close();
+})();
