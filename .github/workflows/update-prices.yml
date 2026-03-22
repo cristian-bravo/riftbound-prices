@@ -51,7 +51,6 @@ const URL =
 
       return results;
     });
-
     const csv = [
       ["name", "price", "updatedAt"],
       ...cards.map((c) => [c.name, c.price, c.updatedAt]),
