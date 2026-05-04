@@ -1,741 +1,1051 @@
 name,set,rarity,number,listings,price,marketPrice,availability,updatedAt
-Defy,Origins,Common,#045/298,233,1.15,1.35,Available,01:30:18 03/05/2026
-Hidden Blade,Origins,Common,#213/298,191,0.75,0.95,Available,01:30:18 03/05/2026
-Discipline,Origins,Uncommon,#058/298,161,0.75,0.95,Available,01:30:18 03/05/2026
-Charm,Origins,Common,#043/298,208,0.5,0.57,Available,01:30:18 03/05/2026
-Cull the Weak,Origins,Common,#209/298,282,0.2,0.35,Available,01:30:18 03/05/2026
-En Garde,Origins,Common,#046/298,611,0.08,0.23,Available,01:30:18 03/05/2026
-Tideturner,Origins,Rare,#199/298,91,0.98,1.83,Available,01:30:18 03/05/2026
-Stacked Deck,Origins,Uncommon,#183/298,263,3.19,3.47,Available,01:30:18 03/05/2026
-Noxus Hopeful,Origins,Common,#012/298,309,0.27,0.33,Available,01:30:18 03/05/2026
-Arise!,Spiritforged,Epic,#198/221,102,15,16.33,Available,01:30:18 03/05/2026
-Salvage,Origins,Uncommon,#224/298,132,3.98,4.42,Available,01:30:18 03/05/2026
-Guardian Angel,Spiritforged,Rare,#051/221,321,1.08,1.19,Available,01:30:18 03/05/2026
-Rebuke,Origins,Common,#172/298,261,0.4,0.46,Available,01:30:18 03/05/2026
-Karthus - Eternal,Origins,Rare,#236/298,110,2.99,5.4,Available,01:30:18 03/05/2026
-Bellows Breath,Spiritforged,Rare,#080/221,244,0.94,0.94,Available,01:30:18 03/05/2026
-Ferrous Forerunner,Spiritforged,Rare,#021/221,262,0.5,0.8,Available,01:30:18 03/05/2026
-Stupefy,Origins,Common,#095/298,508,0.15,0.23,Available,01:30:18 03/05/2026
-Singularity,Origins,Uncommon,#105/298,187,1,2.36,Available,01:30:18 03/05/2026
-Ride The Wind,Origins,Common,#173/298,276,0.49,0.56,Available,01:30:18 03/05/2026
-Hard Bargain,Spiritforged,Uncommon,#136/221,408,0.25,0.39,Available,01:30:18 03/05/2026
-Not So Fast,Spiritforged,Uncommon,#045/221,280,0.74,0.94,Available,01:30:18 03/05/2026
-Deathgrip,Spiritforged,Uncommon,#163/221,452,0.17,0.21,Available,01:30:18 03/05/2026
-Fizz - Trickster,Spiritforged,Rare,#140/221,295,0.45,0.72,Available,01:30:18 03/05/2026
-Plundering Poro,Spiritforged,Common,#069/221,780,0.03,0.09,Available,01:30:18 03/05/2026
-Thousand-Tailed Watcher,Origins,Rare,#116/298,141,18.49,23.05,Available,01:30:18 03/05/2026
-First Mate,Origins,Common,#132/298,434,0.08,0.2,Available,01:30:18 03/05/2026
-Gust,Origins,Common,#169/298,785,0.08,0.17,Available,01:30:18 03/05/2026
-Sabotage,Origins,Rare,#156/298,150,6.98,7.11,Available,01:30:18 03/05/2026
-Challenge,Origins,Common,#128/298,480,0.08,0.23,Available,01:30:18 03/05/2026
-Falling Star,Origins,Rare,#029/298,144,1.99,4.44,Available,01:30:18 03/05/2026
-Flash,Origins: Proving Grounds,Common,#011/024,79,3,4.87,Available,01:30:18 03/05/2026
-Brynhir Thundersong,Origins,Rare,#026/298,191,4,4.5,Available,01:30:18 03/05/2026
-Sand Soldier // Buff,Spiritforged,Common,#T02,321,0.01,0.13,Available,01:30:18 03/05/2026
-Calm Rune,Spiritforged,Common,#R02,280,0.08,0.11,Available,01:30:18 03/05/2026
-Mindsplitter,Origins,Rare,#192/298,192,3.7,4.23,Available,01:30:18 03/05/2026
-Stellacorn Herder,Spiritforged,Uncommon,#048/221,323,0.39,0.61,Available,01:30:18 03/05/2026
-Order Rune,Spiritforged,Common,#R06,293,0.06,0.11,Available,01:30:18 03/05/2026
-Lonely Poro,Spiritforged,Common,#036/221,803,0.08,0.15,Available,01:30:18 03/05/2026
-Darius - Trifarian,Origins,Rare,#027/298,170,2.45,2.87,Available,01:30:18 03/05/2026
-Akshan - Mischievous,Spiritforged,Rare,#109/221,324,0.5,0.75,Available,01:30:18 03/05/2026
-Rengar - Pouncing,Spiritforged,Rare,#025/221,396,0.2,0.32,Available,01:30:18 03/05/2026
-Honest Broker,Spiritforged,Common,#155/221,765,0.06,0.12,Available,01:30:18 03/05/2026
-B.F. Sword,Spiritforged,Uncommon,#161/221,512,0.1,0.24,Available,01:30:18 03/05/2026
-Facebreaker,Origins,Uncommon,#220/298,431,0.15,0.22,Available,01:30:18 03/05/2026
-Wind Wall,Origins,Uncommon,#064/298,206,0.79,1.46,Available,01:30:18 03/05/2026
-Imperial Decree,Origins,Uncommon,#221/298,193,0.91,1.84,Available,01:30:18 03/05/2026
-Zhonya's Hourglass,Origins,Rare,#077/298,166,5.49,7.54,Available,01:30:18 03/05/2026
-Sona - Harmonious,Origins,Rare,#073/298,76,3.5,4.26,Available,01:30:18 03/05/2026
-Defiant Dance,Spiritforged,Epic,#196/221,238,7.5,13.35,Available,01:30:18 03/05/2026
-Fiora - Victorious,Origins,Rare,#232/298,140,2.6,3.09,Available,01:30:18 03/05/2026
-Rek'Sai - Breacher,Spiritforged,Epic,#029/221,39,8.99,8.54,Available,01:30:18 03/05/2026
-Brutalizer,Spiritforged,Uncommon,#042/221,498,0.16,0.26,Available,01:30:18 03/05/2026
-Retreat,Origins,Uncommon,#104/298,309,0.93,1.39,Available,01:30:18 03/05/2026
-Spinning Axe,Spiritforged,Epic,#186/221,269,3.18,3.82,Available,01:30:18 03/05/2026
-Ravenbloom Student,Origins,Uncommon,#103/298,593,0.08,0.26,Available,01:30:18 03/05/2026
-Arcane Shift,Spiritforged,Epic,#200/221,279,1.7,2.11,Available,01:30:18 03/05/2026
-Sneaky Deckhand,Origins,Common,#176/298,407,0.19,0.22,Available,01:30:18 03/05/2026
-Desert's Call,Spiritforged,Common,#031/221,827,0.05,0.12,Available,01:30:18 03/05/2026
-Vex - Cheerless,Spiritforged,Rare,#146/221,329,0.63,0.79,Available,01:30:18 03/05/2026
-Soaring Scout,Origins,Common,#216/298,622,0.06,0.15,Available,01:30:18 03/05/2026
-Switcheroo,Spiritforged,Rare,#145/221,482,0.25,0.31,Available,01:30:18 03/05/2026
-Unyielding Spirit,Origins,Uncommon,#145/298,148,0.5,1.11,Available,01:30:18 03/05/2026
-Ruin Runner,Spiritforged,Uncommon,#105/221,484,0.2,0.24,Available,01:30:18 03/05/2026
-Riposte,Spiritforged,Epic,#206/221,185,1.69,2.18,Available,01:30:18 03/05/2026
-Trinity Force,Spiritforged,Rare,#115/221,433,0.21,0.28,Available,01:30:18 03/05/2026
-Void Rush,Spiritforged,Epic,#188/221,182,3,2.77,Available,01:30:18 03/05/2026
-Recruit (273) // Buff,Origins,Common,#273/298,327,0.1,0.2,Available,01:30:18 03/05/2026
-Sea Monkey,Spiritforged,Common,#098/221,911,0.01,0.06,Available,01:30:18 03/05/2026
-Watchful Sentry,Origins,Common,#096/298,589,0.07,0.19,Available,01:30:18 03/05/2026
-Card Sharp,Spiritforged,Rare,#081/221,408,0.24,0.25,Available,01:30:18 03/05/2026
-Punch First,Spiritforged,Common,#097/221,747,0.08,0.13,Available,01:30:18 03/05/2026
-Find Your Center,Origins,Common,#047/298,474,0.08,0.21,Available,01:30:18 03/05/2026
-Glasc Mixologist,Spiritforged,Uncommon,#165/221,457,0.09,0.19,Available,01:30:18 03/05/2026
-Soraka - Wanderer,Spiritforged,Rare,#173/221,551,0.1,0.23,Available,01:30:18 03/05/2026
-Chaos Rune,Spiritforged,Common,#R05,344,0.04,0.07,Available,01:30:18 03/05/2026
-Xin Zhao - Vigilant,Spiritforged,Rare,#176/221,362,0.25,0.4,Available,01:30:18 03/05/2026
-Thermo Beam,Origins,Uncommon,#022/298,186,0.41,0.62,Available,01:30:18 03/05/2026
-Piercing Light,Spiritforged,Rare,#023/221,439,0.2,0.34,Available,01:30:18 03/05/2026
-Gold // Buff,Spiritforged,Common,#T03,314,0.09,0.13,Available,01:30:18 03/05/2026
-Rek'Sai - Breacher (Alternate Art),Spiritforged,Showcase,#029a/221,31,9.99,11.76,Available,01:30:18 03/05/2026
-Wages of Pain,Spiritforged,Common,#070/221,698,0.07,0.13,Available,01:30:18 03/05/2026
-Last Rites,Spiritforged,Epic,#150/221,195,11.45,12.46,Available,01:30:18 03/05/2026
-Lucian - Merciless,Spiritforged,Rare,#113/221,408,0.25,0.29,Available,01:30:18 03/05/2026
-Order Rune,Origins,Common,#214/298,363,0.14,0.18,Available,01:30:18 03/05/2026
-Rhasa the Sunderer,Origins,Rare,#195/298,267,0.65,0.81,Available,01:30:18 03/05/2026
-Nocturne - Horrifying,Origins,Rare,#194/298,204,0.95,1.34,Available,01:30:18 03/05/2026
-Pouty Poro,Origins,Common,#013/298,735,0.04,0.19,Available,01:30:18 03/05/2026
-Daring Poro,Origins,Common,#210/298,937,0.06,0.12,Available,01:30:18 03/05/2026
-Faithful Manufactor,Origins,Common,#211/298,508,0.1,0.22,Available,01:30:18 03/05/2026
-Boots of Swiftness,Spiritforged,Uncommon,#133/221,562,0.05,0.2,Available,01:30:18 03/05/2026
-Qiyana - Victorious,Origins,Rare,#155/298,174,1.95,2.27,Available,01:30:18 03/05/2026
-Lecturing Yordle,Origins,Common,#087/298,475,0.08,0.25,Available,01:30:18 03/05/2026
-Spectral Matron,Origins,Uncommon,#226/298,181,0.4,0.47,Available,01:30:18 03/05/2026
-Body Rune,Spiritforged,Common,#R04,363,0.01,0.06,Available,01:30:18 03/05/2026
-Vanguard Armory,Spiritforged,Uncommon,#168/221,531,0.2,0.26,Available,01:30:18 03/05/2026
-Relentless Pursuit,Spiritforged,Epic,#184/221,238,1.96,2.52,Available,01:30:18 03/05/2026
-Stalwart Poro,Origins,Common,#052/298,745,0.05,0.13,Available,01:30:18 03/05/2026
-Catalyst of Aeons,Origins,Uncommon,#138/298,190,0.5,0.6,Available,01:30:18 03/05/2026
-Harnessed Dragon,Origins,Rare,#234/298,126,0.9,1.17,Available,01:30:18 03/05/2026
-Jayce - Man of Progress,Spiritforged,Rare,#084/221,422,0.13,0.33,Available,01:30:18 03/05/2026
-Irelia - Fervent,Spiritforged,Epic,#057/221,156,5.99,7.5,Available,01:30:18 03/05/2026
-Mind Rune,Spiritforged,Common,#R03,344,0.01,0.06,Available,01:30:18 03/05/2026
-Ezreal - Prodigy,Spiritforged,Epic,#149/221,270,10.99,12.26,Available,01:30:18 03/05/2026
-Tryndamere - Barbarian,Riftbound Organized Play Promotional Cards,Promo,#034/298,54,0.98,1.15,Available,01:30:18 03/05/2026
-Hostile Takeover,Spiritforged,Epic,#202/221,223,0.94,1.19,Available,01:30:18 03/05/2026
-Fury Rune (Alternate Art),Spiritforged,Showcase,#R01a,111,4.59,5.96,Available,01:30:18 03/05/2026
-Sprite Call,Origins,Common,#094/298,706,0.05,0.13,Available,01:30:18 03/05/2026
-Smoke Screen,Origins,Common,#093/298,571,0.1,0.19,Available,01:30:18 03/05/2026
-Traveling Merchant,Origins,Uncommon,#185/298,579,0.1,0.19,Available,01:30:18 03/05/2026
-Call to Glory,Origins,Common,#207/298,459,0.1,0.22,Available,01:30:18 03/05/2026
-Cleave,Origins,Common,#004/298,786,0.09,0.14,Available,01:30:18 03/05/2026
-Chaos Rune,Origins,Common,#166/298,360,0.05,0.16,Available,01:30:18 03/05/2026
-Seal of Discord,Origins,Epic,#204/298,187,24.6,28.68,Available,01:30:18 03/05/2026
-Windsinger,Spiritforged,Uncommon,#138/221,576,0.1,0.13,Available,01:30:18 03/05/2026
-Consult the Past,Origins,Common,#083/298,632,0.07,0.19,Available,01:30:18 03/05/2026
-Edge of Night,Spiritforged,Rare,#139/221,599,0.1,0.28,Available,01:30:18 03/05/2026
-Unchecked Power,Origins,Epic,#123/298,38,35,37.26,Available,01:30:18 03/05/2026
-Azir - Emperor of the Sands,Spiritforged,Rare,#197/221,586,0.1,0.13,Available,01:30:18 03/05/2026
-Order Rune (Alternate Art),Spiritforged,Showcase,#R06a,85,7.23,8.06,Available,01:30:18 03/05/2026
-Mind Rune (Alternate Art),Spiritforged,Showcase,#R03a,103,6.67,7.43,Available,01:30:18 03/05/2026
-Undertitan,Spiritforged,Rare,#175/221,549,0.15,0.26,Available,01:30:18 03/05/2026
-Calm Rune,Origins,Common,#042/298,282,0.1,0.16,Available,01:30:18 03/05/2026
-Downwell,Spiritforged,Epic,#147/221,149,3.49,4.3,Available,01:30:18 03/05/2026
-Here to Help,Spiritforged,Rare,#111/221,541,0.14,0.14,Available,01:30:18 03/05/2026
-Vanguard Captain,Origins,Common,#218/298,632,0.1,0.21,Available,01:30:18 03/05/2026
-Confront,Origins,Common,#129/298,851,0.04,0.13,Available,01:30:18 03/05/2026
-Sacred Shears,Spiritforged,Rare,#172/221,584,0.1,0.19,Available,01:30:18 03/05/2026
-Pit Rookie,Origins,Common,#136/298,664,0.06,0.16,Available,01:30:18 03/05/2026
-Hextech Ray,Origins,Common,#009/298,546,0.08,0.21,Available,01:30:18 03/05/2026
-Long Sword,Spiritforged,Rare,#022/221,492,0.08,0.23,Available,01:30:18 03/05/2026
-Progress Day,Origins,Rare,#114/298,89,0.9,1.12,Available,01:30:18 03/05/2026
-Blitzcrank - Impassive,Origins,Rare,#067/298,145,0.78,0.96,Available,01:30:18 03/05/2026
-Rek'sai - Void Burrower,Spiritforged,Rare,#187/221,659,0.08,0.12,Available,01:30:18 03/05/2026
-Ekko - Recurrent,Origins,Rare,#110/298,132,0.74,1.07,Available,01:30:18 03/05/2026
-Mind Rune,Origins,Common,#089/298,288,0.11,0.16,Available,01:30:18 03/05/2026
-Acceptable Losses,Origins,Uncommon,#179/298,307,0.18,0.28,Available,01:30:18 03/05/2026
-Trifarian War Camp,Origins,Uncommon,#294/298,308,0.25,0.27,Available,01:30:18 03/05/2026
-Heart of Dark Ice,Spiritforged,Rare,#052/221,589,0.05,0.22,Available,01:30:18 03/05/2026
-Overzealous Fan,Spiritforged,Common,#128/221,917,0.01,0.1,Available,01:30:18 03/05/2026
-Baited Hook,Origins,Epic,#242/298,90,28.95,39.57,Available,01:30:18 03/05/2026
-Adaptatron,Origins,Uncommon,#056/298,176,0.25,0.55,Available,01:30:18 03/05/2026
-Mystic Poro,Origins,Common,#171/298,836,0.04,0.09,Available,01:30:18 03/05/2026
-Janna - Savior,Spiritforged,Rare,#053/221,449,0.22,0.42,Available,01:30:18 03/05/2026
-Eye of the Herald,Spiritforged,Common,#153/221,878,0.02,0.05,Available,01:30:18 03/05/2026
-Counter Strike,Spiritforged,Epic,#194/221,315,1.69,2.23,Available,01:30:18 03/05/2026
-Skyfall of Areion,Spiritforged,Epic,#030/221,106,8.89,10.49,Available,01:30:18 03/05/2026
-Seal of Insight,Origins,Epic,#120/298,154,14.95,16.28,Available,01:30:18 03/05/2026
-Calm Rune (Alternate Art),Spiritforged,Showcase,#R02a,108,6.01,7.45,Available,01:30:18 03/05/2026
-Veteran Poro,Spiritforged,Common,#099/221,920,0.01,0.08,Available,01:30:18 03/05/2026
-Azir - Sovereign,Spiritforged,Epic,#177/221,180,2.28,2.72,Available,01:30:18 03/05/2026
-Flurry of Blades,Origins,Common,#133/298,898,0.01,0.11,Available,01:30:18 03/05/2026
-Chaos Rune (Alternate Art),Spiritforged,Showcase,#R05a,105,6.99,8.28,Available,01:30:18 03/05/2026
-Guards!,Spiritforged,Common,#154/221,891,0.05,0.06,Available,01:30:18 03/05/2026
-Body Rune (Alternate Art),Spiritforged,Showcase,#R04a,143,5.28,4.82,Available,01:30:18 03/05/2026
-Dazzling Aurora,Origins,Epic,#160/298,96,51.45,67.9,Available,01:30:18 03/05/2026
-Boneshiver,Spiritforged,Epic,#118/221,187,9.5,12.68,Available,01:30:18 03/05/2026
-Fury Rune,Spiritforged,Common,#R01,370,0.04,0.06,Available,01:30:18 03/05/2026
-Draven - Glorious Executioner,Spiritforged,Rare,#185/221,695,0.03,0.15,Available,01:30:18 03/05/2026
-Thwonk!,Spiritforged,Common,#040/221,866,0.01,0.12,Available,01:30:18 03/05/2026
-Kai'Sa - Survivor,Origins,Epic,#039/298,99,58.95,68.32,Available,01:30:18 03/05/2026
-Irelia - Blade Dancer,Spiritforged,Rare,#195/221,631,0.08,0.22,Available,01:30:18 03/05/2026
-The Arena's Greatest,Origins,Uncommon,#290/298,236,0.1,0.32,Available,01:30:18 03/05/2026
-Doran's Shield,Spiritforged,Common,#033/221,907,0.05,0.06,Available,01:30:18 03/05/2026
-Seal of Strength,Origins,Epic,#163/298,140,9.98,15.26,Available,01:30:18 03/05/2026
-Treasure Hunter,Spiritforged,Common,#130/221,896,0.04,0.1,Available,01:30:18 03/05/2026
-Ahri - Nine-Tailed Fox,Origins,Rare,#255/298,144,0.99,1.11,Available,01:30:18 03/05/2026
-Seal of Focus,Origins,Epic,#081/298,144,16.98,21.99,Available,01:30:18 03/05/2026
-Mobilize,Origins,Common,#134/298,689,0.04,0.11,Available,01:30:18 03/05/2026
-Recruit (272) // Buff,Origins,Common,#272/298,396,0.03,0.13,Available,01:30:18 03/05/2026
-Meditation,Origins,Common,#048/298,788,0.02,0.13,Available,01:30:18 03/05/2026
-Treasure Trove,Origins,Uncommon,#186/298,231,0.25,0.29,Available,01:30:18 03/05/2026
-Showstopper,Origins,Epic,#270/298,121,10,16.77,Available,01:30:18 03/05/2026
-Fury Rune,Origins,Common,#007/298,452,0.03,0.18,Available,01:30:18 03/05/2026
-Emperor's Divide,Spiritforged,Uncommon,#043/221,646,0.09,0.19,Available,01:30:18 03/05/2026
-Draven - Audacious,Spiritforged,Epic,#148/221,197,3.59,4.19,Available,01:30:18 03/05/2026
-Seal of Unity,Origins,Epic,#245/298,122,27.75,30.35,Available,01:30:18 03/05/2026
-On the Hunt,Spiritforged,Epic,#204/221,268,0.5,0.71,Available,01:30:18 03/05/2026
-Ahri - Alluring,Origins,Rare,#066/298,157,0.87,0.9,Available,01:30:18 03/05/2026
-Dr. Mundo - Expert,Origins,Rare,#109/298,234,0.54,0.75,Available,01:30:18 03/05/2026
-Svellsongur,Spiritforged,Epic,#059/221,150,7.99,15.65,Available,01:30:18 03/05/2026
-Sprite Mother,Origins,Uncommon,#106/298,410,0.38,0.63,Available,01:30:18 03/05/2026
-Shen - Kinkou,Origins,Rare,#241/298,167,0.98,1.38,Available,01:30:18 03/05/2026
-Fury Rune,Riftbound Organized Play Promotional Cards,Promo,#007b/298,105,3.63,4.25,Available,01:30:18 03/05/2026
-Targon's Peak,Origins,Uncommon,#289/298,466,0.1,0.21,Available,01:30:18 03/05/2026
-Rally the Troops,Spiritforged,Uncommon,#166/221,626,0.1,0.16,Available,01:30:18 03/05/2026
-Danger Zone,Spiritforged,Epic,#182/221,304,0.2,0.5,Available,01:30:18 03/05/2026
-Blade of the Ruined King,Spiritforged,Epic,#178/221,134,2.99,3.51,Available,01:30:18 03/05/2026
-Vilemaw's Lair,Origins,Uncommon,#295/298,175,0.19,0.36,Available,01:30:18 03/05/2026
-Sett - Brawler,Origins,Epic,#164/298,124,21.99,26.15,Available,01:30:18 03/05/2026
-Tasty Faefolk,Origins,Rare,#075/298,270,0.74,1.03,Available,01:30:18 03/05/2026
-Tianna Crownguard,Spiritforged,Epic,#060/221,177,2.73,2.76,Available,01:30:18 03/05/2026
-Rocket Barrage,Spiritforged,Uncommon,#077/221,535,0.09,0.14,Available,01:30:18 03/05/2026
-Bullet Time,Origins,Epic,#268/298,70,13,15.36,Available,01:30:18 03/05/2026
-Recruit (271) // Buff,Origins,Common,#271/298,379,0.04,0.14,Available,01:30:18 03/05/2026
-Grand Strategem,Origins,Rare,#233/298,216,0.45,0.86,Available,01:30:18 03/05/2026
-Aspirant's Climb,Origins,Uncommon,#276/298,307,0.13,0.26,Available,01:30:18 03/05/2026
-Chaos Rune,Riftbound Organized Play Promotional Cards,Promo,#166b/298,76,7.03,7.29,Available,01:30:18 03/05/2026
-Seal of Rage,Origins,Epic,#040/298,126,15.99,20.46,Available,01:30:18 03/05/2026
-Sprite (274) // Buff,Origins,Common,#274/298,388,0.03,0.1,Available,01:30:18 03/05/2026
-Falling Comet,Origins,Common,#085/298,682,0.08,0.17,Available,01:30:18 03/05/2026
-Sterak's Gage,Spiritforged,Rare,#056/221,578,0.1,0.22,Available,01:30:18 03/05/2026
-Kai'Sa - Evolutionary,Origins,Rare,#112/298,143,0.49,0.62,Available,01:30:18 03/05/2026
-Mind Rune,Riftbound Organized Play Promotional Cards,Promo,#089b/298,81,5.4,5.84,Available,01:30:18 03/05/2026
-Calm Rune,Riftbound Organized Play Promotional Cards,Promo,#042b/298,86,4,3.97,Available,01:30:18 03/05/2026
-Teemo - Strategist,Origins,Epic,#121/298,82,2.8,4.17,Available,01:30:18 03/05/2026
-Block,Origins,Uncommon,#057/298,391,0.08,0.26,Available,01:30:18 03/05/2026
-Deadbloom Predator,Origins,Epic,#161/298,148,22.98,26.84,Available,01:30:18 03/05/2026
-Vi - Destructive,Origins,Rare,#036/298,244,0.5,0.74,Available,01:30:18 03/05/2026
-Teemo - Scout,Riftbound Promotional Cards,Promo,#197/298,51,2.86,2.54,Available,01:30:18 03/05/2026
-Blood Money,Spiritforged,Uncommon,#162/221,656,0.05,0.14,Available,01:30:18 03/05/2026
-Body Rune,Riftbound Organized Play Promotional Cards,Promo,#126b/298,94,3.45,3.01,Available,01:30:18 03/05/2026
-Premonition,Spiritforged,Epic,#087/221,222,1.97,2.59,Available,01:30:18 03/05/2026
-Body Rune,Origins,Common,#126/298,425,0.02,0.15,Available,01:30:18 03/05/2026
-Frigid Touch,Spiritforged,Common,#066/221,871,0.02,0.07,Available,01:30:18 03/05/2026
-Fiora - Grand Duelist,Spiritforged,Rare,#205/221,684,0.04,0.15,Available,01:30:18 03/05/2026
-Ornn - Forge God,Spiritforged,Rare,#085/221,455,0.19,0.26,Available,01:30:18 03/05/2026
-Drag Under,Spiritforged,Uncommon,#164/221,591,0.05,0.17,Available,01:30:18 03/05/2026
-Kadregrin the Infernal,Origins,Epic,#038/298,81,13,13.35,Available,01:30:18 03/05/2026
-Shakedown,Origins,Rare,#033/298,231,0.3,0.48,Available,01:30:18 03/05/2026
-Order Rune,Riftbound Organized Play Promotional Cards,Promo,#214b/298,72,2.01,5.35,Available,01:30:18 03/05/2026
-Yone - Blademaster,Spiritforged,Rare,#116/221,613,0.1,0.18,Available,01:30:18 03/05/2026
-Machine Evangel,Origins,Rare,#239/298,228,0.29,0.62,Available,01:30:18 03/05/2026
-Party Favors,Origins,Rare,#071/298,343,0.1,0.33,Available,01:30:18 03/05/2026
-Blood Rush,Spiritforged,Common,#003/221,951,0.04,0.08,Available,01:30:18 03/05/2026
-Herald of Scales,Origins,Uncommon,#140/298,343,0.08,0.25,Available,01:30:18 03/05/2026
-Called Shot,Spiritforged,Common,#122/221,920,0.01,0.07,Available,01:30:18 03/05/2026
-Chaos Rune (Alternate Art),Origins,Showcase,#166a/298,98,6.68,8.83,Available,01:30:18 03/05/2026
-Factory Recall,Spiritforged,Uncommon,#135/221,647,0.05,0.12,Available,01:30:18 03/05/2026
-Ancient Henge,Spiritforged,Epic,#117/221,148,0.95,0.95,Available,01:30:18 03/05/2026
-Zaun Warrens,Origins,Uncommon,#298/298,396,0.1,0.21,Available,01:30:18 03/05/2026
-Dunebreaker,Spiritforged,Epic,#027/221,182,0.99,1.74,Available,01:30:18 03/05/2026
-Irelia - Fervent (Alternate Art),Spiritforged,Showcase,#057a/221,174,6.59,10.14,Available,01:30:18 03/05/2026
-The Harrowing,Origins,Rare,#198/298,245,0.24,0.36,Available,01:30:18 03/05/2026
-Corina Veraza,Spiritforged,Epic,#179/221,141,1.72,2,Available,01:30:18 03/05/2026
-Mask of Foresight,Origins,Uncommon,#060/298,400,0.08,0.22,Available,01:30:18 03/05/2026
-Miss Fortune - Captain,Origins,Epic,#162/298,99,4,8.14,Available,01:30:18 03/05/2026
-Forgefire Cape,Spiritforged,Epic,#190/221,409,0.2,0.35,Available,01:30:18 03/05/2026
-King's Edict,Origins,Rare,#237/298,337,0.1,0.26,Available,01:30:18 03/05/2026
-Time Warp,Origins,Epic,#122/298,109,54.99,60.88,Available,01:30:18 03/05/2026
-Whiteflame Protector,Origins,Epic,#082/298,155,6.95,10.05,Available,01:30:18 03/05/2026
-Void Gate,Origins,Uncommon,#296/298,321,0.1,0.25,Available,01:30:18 03/05/2026
-Pit Crew,Origins,Common,#091/298,677,0.02,0.12,Available,01:30:18 03/05/2026
-Grove of the God-Willow,Origins,Uncommon,#280/298,397,0.1,0.27,Available,01:30:18 03/05/2026
-Leona - Determined,Origins,Rare,#238/298,236,0.43,0.68,Available,01:30:18 03/05/2026
-Azir - Ascendant,Spiritforged,Rare,#050/221,548,0.1,0.22,Available,01:30:18 03/05/2026
-Viktor - Leader,Riftbound Organized Play Promotional Cards,Promo,#246/298,50,8.65,12.14,Available,01:30:18 03/05/2026
-Void Seeker,Origins,Uncommon,#024/298,589,0.13,0.22,Available,01:30:18 03/05/2026
-The Candlelit Sanctum,Origins,Uncommon,#291/298,319,0.1,0.26,Available,01:30:18 03/05/2026
-Fury Rune (Alternate Art),Origins,Showcase,#007a/298,111,4.77,6.76,Available,01:30:18 03/05/2026
-Pack of Wonders,Origins,Uncommon,#181/298,355,0.14,0.18,Available,01:30:18 03/05/2026
-Fiora - Worthy,Spiritforged,Epic,#180/221,286,0.3,0.42,Available,01:30:18 03/05/2026
-Renata Glasc - Industrialist,Spiritforged,Rare,#171/221,526,0.15,0.22,Available,01:30:18 03/05/2026
-Draven - Showboat,Origins,Rare,#028/298,231,0.68,0.87,Available,01:30:18 03/05/2026
-Jax - Unrelenting,Spiritforged,Epic,#119/221,203,0.7,1.17,Available,01:30:18 03/05/2026
-Rabadon's Deathcrown,Spiritforged,Epic,#191/221,394,0.38,0.38,Available,01:30:18 03/05/2026
-Lee Sin - Ascetic,Riftbound Organized Play Promotional Cards,Promo,#078/298,52,7.57,9.14,Available,01:30:18 03/05/2026
-World Atlas,Spiritforged,Rare,#086/221,612,0.1,0.21,Available,01:30:18 03/05/2026
-Riptide Rex,Riftbound Organized Play Promotional Cards,Promo,#092/298,133,0.3,0.32,Available,01:30:18 03/05/2026
-Warwick - Hunter,Origins,Rare,#159/298,237,0.49,0.71,Available,01:30:18 03/05/2026
-Miss Fortune - Buccaneer,Origins,Rare,#193/298,279,0.2,0.43,Available,01:30:18 03/05/2026
-Anivia - Primal,Origins,Rare,#148/298,205,0.42,0.58,Available,01:30:18 03/05/2026
-Azir - Sovereign (Alternate Art),Spiritforged,Showcase,#177a/221,145,2.29,2.99,Available,01:30:18 03/05/2026
-Twisted Fate - Gambler,Origins,Rare,#200/298,289,0.19,0.34,Available,01:30:18 03/05/2026
-Battering Ram,Spiritforged,Uncommon,#012/221,614,0.05,0.14,Available,01:30:18 03/05/2026
-The Zero Drive,Spiritforged,Epic,#090/221,154,1.99,2.35,Available,01:30:18 03/05/2026
-Garbage Grabber,Origins,Uncommon,#099/298,457,0.08,0.18,Available,01:30:18 03/05/2026
-Spirit Wheel,Spiritforged,Rare,#144/221,637,0.1,0.13,Available,01:30:18 03/05/2026
-Immortal Phoenix,Origins,Epic,#037/298,118,16,19.93,Available,01:30:18 03/05/2026
-Sivir - Mercenary,Spiritforged,Rare,#143/221,554,0.05,0.21,Available,01:30:18 03/05/2026
-Void Hatchling,Spiritforged,Uncommon,#018/221,664,0.06,0.11,Available,01:30:18 03/05/2026
-Ezreal - Prodigy (Alternate Art),Spiritforged,Showcase,#149a/221,220,12,14.73,Available,01:30:18 03/05/2026
-Disarming Rake,Spiritforged,Common,#032/221,836,0.01,0.06,Available,01:30:18 03/05/2026
-Siphon Power,Origins,Epic,#266/298,187,1.88,2.36,Available,01:30:18 03/05/2026
-Vengeance,Origins,Uncommon,#229/298,442,0.2,0.27,Available,01:30:18 03/05/2026
-Rumble - Scrapper,Spiritforged,Epic,#089/221,169,0.49,0.76,Available,01:30:18 03/05/2026
-Clockwork Keeper,Origins,Common,#044/298,818,0.09,0.18,Available,01:30:18 03/05/2026
-Irelia - Graceful (Alternate Art),Spiritforged,Showcase,#141a/221,135,0.95,1.51,Available,01:30:18 03/05/2026
-Shurelya's Requiem,Spiritforged,Epic,#192/221,381,0.27,0.38,Available,01:30:18 03/05/2026
-Rell - Magnetic,Spiritforged,Rare,#024/221,592,0.1,0.17,Available,01:30:18 03/05/2026
-Seat of Power,Spiritforged,Uncommon,#217/221,688,0.02,0.08,Available,01:30:18 03/05/2026
-Poro Snax,Spiritforged,Uncommon,#046/221,628,0.04,0.14,Available,01:30:18 03/05/2026
-Cannon Barrage,Origins,Common,#127/298,746,0.05,0.13,Available,01:30:18 03/05/2026
-Soulgorger,Origins,Rare,#196/298,242,0.19,0.48,Available,01:30:18 03/05/2026
-Renata Glasc - Mastermind,Spiritforged,Epic,#088/221,252,0.49,0.96,Available,01:30:18 03/05/2026
-Unsung Hero,Spiritforged,Uncommon,#167/221,660,0.1,0.16,Available,01:30:18 03/05/2026
-Viktor - Innovator,Origins,Rare,#117/298,369,0.18,0.24,Available,01:30:18 03/05/2026
-Kog'Maw - Caustic,Origins,Rare,#190/298,284,0.23,0.36,Available,01:30:18 03/05/2026
-Windswept Hillock,Origins,Uncommon,#297/298,364,0.1,0.24,Available,01:30:18 03/05/2026
-Vayne - Hunter,Origins,Rare,#035/298,218,0.3,0.65,Available,01:30:18 03/05/2026
-Eager Apprentice,Origins,Common,#084/298,891,0.01,0.09,Available,01:30:18 03/05/2026
-Aphelios - Exalted,Spiritforged,Rare,#049/221,474,0.15,0.29,Available,01:30:18 03/05/2026
-Invert Timelines,Origins,Epic,#201/298,106,10.99,20.01,Available,01:30:18 03/05/2026
-Zenith Blade,Origins,Epic,#262/298,108,7.99,16,Available,01:30:18 03/05/2026
-Lucian - Gunslinger,Spiritforged,Epic,#028/221,229,0.75,0.8,Available,01:30:18 03/05/2026
-Stormbringer,Origins,Epic,#250/298,99,6.26,7.93,Available,01:30:18 03/05/2026
-Guerilla Warfare,Origins,Epic,#264/298,153,3.5,5.16,Available,01:30:18 03/05/2026
-Sivir - Ambitious,Spiritforged,Epic,#120/221,258,0.37,0.66,Available,01:30:18 03/05/2026
-Mech // Buff,Spiritforged,Common,#T01,405,0.01,0.06,Available,01:30:18 03/05/2026
-Fiora - Peerless,Spiritforged,Rare,#110/221,643,0.03,0.15,Available,01:30:18 03/05/2026
-Jinx - Demolitionist,Origins,Rare,#030/298,444,0.19,0.23,Available,01:30:18 03/05/2026
-Sunken Temple,Spiritforged,Uncommon,#218/221,623,0.03,0.12,Available,01:30:18 03/05/2026
-Lucian - Gunslinger (Alternate Art),Spiritforged,Showcase,#028a/221,178,0.9,0.85,Available,01:30:18 03/05/2026
-Volibear - Imposing,Origins,Rare,#158/298,243,0.24,0.46,Available,01:30:18 03/05/2026
-Yasuo - Remorseful,Origins,Rare,#076/298,244,0.33,0.46,Available,01:30:18 03/05/2026
-Ravenbloom Conservatory,Spiritforged,Uncommon,#215/221,679,0.02,0.14,Available,01:30:18 03/05/2026
-Get Excited!,Origins,Common,#008/298,832,0.01,0.12,Available,01:30:18 03/05/2026
-Fox-Fire,Origins,Epic,#256/298,127,3,4.08,Available,01:30:18 03/05/2026
-Gem Jammer,Spiritforged,Common,#007/221,938,0.01,0.07,Available,01:30:18 03/05/2026
-Rumble - Hotheaded,Spiritforged,Rare,#026/221,618,0.05,0.13,Available,01:30:18 03/05/2026
-Jinx - Rebel,Riftbound Organized Play Promotional Cards,Promo,#202/298,25,16.88,26.39,Available,01:30:18 03/05/2026
-Pickpocket,Spiritforged,Uncommon,#074/221,463,0.1,0.18,Available,01:30:18 03/05/2026
-Sett - Kingpin,Origins,Rare,#240/298,284,0.35,0.47,Available,01:30:18 03/05/2026
-Ahri - Inquisitive,Origins,Epic,#119/298,86,7,9.65,Available,01:30:18 03/05/2026
-Heimerdinger - Inventor,Origins,Rare,#111/298,212,0.24,0.56,Available,01:30:18 03/05/2026
-Master Yi - Honed,Origins: Proving Grounds,Epic,#009/024,54,0.99,4.69,Available,01:30:18 03/05/2026
-Caitlyn - Patrolling,Origins,Rare,#068/298,255,0.33,0.36,Available,01:30:18 03/05/2026
-Ornn - Blacksmith,Spiritforged,Epic,#058/221,248,0.5,0.77,Available,01:30:18 03/05/2026
-Mystic Reversal,Origins,Epic,#080/298,118,2.99,5.09,Available,01:30:18 03/05/2026
-Doran's Blade,Spiritforged,Common,#095/221,948,0.01,0.07,Available,01:30:18 03/05/2026
-Renata Glasc - Mastermind (Alternate Art),Spiritforged,Showcase,#088a/221,157,1.19,1.42,Available,01:30:18 03/05/2026
-Dragon's Rage,Origins,Epic,#258/298,146,1.2,2.84,Available,01:30:18 03/05/2026
-Arena Bar,Origins,Common,#124/298,772,0.03,0.12,Available,01:30:18 03/05/2026
-Carnivorous Snapvine,Origins,Rare,#149/298,193,0.48,0.57,Available,01:30:18 03/05/2026
-Altar of Memories,Spiritforged,Rare,#169/221,614,0.1,0.19,Available,01:30:18 03/05/2026
-Bard - Mercurial,Spiritforged,Rare,#079/221,583,0.05,0.15,Available,01:30:18 03/05/2026
-Super Mega Death Rocket!,Origins,Epic,#252/298,133,8.44,11.02,Available,01:30:18 03/05/2026
-Fiora - Worthy (Alternate Art),Spiritforged,Showcase,#180a/221,137,3.89,4.92,Available,01:30:18 03/05/2026
-Volibear - Furious,Origins,Epic,#041/298,126,1.2,2.66,Available,01:30:18 03/05/2026
-Rumble - Scrapper (Alternate Art),Spiritforged,Showcase,#089a/221,123,1.49,2.33,Available,01:30:18 03/05/2026
-Ezreal - Dashing (Alternate Art),Spiritforged,Showcase,#082a/221,131,1.23,1.74,Available,01:30:18 03/05/2026
-Draven - Audacious (Alternate Art),Spiritforged,Showcase,#148a/221,158,3.86,5.09,Available,01:30:18 03/05/2026
-Legion Rearguard,Origins,Common,#010/298,829,0.02,0.15,Available,01:30:18 03/05/2026
-Against the Odds,Spiritforged,Common,#001/221,950,0.03,0.05,Available,01:30:18 03/05/2026
-Trove Golem,Spiritforged,Rare,#174/221,549,0.08,0.14,Available,01:30:18 03/05/2026
-Jax - Unmatched,Spiritforged,Rare,#054/221,588,0.11,0.15,Available,01:30:18 03/05/2026
-Ezreal - Prodigal Explorer,Spiritforged,Rare,#199/221,675,0.08,0.1,Available,01:30:18 03/05/2026
-Karma - Channeler,Origins,Rare,#235/298,249,0.24,0.4,Available,01:30:18 03/05/2026
-Promising Future,Origins,Rare,#115/298,355,0.19,0.27,Available,01:30:18 03/05/2026
-Cithria of Cloudfield,Origins,Uncommon,#139/298,744,0.05,0.14,Available,01:30:18 03/05/2026
-Ornn - Blacksmith (Alternate Art),Spiritforged,Showcase,#058a/221,143,1,1.24,Available,01:30:18 03/05/2026
-Leona - Zealot,Origins,Epic,#079/298,101,2.95,3.59,Available,01:30:18 03/05/2026
-Fiora - Peerless (Alternate Art),Spiritforged,Showcase,#110a/221,160,0.89,1.78,Available,01:30:18 03/05/2026
-Warmog's Armor,Spiritforged,Uncommon,#108/221,693,0.01,0.09,Available,01:30:18 03/05/2026
-Kinkou Monk,Origins,Uncommon,#141/298,466,0.09,0.25,Available,01:30:18 03/05/2026
-Sun Disc,Origins,Uncommon,#021/298,363,0.18,0.26,Available,01:30:18 03/05/2026
-Calm Rune (Alternate Art),Origins,Showcase,#042a/298,95,5,8.95,Available,01:30:18 03/05/2026
-Last Breath,Origins,Epic,#260/298,118,2.8,3.57,Available,01:30:18 03/05/2026
-Ezreal - Dashing,Spiritforged,Rare,#082/221,609,0.15,0.17,Available,01:30:18 03/05/2026
-Mind Rune (Alternate Art),Origins,Showcase,#089a/298,122,6.62,7.37,Available,01:30:18 03/05/2026
-Possession,Origins,Epic,#203/298,133,2.7,3.55,Available,01:30:18 03/05/2026
-Blastcone Fae,Origins,Uncommon,#097/298,440,0.13,0.24,Available,01:30:18 03/05/2026
-Startipped Peak,Origins,Uncommon,#288/298,479,0.1,0.2,Available,01:30:18 03/05/2026
-Convergent Mutation,Origins,Rare,#108/298,569,0.03,0.27,Available,01:30:18 03/05/2026
-Solari Shrine,Origins,Rare,#072/298,666,0.01,0.19,Available,01:30:18 03/05/2026
-Primal Strength,Origins,Rare,#154/298,300,0.2,0.45,Available,01:30:18 03/05/2026
-Body Rune (Alternate Art),Origins,Showcase,#126a/298,121,4.5,6.76,Available,01:30:18 03/05/2026
-Viktor - Herald of the Arcane,Origins,Rare,#265/298,404,0.2,0.32,Available,01:30:18 03/05/2026
-Sett - Brawler (Alternate Art),Origins,Showcase,#164a/298,74,24.99,34.24,Available,01:30:18 03/05/2026
-Wallop,Origins,Uncommon,#146/298,456,0.08,0.19,Available,01:30:18 03/05/2026
-Yasuo - Windrider,Origins,Epic,#205/298,124,2.45,4.11,Available,01:30:18 03/05/2026
-Beast Below,Spiritforged,Uncommon,#132/221,655,0.05,0.14,Available,01:30:18 03/05/2026
-Noxian Guillotine,Origins,Epic,#254/298,121,1.25,1.68,Available,01:30:18 03/05/2026
-Monastery of Hirana,Origins,Uncommon,#282/298,410,0.1,0.23,Available,01:30:18 03/05/2026
-Lucian - Merciless (Alternate Art),Spiritforged,Showcase,#113a/221,138,2.99,5.32,Available,01:30:18 03/05/2026
-Taric - Protector,Origins,Rare,#074/298,302,0.1,0.38,Available,01:30:18 03/05/2026
-Sivir - Battle Mistress,Spiritforged,Rare,#203/221,682,0.05,0.19,Available,01:30:18 03/05/2026
-Morbid Return,Origins,Common,#170/298,795,0.04,0.1,Available,01:30:18 03/05/2026
-Irelia - Graceful,Spiritforged,Rare,#141/221,602,0.06,0.13,Available,01:30:18 03/05/2026
-Sigil of the Storm,Origins,Uncommon,#287/298,409,0.1,0.17,Available,01:30:18 03/05/2026
-Commander Ledros,Origins,Rare,#231/298,261,0.04,0.33,Available,01:30:18 03/05/2026
-Darius - Executioner,Origins,Epic,#243/298,147,0.95,1.23,Available,01:30:18 03/05/2026
-Kai'Sa - Daughter of the Void,Origins,Rare,#247/298,260,0.3,0.4,Available,01:30:18 03/05/2026
-Hall of Legends,Spiritforged,Uncommon,#210/221,687,0.02,0.08,Available,01:30:18 03/05/2026
-Fortified Position,Origins,Uncommon,#279/298,487,0.1,0.17,Available,01:30:18 03/05/2026
-Forge of the Future,Origins,Common,#212/298,987,0.01,0.1,Available,01:30:18 03/05/2026
-Blind Fury,Origins,Rare,#025/298,442,0.1,0.22,Available,01:30:18 03/05/2026
-Mistfall,Origins,Rare,#152/298,708,0.01,0.17,Available,01:30:18 03/05/2026
-Order Rune (Alternate Art),Origins,Showcase,#214a/298,95,6.15,7.65,Available,01:30:18 03/05/2026
-Miss Fortune - Bounty Hunter,Origins,Rare,#267/298,288,0.24,0.33,Available,01:30:18 03/05/2026
-Teemo - Swift Scout,Origins,Rare,#263/298,261,0.15,0.47,Available,01:30:18 03/05/2026
-Spoils of War,Origins,Uncommon,#144/298,538,0.08,0.19,Available,01:30:18 03/05/2026
-Icathian Rain,Origins,Epic,#248/298,167,7.5,9.52,Available,01:30:18 03/05/2026
-Divine Judgment,Origins,Epic,#244/298,161,5,6.88,Available,01:30:18 03/05/2026
-Treasure Hoard,Spiritforged,Uncommon,#220/221,671,0.03,0.1,Available,01:30:18 03/05/2026
-Ember Monk,Origins,Common,#167/298,679,0.09,0.15,Available,01:30:18 03/05/2026
-Udyr - Wildman,Origins,Rare,#157/298,408,0.1,0.24,Available,01:30:18 03/05/2026
-Detonate,Spiritforged,Common,#005/221,897,0.01,0.05,Available,01:30:18 03/05/2026
-Malzahar - Fanatic,Origins,Rare,#113/298,260,0.24,0.45,Available,01:30:18 03/05/2026
-Lucian - Purifier,Spiritforged,Rare,#183/221,658,0.01,0.15,Available,01:30:18 03/05/2026
-Dropboarder,Spiritforged,Uncommon,#072/221,645,0.04,0.1,Available,01:30:18 03/05/2026
-Rune Prison,Origins,Common,#050/298,638,0.04,0.14,Available,01:30:18 03/05/2026
-Marching Orders,Spiritforged,Rare,#114/221,671,0.1,0.11,Available,01:30:18 03/05/2026
-Sivir - Mercenary (Alternate Art),Spiritforged,Showcase,#143a/221,161,0.89,1.37,Available,01:30:18 03/05/2026
-Mageseeker Warden,Origins,Rare,#070/298,313,0.08,0.31,Available,01:30:18 03/05/2026
-Sky Splitter,Origins,Common,#014/298,691,0.04,0.13,Available,01:30:18 03/05/2026
-Cloth Armor,Spiritforged,Common,#064/221,951,0.02,0.1,Available,01:30:18 03/05/2026
-Lee Sin - Centered,Origins,Rare,#151/298,414,0.1,0.19,Available,01:30:18 03/05/2026
-Hextech Anomaly,Spiritforged,Rare,#083/221,607,0.1,0.12,Available,01:30:18 03/05/2026
-Volibear - Relentless Storm,Origins,Rare,#249/298,396,0.18,0.29,Available,01:30:18 03/05/2026
-Ornn - Forge God (Alternate Art),Spiritforged,Showcase,#085a/221,122,1.21,2.5,Available,01:30:18 03/05/2026
-Kayn - Unleashed,Origins,Rare,#189/298,277,0.25,0.42,Available,01:30:18 03/05/2026
-Sunlit Guardian,Origins,Common,#054/298,690,0.03,0.13,Available,01:30:18 03/05/2026
-Show of Strength,Spiritforged,Uncommon,#106/221,720,0.05,0.11,Available,01:30:18 03/05/2026
-Fae Dragon,Spiritforged,Uncommon,#101/221,761,0.05,0.1,Available,01:30:18 03/05/2026
-Wraith of Echoes,Origins,Rare,#118/298,462,0.03,0.21,Available,01:30:18 03/05/2026
-Azir - Ascendant (Alternate Art),Spiritforged,Showcase,#050a/221,161,0.73,1.24,Available,01:30:18 03/05/2026
-Hexdrinker,Spiritforged,Uncommon,#102/221,744,0.05,0.1,Available,01:30:18 03/05/2026
-Kraken Hunter,Origins,Rare,#150/298,387,0.08,0.26,Available,01:30:18 03/05/2026
-Jax - Unrelenting (Alternate Art),Spiritforged,Showcase,#119a/221,166,1.13,1.27,Available,01:30:18 03/05/2026
-Overt Operation,Origins,Rare,#153/298,418,0.1,0.25,Available,01:30:18 03/05/2026
-Fading Memories,Origins,Uncommon,#180/298,558,0.05,0.18,Available,01:30:18 03/05/2026
-Master Yi - Wuju Bladesman (Starter),Origins: Proving Grounds,Rare,#019/024,19,8.97,17.99,Available,01:30:18 03/05/2026
-Miss Fortune - Captain (Alternate Art),Origins,Showcase,#162a/298,90,7,16.86,Available,01:30:18 03/05/2026
-Navori Scout,Spiritforged,Common,#037/221,906,0.02,0.04,Available,01:30:18 03/05/2026
-Renata Glasc - Chem-Baroness,Spiritforged,Rare,#201/221,658,0.05,0.14,Available,01:30:18 03/05/2026
-Sivir - Ambitious (Alternate Art),Spiritforged,Showcase,#120a/221,184,0.98,1.61,Available,01:30:18 03/05/2026
-Jax - Unmatched (Alternate Art),Spiritforged,Showcase,#054a/221,148,0.89,1.3,Available,01:30:18 03/05/2026
-Trifarian Gloryseeker,Origins,Common,#217/298,738,0.05,0.12,Available,01:30:18 03/05/2026
-Jinx - Loose Cannon,Origins,Rare,#251/298,428,0.2,0.21,Available,01:30:18 03/05/2026
-Rek'Sai - Swarm Queen,Spiritforged,Rare,#170/221,671,0.1,0.16,Available,01:30:18 03/05/2026
-Angle Shot,Spiritforged,Uncommon,#011/221,726,0.05,0.09,Available,01:30:18 03/05/2026
-Raging Firebrand,Origins,Rare,#031/298,378,0.11,0.23,Available,01:30:18 03/05/2026
-Maddened Marauder,Origins,Rare,#191/298,501,0.09,0.18,Available,01:30:18 03/05/2026
-Solari Shieldbearer,Origins,Common,#051/298,729,0.03,0.11,Available,01:30:18 03/05/2026
-Assembly Rig,Spiritforged,Rare,#019/221,684,0.03,0.11,Available,01:30:18 03/05/2026
-Disintegrate,Origins,Common,#005/298,823,0.01,0.11,Available,01:30:18 03/05/2026
-Sett - The Boss,Origins,Rare,#269/298,353,0.14,0.31,Available,01:30:18 03/05/2026
-Direwing,Spiritforged,Common,#094/221,896,0.02,0.07,Available,01:30:18 03/05/2026
-Forecaster,Spiritforged,Common,#065/221,925,0.01,0.04,Available,01:30:18 03/05/2026
-Minotaur Reckoner,Spiritforged,Uncommon,#014/221,629,0.1,0.18,Available,01:30:18 03/05/2026
-Long Sword (Top 8),Riftbound Organized Play Promotional Cards,Promo,#022/221,95,0.99,1.59,Available,01:30:18 03/05/2026
-Wizened Elder,Origins,Uncommon,#065/298,582,0.05,0.09,Available,01:30:18 03/05/2026
-Kato the Arm,Spiritforged,Rare,#112/221,613,0.01,0.14,Available,01:30:18 03/05/2026
-Cull,Spiritforged,Uncommon,#134/221,758,0.05,0.12,Available,01:30:18 03/05/2026
-Mountain Drake,Origins,Uncommon,#142/298,582,0.04,0.12,Available,01:30:18 03/05/2026
-Spirit's Refuge,Origins,Uncommon,#063/298,487,0.08,0.18,Available,01:30:18 03/05/2026
-Feral Strength,Spiritforged,Common,#034/221,901,0.02,0.05,Available,01:30:18 03/05/2026
-Dune Drake,Origins,Common,#131/298,790,0.02,0.09,Available,01:30:18 03/05/2026
-Leona - Zealot (Alternate Art),Origins,Showcase,#079a/298,66,5.99,12.17,Available,01:30:18 03/05/2026
-Nami - Headstrong,Unleashed,Rare,#052/219,10,4.19,6.25,Available,01:30:18 03/05/2026
-Iron Ballista,Origins,Uncommon,#017/298,473,0.05,0.22,Available,01:30:18 03/05/2026
-Leona - Radiant Dawn,Origins,Rare,#261/298,357,0.2,0.38,Available,01:30:18 03/05/2026
-Unlicensed Armory,Origins,Uncommon,#023/298,464,0.08,0.17,Available,01:30:18 03/05/2026
-Ava Achiever,Origins,Rare,#107/298,347,0.19,0.34,Available,01:30:18 03/05/2026
-Jinx - Rebel (Alternate Art),Origins,Showcase,#202a/298,87,4.25,6.7,Available,01:30:18 03/05/2026
-Noxian Drummer,Origins,Uncommon,#222/298,604,0.09,0.15,Available,01:30:18 03/05/2026
-Ravenborn Tome,Origins,Rare,#032/298,641,0.01,0.13,Available,01:30:18 03/05/2026
-Kai'Sa - Survivor (Alternate Art),Origins,Showcase,#039a/298,86,60,76.99,Available,01:30:18 03/05/2026
-Teemo - Strategist (Alternate Art),Origins,Showcase,#121a/298,70,4.85,8.63,Available,01:30:18 03/05/2026
-Body Rune (R04b),Riftbound Organized Play Promotional Cards,Promo,#R04b,54,7.49,9.06,Available,01:30:18 03/05/2026
-Wielder of Water,Origins,Common,#055/298,859,0.03,0.12,Available,01:30:18 03/05/2026
-Needlessly Large Yordle,Spiritforged,Rare,#055/221,664,0.09,0.12,Available,01:30:18 03/05/2026
-Renata Glasc - Industrialist (Alternate Art),Spiritforged,Showcase,#171a/221,161,0.5,1.07,Available,01:30:18 03/05/2026
-Jax - Grandmaster At Arms,Spiritforged,Rare,#193/221,667,0.01,0.12,Available,01:30:18 03/05/2026
-Guardian Angel (Top 8),Riftbound Organized Play Promotional Cards,Promo,#051/221,63,4.36,4.43,Available,01:30:18 03/05/2026
-Rumble - Hotheaded (Alternate Art),Spiritforged,Showcase,#026a/221,198,0.89,1.42,Available,01:30:18 03/05/2026
-Jae Medarda,Spiritforged,Rare,#142/221,638,0.05,0.11,Available,01:30:18 03/05/2026
-Ahri - Inquisitive (Alternate Art),Origins,Showcase,#119a/298,96,8.75,13.55,Available,01:30:18 03/05/2026
-Bandle Tree,Origins,Uncommon,#278/298,523,0.04,0.17,Available,01:30:18 03/05/2026
-Cemetery Attendant,Origins,Common,#165/298,879,0.01,0.1,Available,01:30:18 03/05/2026
-Teemo - Scout (Alternate Art),Origins,Showcase,#197a/298,60,7.5,11.18,Available,01:30:18 03/05/2026
-Stand United,Origins,Common,#053/298,840,0.01,0.08,Available,01:30:18 03/05/2026
-Forge of the Fluft,Spiritforged,Uncommon,#208/221,678,0.03,0.07,Available,01:30:18 03/05/2026
-Portal Rescue,Origins,Uncommon,#102/298,478,0.06,0.17,Available,01:30:18 03/05/2026
-Solari Chief,Origins,Uncommon,#225/298,522,0.1,0.22,Available,01:30:18 03/05/2026
-Mind Rune (R03b),Riftbound Organized Play Promotional Cards,Promo,#R03b,55,14.13,15.37,Available,01:30:18 03/05/2026
-Calm Rune (R02b),Riftbound Organized Play Promotional Cards,Promo,#R02b,32,15.19,17.96,Available,01:30:18 03/05/2026
-Marai Spire,Spiritforged,Uncommon,#211/221,675,0.02,0.09,Available,01:30:18 03/05/2026
-Sudden Storm,Spiritforged,Uncommon,#017/221,680,0.03,0.11,Available,01:30:18 03/05/2026
-The Papertree,Spiritforged,Uncommon,#219/221,694,0.01,0.08,Available,01:30:18 03/05/2026
-Annie - Fiery,Origins: Proving Grounds,Epic,#001/024,45,0.95,3.34,Available,01:30:18 03/05/2026
-Chaos Rune (R05b),Riftbound Organized Play Promotional Cards,Promo,#R05b,49,19.99,21.11,Available,01:30:18 03/05/2026
-Miss Fortune - Buccaneer (Alternate Art),Origins,Showcase,#193a/298,80,3.7,5.81,Available,01:30:18 03/05/2026
-Darius - Hand of Noxus,Origins,Rare,#253/298,432,0.1,0.27,Available,01:30:18 03/05/2026
-Blazing Scorcher,Origins,Common,#001/298,901,0.01,0.11,Available,01:30:18 03/05/2026
-Lux - Crownguard,Origins: Proving Grounds,Epic,#014/024,47,2.48,6.71,Available,01:30:18 03/05/2026
-Lee Sin - Blind Monk,Origins,Rare,#257/298,513,0.08,0.22,Available,01:30:18 03/05/2026
-Poro Herder,Origins,Uncommon,#061/298,538,0.05,0.16,Available,01:30:18 03/05/2026
-Energy Conduit,Origins,Uncommon,#098/298,492,0.08,0.19,Available,01:30:18 03/05/2026
-Ornn's Forge,Spiritforged,Uncommon,#213/221,713,0.01,0.08,Available,01:30:18 03/05/2026
-Darius - Trifarian (Alternate Art),Origins,Showcase,#027a/298,115,4.99,11.43,Available,01:30:18 03/05/2026
-Draven - Vanquisher (Alternate Art),Spiritforged,Showcase,#020a/221,252,1,1.33,Available,01:30:18 03/05/2026
-Mushroom Pouch,Origins,Uncommon,#101/298,654,0.04,0.12,Available,01:30:18 03/05/2026
-Magma Wurm,Origins,Common,#011/298,839,0.01,0.13,Available,01:30:18 03/05/2026
-Back to Back,Origins,Common,#206/298,870,0.01,0.08,Available,01:30:18 03/05/2026
-Albus Ferros,Origins,Rare,#230/298,709,0.05,0.11,Available,01:30:18 03/05/2026
-Void Drone,Spiritforged,Common,#010/221,906,0.02,0.05,Available,01:30:18 03/05/2026
-Orb of Regret,Origins,Common,#090/298,1037,0.01,0.06,Available,01:30:18 03/05/2026
-Viktor - Innovator (Alternate Art),Origins,Showcase,#117a/298,101,3.2,4.18,Available,01:30:18 03/05/2026
-Highlander,Origins: Proving Grounds,Epic,#020/024,49,0.25,1.39,Available,01:30:18 03/05/2026
-Mega-Mech,Origins,Common,#088/298,834,0.01,0.1,Available,01:30:18 03/05/2026
-Rek'Sai - Swarm Queen (Alternate Art),Spiritforged,Showcase,#170a/221,187,0.79,1.2,Available,01:30:18 03/05/2026
-Apprentice Smith,Spiritforged,Uncommon,#041/221,663,0.05,0.09,Available,01:30:18 03/05/2026
-Fury Rune (R01b),Riftbound Organized Play Promotional Cards,Promo,#R01b,67,13.69,15.1,Available,01:30:18 03/05/2026
-Royal Guard,Spiritforged,Common,#157/221,902,0.01,0.05,Available,01:30:18 03/05/2026
-Flame Chompers,Origins,Common,#006/298,849,0.01,0.05,Available,01:30:18 03/05/2026
-Cruel Patron,Origins,Common,#208/298,848,0.03,0.09,Available,01:30:18 03/05/2026
-Volibear - Furious (Alternate Art),Origins,Showcase,#041a/298,126,2.88,4.22,Available,01:30:18 03/05/2026
-Edge of Night (Top 8),Riftbound Organized Play Promotional Cards,Promo,#139/221,48,1.73,1.79,Available,01:30:18 03/05/2026
-Viktor - Leader (Alternate Art),Origins,Showcase,#246a/298,101,3.95,6.27,Available,01:30:18 03/05/2026
-Stormclaw Ursine,Origins,Common,#137/298,863,0.02,0.14,Available,01:30:18 03/05/2026
-Yasuo - Windrider (Alternate Art),Origins,Showcase,#205a/298,87,4.49,6.24,Available,01:30:18 03/05/2026
-Ornn - Fire Below the Mountain,Spiritforged,Rare,#189/221,667,0.01,0.09,Available,01:30:18 03/05/2026
-Doran's Ring,Spiritforged,Common,#124/221,1000,0.01,0.07,Available,01:30:18 03/05/2026
-Reckoner's Arena,Origins,Uncommon,#286/298,577,0.05,0.13,Available,01:30:18 03/05/2026
-Draven - Vanquisher,Spiritforged,Rare,#020/221,622,0.19,0.19,Available,01:30:18 03/05/2026
-Forgotten Monument,Spiritforged,Uncommon,#209/221,714,0.02,0.08,Available,01:30:18 03/05/2026
-Breakneck Mech,Spiritforged,Uncommon,#071/221,690,0.04,0.11,Available,01:30:18 03/05/2026
-Recruit the Vanguard,Origins: Proving Grounds,Uncommon,#015/024,61,1.25,3.74,Available,01:30:18 03/05/2026
-Last Stand,Origins,Rare,#069/298,319,0.1,0.29,Available,01:30:18 03/05/2026
-Jinx - Demolitionist (Alternate Art),Origins,Showcase,#030a/298,106,3,4.3,Available,01:30:18 03/05/2026
-Bushwhack,Spiritforged,Common,#004/221,905,0.02,0.07,Available,01:30:18 03/05/2026
-Hallowed Tomb,Origins,Uncommon,#281/298,535,0.05,0.16,Available,01:30:18 03/05/2026
-Yasuo - Unforgiven,Origins,Rare,#259/298,359,0.1,0.31,Available,01:30:18 03/05/2026
-Back-Alley Bar,Origins,Uncommon,#277/298,581,0.04,0.15,Available,01:30:18 03/05/2026
-Reinforce,Origins,Uncommon,#062/298,571,0.06,0.16,Available,01:30:18 03/05/2026
-Eager Drakehound,Spiritforged,Common,#006/221,897,0.02,0.06,Available,01:30:18 03/05/2026
-Pakaa Cub,Origins,Common,#135/298,860,0.01,0.08,Available,01:30:18 03/05/2026
-Symbol of the Solari,Origins,Uncommon,#227/298,601,0.09,0.12,Available,01:30:18 03/05/2026
-Aspiring Engineer,Spiritforged,Common,#061/221,880,0.01,0.03,Available,01:30:18 03/05/2026
-Kai'Sa - Evolutionary (Alternate Art),Origins,Showcase,#112a/298,62,5.46,9.67,Available,01:30:18 03/05/2026
-Volibear - Imposing (Alternate Art),Origins,Showcase,#158a/298,113,3.33,4.34,Available,01:30:18 03/05/2026
-Wildclaw Shaman,Origins,Uncommon,#147/298,670,0.03,0.11,Available,01:30:18 03/05/2026
-Annie - Dark Child (Starter),Origins: Proving Grounds,Rare,#017/024,75,14.74,14.76,Available,01:30:18 03/05/2026
-Fight or Flight,Origins,Common,#168/298,664,0.03,0.26,Available,01:30:18 03/05/2026
-Rumble - Mechanized Menace,Spiritforged,Rare,#181/221,685,0.01,0.09,Available,01:30:18 03/05/2026
-The Grand Plaza,Origins,Uncommon,#293/298,601,0.1,0.12,Available,01:30:18 03/05/2026
-Zaunite Bouncer,Origins,Uncommon,#188/298,535,0.1,0.19,Available,01:30:18 03/05/2026
-Ahri - Alluring (Alternate Art),Origins,Showcase,#066a/298,55,6,10.68,Available,01:30:18 03/05/2026
-Azir - Emperor of the Sands (Overnumbered),Spiritforged,Showcase,#247/221,55,68.02,76.74,Available,01:30:18 03/05/2026
-Temporal Portal,Spiritforged,Uncommon,#078/221,743,0.04,0.07,Available,01:30:18 03/05/2026
-Production Surge,Spiritforged,Uncommon,#076/221,697,0.05,0.08,Available,01:30:18 03/05/2026
-Star-Crossed,Unleashed,Common,#128/219,13,0.35,0.69,Available,01:30:18 03/05/2026
-Leona - Determined (Alternate Art),Origins,Showcase,#238a/298,110,3,4.99,Available,01:30:18 03/05/2026
-Sett - Kingpin (Alternate Art),Origins,Showcase,#240a/298,131,1.45,1.77,Available,01:30:18 03/05/2026
-Gemcraft Seer,Origins,Uncommon,#100/298,614,0.07,0.16,Available,01:30:18 03/05/2026
-Scrapyard Champion,Origins,Uncommon,#020/298,573,0.08,0.12,Available,01:30:18 03/05/2026
-Rockfall Path,Spiritforged,Uncommon,#216/221,693,0.02,0.1,Available,01:30:18 03/05/2026
-Darius - Executioner (Alternate Art),Origins,Showcase,#243a/298,106,2.95,4.04,Available,01:30:18 03/05/2026
-Veiled Temple,Spiritforged,Uncommon,#221/221,738,0.01,0.08,Available,01:30:18 03/05/2026
-Dangerous Duo,Origins,Uncommon,#016/298,809,0.01,0.09,Available,01:30:18 03/05/2026
-Ancient Warmonger,Spiritforged,Uncommon,#131/221,702,0.01,0.06,Available,01:30:18 03/05/2026
-Ornn - Fire Below the Mountain (Overnumbered),Spiritforged,Showcase,#244/221,74,39.98,47.99,Available,01:30:18 03/05/2026
-Tibbers,Origins: Proving Grounds,Epic,#018/024,43,0.25,1.32,Available,01:30:18 03/05/2026
-Boneshiver,Riftbound Organized Play Promotional Cards,Promo,#118a/221,57,42.99,61.46,Available,01:30:18 03/05/2026
-Abandon,Unleashed,Uncommon,#131/219,15,0.49,1.21,Available,01:30:18 03/05/2026
-Navori Fighting Pit,Origins,Uncommon,#283/298,594,0.05,0.13,Available,01:30:18 03/05/2026
-Altar to Unity,Origins,Uncommon,#275/298,624,0.04,0.12,Available,01:30:18 03/05/2026
-Order Rune (R06b),Riftbound Organized Play Promotional Cards,Promo,#R06b,71,9.69,11.83,Available,01:30:18 03/05/2026
-Experimental Hexplate,Spiritforged,Uncommon,#073/221,699,0.01,0.08,Available,01:30:18 03/05/2026
-Whirlwind,Origins,Uncommon,#187/298,584,0.05,0.15,Available,01:30:18 03/05/2026
-Buhru Captain,Spiritforged,Common,#091/221,902,0.01,0.08,Available,01:30:18 03/05/2026
-Karma - Channeler (Overnumbered),Spiritforged,Showcase,#237/221,70,18,32.53,Available,01:30:18 03/05/2026
-Strike Down,Spiritforged,Uncommon,#107/221,746,0.01,0.07,Available,01:30:18 03/05/2026
-Trusty Ramhound,Spiritforged,Common,#159/221,920,0.02,0.03,Available,01:30:18 03/05/2026
-Bubble Bot,Spiritforged,Common,#062/221,890,0.01,0.03,Available,01:30:18 03/05/2026
-Chemtech Cask,Spiritforged,Common,#063/221,934,0.01,0.05,Available,01:30:18 03/05/2026
-Armed Assailant,Spiritforged,Common,#002/221,933,0.01,0.02,Available,01:30:18 03/05/2026
-Soraka - Wanderer (Overnumbered),Spiritforged,Showcase,#239/221,57,43,56.09,Available,01:30:18 03/05/2026
-Lee Sin - Ascetic (Alternate Art),Origins,Showcase,#078a/298,100,3,4.64,Available,01:30:18 03/05/2026
-Emperor's Dais,Spiritforged,Uncommon,#207/221,698,0.02,0.07,Available,01:30:18 03/05/2026
-Zaun Punk,Spiritforged,Common,#160/221,895,0.01,0.06,Available,01:30:18 03/05/2026
-Sett - Brawler (Overnumbered),Spiritforged,Showcase,#232/221,52,78.99,88.08,Available,01:30:18 03/05/2026
-Temptation,Spiritforged,Common,#129/221,939,0.01,0.06,Available,01:30:18 03/05/2026
-Lee Sin - Centered (Alternate Art),Origins,Showcase,#151a/298,128,1.96,1.94,Available,01:30:18 03/05/2026
-Pirate's Haven,Origins,Uncommon,#143/298,545,0.06,0.15,Available,01:30:18 03/05/2026
-Dauntless Vanguard,Spiritforged,Common,#093/221,915,0.01,0.05,Available,01:30:18 03/05/2026
-Master Yi - Meditative,Origins: Proving Grounds,Rare,#004/024,69,0.49,1.57,Available,01:30:18 03/05/2026
-Serrated Dirk,Spiritforged,Common,#009/221,952,0.01,0.03,Available,01:30:18 03/05/2026
-Rumble - Mechanized Menace (Overnumbered),Spiritforged,Showcase,#240/221,82,30,39.09,Available,01:30:18 03/05/2026
-Peak Guardian,Origins,Uncommon,#223/298,606,0.09,0.18,Available,01:30:18 03/05/2026
-Vanguard Helm,Origins,Uncommon,#228/298,617,0.03,0.15,Available,01:30:18 03/05/2026
-Chemtech Enforcer,Origins,Common,#003/298,1095,0.01,0.06,Available,01:30:18 03/05/2026
-Stealthy Pursuer,Origins,Common,#177/298,830,0.05,0.11,Available,01:30:18 03/05/2026
-The Dreaming Tree,Origins,Uncommon,#292/298,194,0.34,0.45,Available,01:30:18 03/05/2026
-Gearhead,Spiritforged,Common,#068/221,898,0.02,0.04,Available,01:30:18 03/05/2026
-Sandshifter,Spiritforged,Common,#158/221,913,0.02,0.07,Available,01:30:18 03/05/2026
-Recurve Bow,Spiritforged,Uncommon,#016/221,759,0.03,0.07,Available,01:30:18 03/05/2026
-Eminent Benefactor,Spiritforged,Common,#152/221,905,0.01,0.02,Available,01:30:18 03/05/2026
-Sai Scout,Origins,Common,#174/298,862,0.01,0.08,Available,01:30:18 03/05/2026
-Minefield,Spiritforged,Uncommon,#212/221,756,0.02,0.06,Available,01:30:18 03/05/2026
-Annie - Dark Child,Riftbound Organized Play Promotional Cards,Promo,#017/024,21,31.68,31.85,Available,01:30:18 03/05/2026
-Fiora - Grand Duelist (Overnumbered),Spiritforged,Showcase,#251/221,48,74.98,89.89,Available,01:30:18 03/05/2026
-Kai'Sa - Daughter of the Void (Overnumbered),Origins,Showcase,#299/298,28,87,212.71,Available,01:30:18 03/05/2026
-Lux - Illuminated,Origins: Proving Grounds,Rare,#006/024,48,0.49,1.65,Available,01:30:18 03/05/2026
-Blast Corps Cadet,Spiritforged,Uncommon,#013/221,734,0.02,0.08,Available,01:30:18 03/05/2026
-Bilgewater Bully,Origins,Common,#125/298,875,0.01,0.07,Available,01:30:18 03/05/2026
-Guardian of the Passage,Spiritforged,Common,#035/221,901,0.01,0.04,Available,01:30:18 03/05/2026
-Yordle Explorer,Spiritforged,Common,#100/221,948,0.01,0.06,Available,01:30:18 03/05/2026
-Jaull-Fish,Spiritforged,Uncommon,#103/221,728,0.05,0.07,Available,01:30:18 03/05/2026
-Blast of Power,Origins: Proving Grounds,Common,#012/024,80,3.18,3.62,Available,01:30:18 03/05/2026
-Laurent Bladekeeper,Spiritforged,Common,#096/221,959,0.02,0.03,Available,01:30:18 03/05/2026
-Captain Farron,Origins,Uncommon,#015/298,614,0.05,0.21,Available,01:30:18 03/05/2026
-Royal Entourage,Spiritforged,Common,#039/221,925,0.01,0.03,Available,01:30:18 03/05/2026
-Incinerate,Origins: Proving Grounds,Common,#003/024,44,0.49,1.14,Available,01:30:18 03/05/2026
-Yasuo - Remorseful (Alternate Art),Origins,Showcase,#076a/298,107,2.8,4.05,Available,01:30:18 03/05/2026
-Lucian - Purifier (Overnumbered),Spiritforged,Showcase,#241/221,64,39.99,51.86,Available,01:30:18 03/05/2026
-Loyal Pup,Spiritforged,Common,#126/221,877,0.01,0.05,Available,01:30:18 03/05/2026
-Yasuo - Windrider (Overnumbered),Spiritforged,Showcase,#235/221,52,35.99,44.08,Available,01:30:18 03/05/2026
-Ezreal - Prodigal Explorer (Overnumbered),Spiritforged,Showcase,#248/221,64,75.99,86.98,Available,01:30:18 03/05/2026
-Raging Soul,Origins,Uncommon,#019/298,730,0.01,0.08,Available,01:30:18 03/05/2026
-Darius - Executioner (Overnumbered),Spiritforged,Showcase,#236/221,78,24.99,38.5,Available,01:30:18 03/05/2026
-Black Market Broker,Spiritforged,Common,#121/221,952,0.01,0.06,Available,01:30:18 03/05/2026
-Laurent Duelist,Spiritforged,Common,#156/221,923,0.01,0.02,Available,01:30:18 03/05/2026
-Aphelios - Exalted (Overnumbered),Spiritforged,Showcase,#224/221,76,44.99,59.01,Available,01:30:18 03/05/2026
-Bonds of Strength,Spiritforged,Common,#151/221,960,0.01,0.05,Available,01:30:18 03/05/2026
-Frostcoat Cub,Spiritforged,Common,#067/221,885,0.01,0.03,Available,01:30:18 03/05/2026
-Ribbon Dancer,Spiritforged,Common,#038/221,912,0.01,0.07,Available,01:30:18 03/05/2026
-Harpoon Squad,Spiritforged,Uncommon,#137/221,733,0.03,0.08,Available,01:30:18 03/05/2026
-Garen - Commander,Origins: Proving Grounds,Epic,#013/024,72,0.49,1.91,Available,01:30:18 03/05/2026
-Eclipse,Unleashed,Common,#063/219,17,0.3,0.78,Available,01:30:18 03/05/2026
-Eclipse Herald,Origins,Uncommon,#059/298,533,0.07,0.18,Available,01:30:18 03/05/2026
-Corrupt Enforcer,Spiritforged,Common,#123/221,892,0.01,0.04,Available,01:30:18 03/05/2026
-Draven - Glorious Executioner (Overnumbered),Spiritforged,Showcase,#242/221,95,69.99,81.62,Available,01:30:18 03/05/2026
-Master Yi - Wuju Bladesman,Riftbound Organized Play Promotional Cards,Promo,#019/024,25,35.01,36.39,Available,01:30:18 03/05/2026
-Sprite Fountain,Unleashed,Uncommon,#078/219,12,0.98,1.26,Available,01:30:18 03/05/2026
-Renata Glasc - Chem-Baroness (Overnumbered),Spiritforged,Showcase,#249/221,84,34.99,44.28,Available,01:30:18 03/05/2026
-Yone - Blademaster (Overnumbered),Spiritforged,Showcase,#233/221,60,34.99,57.29,Available,01:30:18 03/05/2026
-Sivir - Battle Mistress (Overnumbered),Spiritforged,Showcase,#250/221,66,33,47.83,Available,01:30:18 03/05/2026
-Lux - Lady of Luminosity,Riftbound Organized Play Promotional Cards,Promo,#021/024,63,20.68,30.49,Available,01:30:18 03/05/2026
-Final Spark,Origins: Proving Grounds,Epic,#022/024,60,0.46,2.99,Available,01:30:18 03/05/2026
-Lux - Lady of Luminosity (Starter),Origins: Proving Grounds,Rare,#021/024,44,10,13.77,Available,01:30:18 03/05/2026
-Jeweled Colossus,Origins,Common,#086/298,877,0.01,0.06,Available,01:30:18 03/05/2026
-Prize of Progress,Spiritforged,Uncommon,#075/221,724,0.02,0.05,Available,01:30:18 03/05/2026
-Undercover Agent,Origins,Common,#178/298,883,0.01,0.07,Available,01:30:18 03/05/2026
-Power Nexus,Spiritforged,Uncommon,#214/221,696,0.02,0.1,Available,01:30:18 03/05/2026
-Scrapheap,Origins,Uncommon,#182/298,452,0.14,0.23,Available,01:30:18 03/05/2026
-Fae Porter,Spiritforged,Common,#125/221,918,0.01,0.04,Available,01:30:18 03/05/2026
-Legion Quartermaster,Spiritforged,Uncommon,#044/221,714,0.01,0.09,Available,01:30:18 03/05/2026
-Irelia - Blade Dancer (Overnumbered),Spiritforged,Showcase,#246/221,56,88.38,110.05,Available,01:30:18 03/05/2026
-Yasuo - Unforgiven (Overnumbered),Origins,Showcase,#305/298,47,48.95,74.71,Available,01:30:18 03/05/2026
-Guardian Angel (Champion),Riftbound Organized Play Promotional Cards,Promo,#051/221,9,84.63,84.63,Available,01:30:18 03/05/2026
-Shipyard Skulker,Origins,Common,#175/298,850,0.01,0.05,Available,01:30:18 03/05/2026
-Irelia - Fervent (Overnumbered),Spiritforged,Showcase,#225/221,36,149.99,169.48,Available,01:30:18 03/05/2026
-Vanguard Sergeant,Origins,Common,#219/298,867,0.01,0.05,Available,01:30:18 03/05/2026
-Teemo - Swift Scout (Overnumbered),Origins,Showcase,#307/298,41,54,91.3,Available,01:30:18 03/05/2026
-Ahri - Nine-Tailed Fox (Overnumbered),Origins,Showcase,#303/298,27,105,203.3,Available,01:30:18 03/05/2026
-Vex - Apathetic,Unleashed,Epic,#150/219,13,11.58,16.05,Available,01:30:18 03/05/2026
-Annie - Stubborn,Riftbound Organized Play Promotional Cards,Promo,#010/024,42,18.5,19.83,Available,01:30:18 03/05/2026
-Vayne - Hunter (Overnumbered),Spiritforged,Showcase,#223/221,50,64.99,93.92,Available,01:30:18 03/05/2026
-Brazen Buccaneer,Origins,Common,#002/298,916,0.01,0.06,Available,01:30:18 03/05/2026
-Decisive Strike,Origins: Proving Grounds,Epic,#024/024,70,0.1,1.01,Available,01:30:18 03/05/2026
-Firestorm,Origins: Proving Grounds,Uncommon,#002/024,70,0.1,0.51,Available,01:30:18 03/05/2026
-Ahri - Alluring (Launch Exclusive),Riftbound Promotional Cards,Promo,#066/298,56,40,89.18,Available,01:30:18 03/05/2026
-Simian Ancestor,Spiritforged,Uncommon,#047/221,696,0.01,0.07,Available,01:30:18 03/05/2026
-Sacrifice,Unleashed,Rare,#173/219,10,3.14,6.07,Available,01:30:18 03/05/2026
-Sett - The Boss (Overnumbered),Origins,Showcase,#310/298,33,33.5,81.8,Available,01:30:18 03/05/2026
-Petricite Monument,Spiritforged,Uncommon,#104/221,722,0.04,0.09,Available,01:30:18 03/05/2026
-Crackshot Corsair,Origins,Common,#130/298,834,0.02,0.05,Available,01:30:18 03/05/2026
-Teemo - Scout (GG EZ),Riftbound Organized Play Promotional Cards,Promo,#197b/298,36,400,549.52,Available,01:30:18 03/05/2026
-Playful Phantom,Origins,Common,#049/298,852,0.01,0.05,Available,01:30:18 03/05/2026
-Obelisk of Power,Origins,Uncommon,#284/298,227,0.2,0.45,Available,01:30:18 03/05/2026
-Combat Chef,Spiritforged,Common,#092/221,948,0.01,0.03,Available,01:30:18 03/05/2026
-Ahri - Inquisitive (Overnumbered),Spiritforged,Showcase,#227/221,39,199.98,310.4,Available,01:30:18 03/05/2026
-Garen - Rugged,Origins: Proving Grounds,Rare,#007/024,60,0.25,1.27,Available,01:30:18 03/05/2026
-Sentinel Adept,Spiritforged,Common,#008/221,914,0.01,0.05,Available,01:30:18 03/05/2026
-Teemo - Strategist (Overnumbered),Spiritforged,Showcase,#230/221,37,34.89,54.66,Available,01:30:18 03/05/2026
-Shadow's Call,Unleashed,Uncommon,#165/219,13,0.98,1.36,Available,01:30:18 03/05/2026
-Ruined Rex,Unleashed,Common,#067/219,15,0.49,0.71,Available,01:30:18 03/05/2026
-Seal of Focus (Overnumbered),Spiritforged,Showcase,#226/221,42,40,62.49,Available,01:30:18 03/05/2026
-Repulse,Unleashed,Uncommon,#106/219,10,0.98,1.6,Available,01:30:18 03/05/2026
-Seal of Rage (Overnumbered),Spiritforged,Showcase,#222/221,41,55,67.75,Available,01:30:18 03/05/2026
-Rek'sai - Void Burrower (Overnumbered),Spiritforged,Showcase,#243/221,60,59.98,77.08,Available,01:30:18 03/05/2026
-Rengar - Trophy Hunter,Unleashed,Epic,#120/219,16,16.44,19.52,Available,01:30:18 03/05/2026
-Garen - Might of Demacia (Starter),Origins: Proving Grounds,Rare,#023/024,30,0.49,2.02,Available,01:30:18 03/05/2026
-Darius - Hand of Noxus (Overnumbered),Origins,Showcase,#302/298,44,49.49,54.3,Available,01:30:18 03/05/2026
-Perched Grimwyrm,Spiritforged,Uncommon,#015/221,708,0.01,0.05,Available,01:30:18 03/05/2026
-Master Bingwen,Spiritforged,Common,#127/221,897,0.01,0.03,Available,01:30:18 03/05/2026
-Noxus Saboteur,Origins,Uncommon,#018/298,580,0.05,0.2,Available,01:30:18 03/05/2026
-Jax - Grandmaster At Arms (Overnumbered),Spiritforged,Showcase,#245/221,69,42.99,60.76,Available,01:30:18 03/05/2026
-Edge of Night (Champion),Riftbound Organized Play Promotional Cards,Promo,#139/221,12,80,74.9,Available,01:30:18 03/05/2026
-Grim Resolve,Unleashed,Common,#095/219,16,0.49,0.75,Available,01:30:18 03/05/2026
-The Grand Plaza,Riftbound Promotional Cards,Promo,#293a/298,20,16,16.07,Available,01:30:18 03/05/2026
-Reaver's Row,Origins,Uncommon,#285/298,490,0.06,0.16,Available,01:30:18 03/05/2026
-Yuumi - Magical Cat,Unleashed,Rare,#056/219,17,2.23,8.28,Available,01:30:18 03/05/2026
-Moonfall,Unleashed,Epic,#198/219,12,17.92,21.23,Available,01:30:18 03/05/2026
-Seal of Unity (Overnumbered),Spiritforged,Showcase,#238/221,57,75,90.14,Available,01:30:18 03/05/2026
-Bard - Mercurial (Overnumbered),Spiritforged,Showcase,#228/221,57,29.99,44.05,Available,01:30:18 03/05/2026
-Scuttle Crab,Unleashed,Rare,#053/219,11,3.14,4.05,Available,01:30:18 03/05/2026
-Viktor - Herald of the Arcane (Overnumbered),Origins,Showcase,#308/298,38,60,123.82,Available,01:30:18 03/05/2026
-Gentlemen's Duel,Origins: Proving Grounds,Common,#008/024,79,0.1,0.48,Available,01:30:18 03/05/2026
-Seal of Discord (Overnumbered),Spiritforged,Showcase,#234/221,99,67,98.44,Available,01:30:18 03/05/2026
-Petty Officer,Origins,Common,#215/298,875,0.01,0.06,Available,01:30:18 03/05/2026
-Turn to Dust,Unleashed,Common,#070/219,15,0.49,0.68,Available,01:30:18 03/05/2026
-Leona - Radiant Dawn (Overnumbered),Origins,Showcase,#306/298,40,35,84.93,Available,01:30:18 03/05/2026
-Miss Fortune - Bounty Hunter (Overnumbered),Origins,Showcase,#309/298,32,63.5,175.91,Available,01:30:18 03/05/2026
-Lee Sin - Blind Monk (Overnumbered),Origins,Showcase,#304/298,51,33,80.53,Available,01:30:18 03/05/2026
-Mirror Image,Unleashed,Epic,#200/219,18,35.93,44.65,Available,01:30:18 03/05/2026
-Garen - Might of Demacia,Riftbound Organized Play Promotional Cards,Promo,#023/024,62,5.6,7.11,Available,01:30:18 03/05/2026
-Seal of Strength (Overnumbered),Spiritforged,Showcase,#231/221,61,59.99,77.31,Available,01:30:18 03/05/2026
-Hwei - Brooding Painter,Unleashed,Rare,#080/219,16,4.58,7.24,Available,01:30:18 03/05/2026
-Viktor - Leader,Riftbound Promotional Cards,Promo,#246a/298,15,55,58.08,Available,01:30:18 03/05/2026
-Bandle Tree,Riftbound Promotional Cards,Promo,#278a/298,12,30.9,32.42,Available,01:30:18 03/05/2026
-Lunar Boon,Unleashed,Common,#125/219,14,0.35,0.97,Available,01:30:18 03/05/2026
-Black Rose Dignitary,Unleashed,Common,#152/219,17,0.34,0.89,Available,01:30:18 03/05/2026
-Volibear - Relentless Storm (Overnumbered),Origins,Showcase,#300/298,49,30,77.12,Available,01:30:18 03/05/2026
-Kinkou Initiate,Unleashed,Common,#097/219,17,0.49,0.86,Available,01:30:18 03/05/2026
-Vanguard Attendant,Origins: Proving Grounds,Common,#016/024,89,0.1,0.31,Available,01:30:18 03/05/2026
-Ashe - Focused,Unleashed,Rare,#169/219,17,7.44,10.38,Available,01:30:18 03/05/2026
-Heedless Resurrection,Unleashed,Rare,#142/219,19,4.48,6.76,Available,01:30:18 03/05/2026
-Aspirant's Climb,Riftbound Promotional Cards,Promo,#276a/298,12,48.65,48.54,Available,01:30:18 03/05/2026
-Back Off,Unleashed,Uncommon,#042/219,15,0.49,1.39,Available,01:30:18 03/05/2026
-Tactical Retreat,Unleashed,Rare,#175/219,16,4.44,10.23,Available,01:30:18 03/05/2026
-Crescent Strike,Unleashed,Uncommon,#072/219,18,0.49,1.13,Available,01:30:18 03/05/2026
-Sprite Burst,Unleashed,Common,#069/219,14,0.49,0.57,Available,01:30:18 03/05/2026
-Shepherd's Heirloom,Unleashed,Common,#158/219,13,0.34,0.77,Available,01:30:18 03/05/2026
-Zephyr Sage,Origins: Proving Grounds,Uncommon,#005/024,92,0.1,0.35,Available,01:30:18 03/05/2026
-Vi - Peacekeeper,Unleashed,Rare,#176/219,15,2.98,6.1,Available,01:30:18 03/05/2026
-Keeper's Verdict,Unleashed,Epic,#204/219,20,3.68,6.28,Available,01:30:18 03/05/2026
-Bewitching Spirit,Unleashed,Common,#121/219,18,0.35,0.84,Available,01:30:18 03/05/2026
-Irresistible Faefolk,Unleashed,Rare,#112/219,17,6.48,7.13,Available,01:30:18 03/05/2026
-Bone Skewer,Unleashed,Rare,#139/219,17,3.93,7.88,Available,01:30:18 03/05/2026
-Gentle Gemdragon,Unleashed,Uncommon,#104/219,16,0.98,1.36,Available,01:30:18 03/05/2026
-Elder Dragon,Unleashed,Epic,#118/219,19,70.1,88.98,Available,01:30:18 03/05/2026
-Jinx - Loose Cannon (Overnumbered),Origins,Showcase,#301/298,36,42.5,105.56,Available,01:30:18 03/05/2026
-Seal of Insight (Overnumbered),Spiritforged,Showcase,#229/221,51,69.99,78.76,Available,01:30:18 03/05/2026
-Caitlyn - Patrolling,Riftbound Promotional Cards,Promo,#068a/298,20,29.99,35.21,Available,01:30:18 03/05/2026
-Dusk Rose Lab,Unleashed,Uncommon,#209/219,14,0.49,1.18,Available,01:30:18 03/05/2026
-Warwick - Hunter,Riftbound Promotional Cards,Promo,#159a/298,18,16.64,19.52,Available,01:30:18 03/05/2026
-Dragonsoul Sage,Unleashed,Common,#093/219,17,0.35,0.88,Available,01:30:18 03/05/2026
-Sprite Queen,Unleashed,Rare,#084/219,20,4.19,8.73,Available,01:30:18 03/05/2026
-Galio - Indefatigable,Unleashed,Rare,#171/219,22,3.67,11.14,Available,01:30:18 03/05/2026
-Star Spring,Unleashed,Uncommon,#215/219,16,0.49,1.05,Available,01:30:18 03/05/2026
-Soul Sword,Unleashed,Common,#039/219,11,0.3,0.65,Available,01:30:18 03/05/2026
-Existential Dread,Unleashed,Uncommon,#134/219,11,0.49,1.02,Available,01:30:18 03/05/2026
-Teemo - Swift Scout (Alternate Art),Riftbound Promotional Cards,Promo,#263a/298,33,139.99,180.95,Available,01:30:18 03/05/2026
-Nidalee - Cat Form,Unleashed,Rare,#114/219,16,4.16,7.38,Available,01:30:18 03/05/2026
-LeBlanc - Fragmented,Unleashed,Rare,#172/219,17,11.49,19,Available,01:30:18 03/05/2026
-Yasuo - Windrider (Signature),Spiritforged,Showcase,#235,17,373.94,394.86,Available,01:30:18 03/05/2026
-Vi - Destructive,Riftbound Promotional Cards,Promo,#036a/298,21,84.8,88.03,Available,01:30:18 03/05/2026
-Forbidding Waste,Unleashed,Uncommon,#210/219,18,0.49,1.23,Available,01:30:18 03/05/2026
-Vaults of Helia,Unleashed,Uncommon,#219/219,14,0.98,1.15,Available,01:30:18 03/05/2026
-Grim Apothecary,Unleashed,Rare,#021/219,22,3.17,8.12,Available,01:30:18 03/05/2026
-Pyke - Dockside Butcher,Unleashed,Epic,#028/219,16,17.8,26.24,Available,01:30:18 03/05/2026
-Diana - Lunari,Unleashed,Rare,#079/219,26,3.42,9.48,Available,01:30:18 03/05/2026
-Stare Down,Unleashed,Uncommon,#107/219,13,0.49,1.15,Available,01:30:18 03/05/2026
-Abandoned Hall,Unleashed,Uncommon,#205/219,14,0.49,0.93,Available,01:30:18 03/05/2026
-Atakhan,Unleashed,Rare,#170/219,23,6.84,9.93,Available,01:30:18 03/05/2026
-Void Assault,Unleashed,Epic,#202/219,18,7.48,9.06,Available,01:30:18 03/05/2026
-Smite,Unleashed,Common,#007/219,15,0.3,0.57,Available,01:30:18 03/05/2026
+Defy,Origins,Common,#045/298,231,1.14,1.44,Available,01:29:12 04/05/2026
+Hidden Blade,Origins,Common,#213/298,184,0.75,0.94,Available,01:29:12 04/05/2026
+Discipline,Origins,Uncommon,#058/298,159,0.75,1.02,Available,01:29:12 04/05/2026
+Charm,Origins,Common,#043/298,203,0.5,0.53,Available,01:29:12 04/05/2026
+Cull the Weak,Origins,Common,#209/298,272,0.2,0.31,Available,01:29:12 04/05/2026
+En Garde,Origins,Common,#046/298,615,0.08,0.24,Available,01:29:12 04/05/2026
+Stacked Deck,Origins,Uncommon,#183/298,259,3.19,3.76,Available,01:29:12 04/05/2026
+Tideturner,Origins,Rare,#199/298,88,0.98,1.91,Available,01:29:12 04/05/2026
+Rebuke,Origins,Common,#172/298,257,0.4,0.49,Available,01:29:12 04/05/2026
+Noxus Hopeful,Origins,Common,#012/298,305,0.27,0.31,Available,01:29:12 04/05/2026
+Arise!,Spiritforged,Epic,#198/221,113,14.79,15.87,Available,01:29:12 04/05/2026
+Guardian Angel,Spiritforged,Rare,#051/221,320,0.49,0.82,Available,01:29:12 04/05/2026
+Karthus - Eternal,Origins,Rare,#236/298,100,4.2,5.91,Available,01:29:12 04/05/2026
+Salvage,Origins,Uncommon,#224/298,138,4.11,4.16,Available,01:29:12 04/05/2026
+Bellows Breath,Spiritforged,Rare,#080/221,246,0.74,0.93,Available,01:29:12 04/05/2026
+Stupefy,Origins,Common,#095/298,500,0.18,0.19,Available,01:29:12 04/05/2026
+Ferrous Forerunner,Spiritforged,Rare,#021/221,264,0.37,0.71,Available,01:29:12 04/05/2026
+Singularity,Origins,Uncommon,#105/298,182,1.74,2.24,Available,01:29:12 04/05/2026
+Ride The Wind,Origins,Common,#173/298,278,0.49,0.54,Available,01:29:12 04/05/2026
+Deathgrip,Spiritforged,Uncommon,#163/221,448,0.17,0.23,Available,01:29:12 04/05/2026
+Thousand-Tailed Watcher,Origins,Rare,#116/298,121,18.49,21.02,Available,01:29:12 04/05/2026
+Not So Fast,Spiritforged,Uncommon,#045/221,278,0.74,1,Available,01:29:12 04/05/2026
+Hard Bargain,Spiritforged,Uncommon,#136/221,405,0.25,0.35,Available,01:29:12 04/05/2026
+Fizz - Trickster,Spiritforged,Rare,#140/221,286,0.45,0.76,Available,01:29:12 04/05/2026
+First Mate,Origins,Common,#132/298,433,0.08,0.19,Available,01:29:12 04/05/2026
+Gust,Origins,Common,#169/298,778,0.08,0.14,Available,01:29:12 04/05/2026
+Plundering Poro,Spiritforged,Common,#069/221,781,0.03,0.07,Available,01:29:12 04/05/2026
+Challenge,Origins,Common,#128/298,479,0.08,0.22,Available,01:29:12 04/05/2026
+Falling Star,Origins,Rare,#029/298,129,4.79,5.11,Available,01:29:12 04/05/2026
+Flash,Origins: Proving Grounds,Common,#011/024,80,3,4.98,Available,01:29:12 04/05/2026
+Sabotage,Origins,Rare,#156/298,154,5.11,7.07,Available,01:29:12 04/05/2026
+Sand Soldier // Buff,Spiritforged,Common,#T02,323,0.01,0.15,Available,01:29:12 04/05/2026
+Brynhir Thundersong,Origins,Rare,#026/298,194,4,4.52,Available,01:29:12 04/05/2026
+Mindsplitter,Origins,Rare,#192/298,191,3.7,4.23,Available,01:29:12 04/05/2026
+Lonely Poro,Spiritforged,Common,#036/221,796,0.09,0.14,Available,01:29:12 04/05/2026
+Akshan - Mischievous,Spiritforged,Rare,#109/221,319,0.49,0.8,Available,01:29:12 04/05/2026
+Darius - Trifarian,Origins,Rare,#027/298,163,2.45,2.74,Available,01:29:12 04/05/2026
+Calm Rune,Spiritforged,Common,#R02,280,0.08,0.11,Available,01:29:12 04/05/2026
+Order Rune,Spiritforged,Common,#R06,296,0.06,0.1,Available,01:29:12 04/05/2026
+Stellacorn Herder,Spiritforged,Uncommon,#048/221,323,0.39,0.59,Available,01:29:12 04/05/2026
+Rengar - Pouncing,Spiritforged,Rare,#025/221,399,0.2,0.31,Available,01:29:12 04/05/2026
+B.F. Sword,Spiritforged,Uncommon,#161/221,510,0.1,0.24,Available,01:29:12 04/05/2026
+Zhonya's Hourglass,Origins,Rare,#077/298,171,5.49,7.11,Available,01:29:12 04/05/2026
+Honest Broker,Spiritforged,Common,#155/221,764,0.06,0.1,Available,01:29:12 04/05/2026
+Facebreaker,Origins,Uncommon,#220/298,428,0.15,0.21,Available,01:29:12 04/05/2026
+Fiora - Victorious,Origins,Rare,#232/298,134,2.6,3.04,Available,01:29:12 04/05/2026
+Defiant Dance,Spiritforged,Epic,#196/221,233,7.5,12.12,Available,01:29:12 04/05/2026
+Wind Wall,Origins,Uncommon,#064/298,204,0.79,1.39,Available,01:29:12 04/05/2026
+Rek'Sai - Breacher,Spiritforged,Epic,#029/221,49,8.99,8.81,Available,01:29:12 04/05/2026
+Sona - Harmonious,Origins,Rare,#073/298,66,3.5,4.42,Available,01:29:12 04/05/2026
+Ravenbloom Student,Origins,Uncommon,#103/298,589,0.08,0.25,Available,01:29:12 04/05/2026
+Brutalizer,Spiritforged,Uncommon,#042/221,501,0.19,0.27,Available,01:29:12 04/05/2026
+Soaring Scout,Origins,Common,#216/298,619,0.06,0.14,Available,01:29:12 04/05/2026
+Desert's Call,Spiritforged,Common,#031/221,825,0.05,0.12,Available,01:29:12 04/05/2026
+Unyielding Spirit,Origins,Uncommon,#145/298,147,0.5,1.02,Available,01:29:12 04/05/2026
+Retreat,Origins,Uncommon,#104/298,301,0.93,1.35,Available,01:29:12 04/05/2026
+Imperial Decree,Origins,Uncommon,#221/298,195,0.99,1.7,Available,01:29:12 04/05/2026
+Switcheroo,Spiritforged,Rare,#145/221,480,0.25,0.32,Available,01:29:12 04/05/2026
+Sneaky Deckhand,Origins,Common,#176/298,411,0.19,0.22,Available,01:29:12 04/05/2026
+Spinning Axe,Spiritforged,Epic,#186/221,279,3.18,3.76,Available,01:29:12 04/05/2026
+Arcane Shift,Spiritforged,Epic,#200/221,281,1.69,2.12,Available,01:29:12 04/05/2026
+Vex - Cheerless,Spiritforged,Rare,#146/221,336,0.49,0.76,Available,01:29:12 04/05/2026
+Sea Monkey,Spiritforged,Common,#098/221,908,0.01,0.05,Available,01:29:12 04/05/2026
+Trinity Force,Spiritforged,Rare,#115/221,430,0.2,0.29,Available,01:29:12 04/05/2026
+Ruin Runner,Spiritforged,Uncommon,#105/221,482,0.2,0.25,Available,01:29:12 04/05/2026
+Riposte,Spiritforged,Epic,#206/221,183,1.98,1.87,Available,01:29:12 04/05/2026
+Watchful Sentry,Origins,Common,#096/298,588,0.07,0.2,Available,01:29:12 04/05/2026
+Void Rush,Spiritforged,Epic,#188/221,179,2.77,2.82,Available,01:29:12 04/05/2026
+Card Sharp,Spiritforged,Rare,#081/221,407,0.24,0.26,Available,01:29:12 04/05/2026
+Punch First,Spiritforged,Common,#097/221,744,0.08,0.13,Available,01:29:12 04/05/2026
+Recruit (273) // Buff,Origins,Common,#273/298,328,0.1,0.2,Available,01:29:12 04/05/2026
+Find Your Center,Origins,Common,#047/298,477,0.08,0.22,Available,01:29:12 04/05/2026
+Glasc Mixologist,Spiritforged,Uncommon,#165/221,453,0.09,0.2,Available,01:29:12 04/05/2026
+Chaos Rune,Spiritforged,Common,#R05,347,0.01,0.07,Available,01:29:12 04/05/2026
+Thermo Beam,Origins,Uncommon,#022/298,188,0.41,0.58,Available,01:29:12 04/05/2026
+Xin Zhao - Vigilant,Spiritforged,Rare,#176/221,364,0.25,0.41,Available,01:29:12 04/05/2026
+Order Rune,Origins,Common,#214/298,363,0.14,0.18,Available,01:29:12 04/05/2026
+Soraka - Wanderer,Spiritforged,Rare,#173/221,553,0.1,0.23,Available,01:29:12 04/05/2026
+Wages of Pain,Spiritforged,Common,#070/221,705,0.07,0.11,Available,01:29:12 04/05/2026
+Last Rites,Spiritforged,Epic,#150/221,195,11.45,11.85,Available,01:29:12 04/05/2026
+Rek'Sai - Breacher (Alternate Art),Spiritforged,Showcase,#029a/221,39,9.99,11.68,Available,01:29:12 04/05/2026
+Nocturne - Horrifying,Origins,Rare,#194/298,203,0.95,1.37,Available,01:29:12 04/05/2026
+Lucian - Merciless,Spiritforged,Rare,#113/221,408,0.15,0.33,Available,01:29:12 04/05/2026
+Piercing Light,Spiritforged,Rare,#023/221,440,0.2,0.34,Available,01:29:12 04/05/2026
+Catalyst of Aeons,Origins,Uncommon,#138/298,187,0.5,0.6,Available,01:29:12 04/05/2026
+Rhasa the Sunderer,Origins,Rare,#195/298,266,0.65,0.8,Available,01:29:12 04/05/2026
+Faithful Manufactor,Origins,Common,#211/298,509,0.1,0.21,Available,01:29:12 04/05/2026
+Pouty Poro,Origins,Common,#013/298,741,0.04,0.19,Available,01:29:12 04/05/2026
+Spectral Matron,Origins,Uncommon,#226/298,178,0.4,0.48,Available,01:29:12 04/05/2026
+Qiyana - Victorious,Origins,Rare,#155/298,174,1.95,2.3,Available,01:29:12 04/05/2026
+Sprite Call,Origins,Common,#094/298,700,0.05,0.15,Available,01:29:12 04/05/2026
+Vanguard Armory,Spiritforged,Uncommon,#168/221,527,0.19,0.25,Available,01:29:12 04/05/2026
+Body Rune,Spiritforged,Common,#R04,366,0.01,0.06,Available,01:29:12 04/05/2026
+Harnessed Dragon,Origins,Rare,#234/298,120,0.9,1.28,Available,01:29:12 04/05/2026
+Relentless Pursuit,Spiritforged,Epic,#184/221,235,1.96,2.39,Available,01:29:12 04/05/2026
+Tryndamere - Barbarian,Riftbound Organized Play Promotional Cards,Promo,#034/298,52,1,1.14,Available,01:29:12 04/05/2026
+Irelia - Fervent,Spiritforged,Epic,#057/221,158,5.99,7.6,Available,01:29:12 04/05/2026
+Lecturing Yordle,Origins,Common,#087/298,480,0.08,0.25,Available,01:29:12 04/05/2026
+Boots of Swiftness,Spiritforged,Uncommon,#133/221,568,0.1,0.18,Available,01:29:12 04/05/2026
+Stalwart Poro,Origins,Common,#052/298,748,0.05,0.14,Available,01:29:12 04/05/2026
+Jayce - Man of Progress,Spiritforged,Rare,#084/221,426,0.13,0.35,Available,01:29:12 04/05/2026
+Gold // Buff,Spiritforged,Common,#T03,319,0.07,0.13,Available,01:29:12 04/05/2026
+Daring Poro,Origins,Common,#210/298,939,0.06,0.12,Available,01:29:12 04/05/2026
+Ezreal - Prodigy,Spiritforged,Epic,#149/221,271,9.99,12.22,Available,01:29:12 04/05/2026
+Hostile Takeover,Spiritforged,Epic,#202/221,223,0.89,1.15,Available,01:29:12 04/05/2026
+Cleave,Origins,Common,#004/298,790,0.09,0.14,Available,01:29:12 04/05/2026
+Calm Rune,Origins,Common,#042/298,281,0.1,0.14,Available,01:29:12 04/05/2026
+Fury Rune (Alternate Art),Spiritforged,Showcase,#R01a,112,3.93,5.46,Available,01:29:12 04/05/2026
+Traveling Merchant,Origins,Uncommon,#185/298,580,0.1,0.19,Available,01:29:12 04/05/2026
+Unchecked Power,Origins,Epic,#123/298,32,35,38.29,Available,01:29:12 04/05/2026
+Consult the Past,Origins,Common,#083/298,629,0.07,0.19,Available,01:29:12 04/05/2026
+Smoke Screen,Origins,Common,#093/298,575,0.1,0.18,Available,01:29:12 04/05/2026
+Mind Rune,Spiritforged,Common,#R03,345,0.01,0.06,Available,01:29:12 04/05/2026
+Call to Glory,Origins,Common,#207/298,454,0.1,0.22,Available,01:29:12 04/05/2026
+Seal of Discord,Origins,Epic,#204/298,188,25.09,27.41,Available,01:29:12 04/05/2026
+Chaos Rune,Origins,Common,#166/298,360,0.12,0.15,Available,01:29:12 04/05/2026
+Windsinger,Spiritforged,Uncommon,#138/221,576,0.1,0.14,Available,01:29:12 04/05/2026
+Azir - Emperor of the Sands,Spiritforged,Rare,#197/221,588,0.1,0.16,Available,01:29:12 04/05/2026
+Mind Rune,Origins,Common,#089/298,286,0.16,0.15,Available,01:29:12 04/05/2026
+Vanguard Captain,Origins,Common,#218/298,633,0.1,0.21,Available,01:29:12 04/05/2026
+Acceptable Losses,Origins,Uncommon,#179/298,300,0.18,0.29,Available,01:29:12 04/05/2026
+Heart of Dark Ice,Spiritforged,Rare,#052/221,587,0.1,0.25,Available,01:29:12 04/05/2026
+Rek'sai - Void Burrower,Spiritforged,Rare,#187/221,659,0.07,0.17,Available,01:29:12 04/05/2026
+Undertitan,Spiritforged,Rare,#175/221,547,0.14,0.25,Available,01:29:12 04/05/2026
+Blitzcrank - Impassive,Origins,Rare,#067/298,147,0.66,0.9,Available,01:29:12 04/05/2026
+Mind Rune (Alternate Art),Spiritforged,Showcase,#R03a,110,5.67,7.34,Available,01:29:12 04/05/2026
+Edge of Night,Spiritforged,Rare,#139/221,594,0.1,0.26,Available,01:29:12 04/05/2026
+Order Rune (Alternate Art),Spiritforged,Showcase,#R06a,98,7,8.01,Available,01:29:12 04/05/2026
+Baited Hook,Origins,Epic,#242/298,96,28.94,40.62,Available,01:29:12 04/05/2026
+Confront,Origins,Common,#129/298,851,0.04,0.12,Available,01:29:12 04/05/2026
+Sacred Shears,Spiritforged,Rare,#172/221,588,0.1,0.19,Available,01:29:12 04/05/2026
+Progress Day,Origins,Rare,#114/298,90,0.49,1.02,Available,01:29:12 04/05/2026
+Eye of the Herald,Spiritforged,Common,#153/221,876,0.02,0.06,Available,01:29:12 04/05/2026
+Ekko - Recurrent,Origins,Rare,#110/298,132,0.98,1.06,Available,01:29:12 04/05/2026
+Seal of Insight,Origins,Epic,#120/298,155,15,15.97,Available,01:29:12 04/05/2026
+Overzealous Fan,Spiritforged,Common,#128/221,910,0.01,0.11,Available,01:29:12 04/05/2026
+Pit Rookie,Origins,Common,#136/298,666,0.06,0.16,Available,01:29:12 04/05/2026
+Trifarian War Camp,Origins,Uncommon,#294/298,308,0.25,0.27,Available,01:29:12 04/05/2026
+Downwell,Spiritforged,Epic,#147/221,147,3.49,4.07,Available,01:29:12 04/05/2026
+Mobilize,Origins,Common,#134/298,686,0.04,0.11,Available,01:29:12 04/05/2026
+Flurry of Blades,Origins,Common,#133/298,892,0.01,0.11,Available,01:29:12 04/05/2026
+Thwonk!,Spiritforged,Common,#040/221,857,0.03,0.11,Available,01:29:12 04/05/2026
+Treasure Trove,Origins,Uncommon,#186/298,226,0.25,0.29,Available,01:29:12 04/05/2026
+Kai'Sa - Survivor,Origins,Epic,#039/298,99,56.99,67.97,Available,01:29:12 04/05/2026
+Janna - Savior,Spiritforged,Rare,#053/221,450,0.22,0.44,Available,01:29:12 04/05/2026
+Skyfall of Areion,Spiritforged,Epic,#030/221,121,8.89,10.64,Available,01:29:12 04/05/2026
+Dazzling Aurora,Origins,Epic,#160/298,92,50.99,66.71,Available,01:29:12 04/05/2026
+Adaptatron,Origins,Uncommon,#056/298,177,0.25,0.55,Available,01:29:12 04/05/2026
+Long Sword,Spiritforged,Rare,#022/221,491,0.08,0.24,Available,01:29:12 04/05/2026
+Guards!,Spiritforged,Common,#154/221,888,0.04,0.06,Available,01:29:12 04/05/2026
+Counter Strike,Spiritforged,Epic,#194/221,316,1.91,2.04,Available,01:29:12 04/05/2026
+Sprite (274) // Buff,Origins,Common,#274/298,386,0.03,0.09,Available,01:29:12 04/05/2026
+Fury Rune,Spiritforged,Common,#R01,371,0.01,0.06,Available,01:29:12 04/05/2026
+Hextech Ray,Origins,Common,#009/298,547,0.08,0.2,Available,01:29:12 04/05/2026
+Azir - Sovereign,Spiritforged,Epic,#177/221,184,2.27,2.68,Available,01:29:12 04/05/2026
+Draven - Glorious Executioner,Spiritforged,Rare,#185/221,698,0.03,0.18,Available,01:29:12 04/05/2026
+Here to Help,Spiritforged,Rare,#111/221,549,0.14,0.16,Available,01:29:12 04/05/2026
+Body Rune (Alternate Art),Spiritforged,Showcase,#R04a,145,4,4.73,Available,01:29:12 04/05/2026
+Chaos Rune (Alternate Art),Spiritforged,Showcase,#R05a,102,6.93,8.14,Available,01:29:12 04/05/2026
+Irelia - Blade Dancer,Spiritforged,Rare,#195/221,632,0.09,0.23,Available,01:29:12 04/05/2026
+Vi - Destructive,Origins,Rare,#036/298,234,0.5,0.83,Available,01:29:12 04/05/2026
+Seal of Focus,Origins,Epic,#081/298,133,18.75,19.16,Available,01:29:12 04/05/2026
+Doran's Shield,Spiritforged,Common,#033/221,903,0.05,0.06,Available,01:29:12 04/05/2026
+Seal of Strength,Origins,Epic,#163/298,146,12,13.8,Available,01:29:12 04/05/2026
+Calm Rune (Alternate Art),Spiritforged,Showcase,#R02a,110,4,7.56,Available,01:29:12 04/05/2026
+Boneshiver,Spiritforged,Epic,#118/221,185,9.5,12.35,Available,01:29:12 04/05/2026
+Treasure Hunter,Spiritforged,Common,#130/221,893,0.03,0.09,Available,01:29:12 04/05/2026
+Ahri - Nine-Tailed Fox,Origins,Rare,#255/298,143,0.99,1.1,Available,01:29:12 04/05/2026
+Fury Rune,Origins,Common,#007/298,452,0.03,0.18,Available,01:29:12 04/05/2026
+The Arena's Greatest,Origins,Uncommon,#290/298,239,0.1,0.31,Available,01:29:12 04/05/2026
+Recruit (272) // Buff,Origins,Common,#272/298,393,0.03,0.13,Available,01:29:12 04/05/2026
+Meditation,Origins,Common,#048/298,781,0.02,0.12,Available,01:29:12 04/05/2026
+Showstopper,Origins,Epic,#270/298,120,10,16.78,Available,01:29:12 04/05/2026
+Emperor's Divide,Spiritforged,Uncommon,#043/221,642,0.08,0.16,Available,01:29:12 04/05/2026
+Draven - Audacious,Spiritforged,Epic,#148/221,191,3.59,4.19,Available,01:29:12 04/05/2026
+Fury Rune,Riftbound Organized Play Promotional Cards,Promo,#007b/298,93,4,4.41,Available,01:29:12 04/05/2026
+Shen - Kinkou,Origins,Rare,#241/298,166,0.97,1.42,Available,01:29:12 04/05/2026
+Seal of Unity,Origins,Epic,#245/298,124,26.7,28.81,Available,01:29:12 04/05/2026
+Ahri - Alluring,Origins,Rare,#066/298,155,0.87,1,Available,01:29:12 04/05/2026
+Rocket Barrage,Spiritforged,Uncommon,#077/221,542,0.08,0.14,Available,01:29:12 04/05/2026
+On the Hunt,Spiritforged,Epic,#204/221,269,0.48,0.7,Available,01:29:12 04/05/2026
+Rally the Troops,Spiritforged,Uncommon,#166/221,624,0.11,0.18,Available,01:29:12 04/05/2026
+Sprite Mother,Origins,Uncommon,#106/298,414,0.38,0.63,Available,01:29:12 04/05/2026
+Veteran Poro,Spiritforged,Common,#099/221,920,0.01,0.07,Available,01:29:12 04/05/2026
+Tasty Faefolk,Origins,Rare,#075/298,269,0.74,1.05,Available,01:29:12 04/05/2026
+Tianna Crownguard,Spiritforged,Epic,#060/221,172,2.75,2.86,Available,01:29:12 04/05/2026
+Frigid Touch,Spiritforged,Common,#066/221,866,0.01,0.05,Available,01:29:12 04/05/2026
+Chaos Rune,Riftbound Organized Play Promotional Cards,Promo,#166b/298,72,8.98,7.43,Available,01:29:12 04/05/2026
+Seal of Rage,Origins,Epic,#040/298,132,15.99,18.85,Available,01:29:12 04/05/2026
+Svellsongur,Spiritforged,Epic,#059/221,151,13,15.12,Available,01:29:12 04/05/2026
+Sett - Brawler,Origins,Epic,#164/298,122,21.99,23.46,Available,01:29:12 04/05/2026
+Blade of the Ruined King,Spiritforged,Epic,#178/221,129,2.98,3.55,Available,01:29:12 04/05/2026
+Body Rune,Riftbound Organized Play Promotional Cards,Promo,#126b/298,87,2.96,3.24,Available,01:29:12 04/05/2026
+Dr. Mundo - Expert,Origins,Rare,#109/298,233,0.53,0.82,Available,01:29:12 04/05/2026
+Block,Origins,Uncommon,#057/298,393,0.08,0.25,Available,01:29:12 04/05/2026
+Danger Zone,Spiritforged,Epic,#182/221,302,0.2,0.54,Available,01:29:12 04/05/2026
+Mystic Poro,Origins,Common,#171/298,842,0.04,0.09,Available,01:29:12 04/05/2026
+Aspirant's Climb,Origins,Uncommon,#276/298,311,0.13,0.25,Available,01:29:12 04/05/2026
+Teemo - Strategist,Origins,Epic,#121/298,84,2.8,4.15,Available,01:29:12 04/05/2026
+Sterak's Gage,Spiritforged,Rare,#056/221,579,0.1,0.21,Available,01:29:12 04/05/2026
+Falling Comet,Origins,Common,#085/298,678,0.08,0.15,Available,01:29:12 04/05/2026
+Targon's Peak,Origins,Uncommon,#289/298,465,0.1,0.21,Available,01:29:12 04/05/2026
+Blood Money,Spiritforged,Uncommon,#162/221,655,0.05,0.13,Available,01:29:12 04/05/2026
+Grand Strategem,Origins,Rare,#233/298,219,0.45,0.82,Available,01:29:12 04/05/2026
+Deadbloom Predator,Origins,Epic,#161/298,151,22.98,26.75,Available,01:29:12 04/05/2026
+Bullet Time,Origins,Epic,#268/298,72,12.99,15.06,Available,01:29:12 04/05/2026
+Calm Rune,Riftbound Organized Play Promotional Cards,Promo,#042b/298,83,4,3.94,Available,01:29:12 04/05/2026
+Pack of Wonders,Origins,Uncommon,#181/298,350,0.14,0.18,Available,01:29:12 04/05/2026
+Teemo - Scout,Riftbound Promotional Cards,Promo,#197/298,52,2.49,2.54,Available,01:29:12 04/05/2026
+Kai'Sa - Evolutionary,Origins,Rare,#112/298,144,0.49,0.62,Available,01:29:12 04/05/2026
+Vilemaw's Lair,Origins,Uncommon,#295/298,173,0.19,0.36,Available,01:29:12 04/05/2026
+Fiora - Grand Duelist,Spiritforged,Rare,#205/221,685,0.04,0.16,Available,01:29:12 04/05/2026
+Recruit (271) // Buff,Origins,Common,#271/298,380,0.04,0.14,Available,01:29:12 04/05/2026
+Drag Under,Spiritforged,Uncommon,#164/221,596,0.06,0.17,Available,01:29:12 04/05/2026
+Premonition,Spiritforged,Epic,#087/221,223,1.95,2.52,Available,01:29:12 04/05/2026
+Party Favors,Origins,Rare,#071/298,339,0.1,0.33,Available,01:29:12 04/05/2026
+Chaos Rune (Alternate Art),Origins,Showcase,#166a/298,101,6,8.59,Available,01:29:12 04/05/2026
+Herald of Scales,Origins,Uncommon,#140/298,340,0.08,0.25,Available,01:29:12 04/05/2026
+Mind Rune,Riftbound Organized Play Promotional Cards,Promo,#089b/298,78,5.12,5.84,Available,01:29:12 04/05/2026
+The Syren,Origins,Uncommon,#184/298,303,0.15,0.27,Available,01:29:12 04/05/2026
+Called Shot,Spiritforged,Common,#122/221,915,0.01,0.07,Available,01:29:12 04/05/2026
+Whiteflame Protector,Origins,Epic,#082/298,147,6.95,9.96,Available,01:29:12 04/05/2026
+Yone - Blademaster,Spiritforged,Rare,#116/221,612,0.1,0.2,Available,01:29:12 04/05/2026
+Mask of Foresight,Origins,Uncommon,#060/298,395,0.08,0.24,Available,01:29:12 04/05/2026
+Dunebreaker,Spiritforged,Epic,#027/221,176,0.99,1.68,Available,01:29:12 04/05/2026
+Kadregrin the Infernal,Origins,Epic,#038/298,89,13.34,13.36,Available,01:29:12 04/05/2026
+Shakedown,Origins,Rare,#033/298,232,0.3,0.47,Available,01:29:12 04/05/2026
+Ornn - Forge God,Spiritforged,Rare,#085/221,455,0.19,0.27,Available,01:29:12 04/05/2026
+Body Rune,Origins,Common,#126/298,428,0.01,0.14,Available,01:29:12 04/05/2026
+Blood Rush,Spiritforged,Common,#003/221,946,0.04,0.08,Available,01:29:12 04/05/2026
+Zaun Warrens,Origins,Uncommon,#298/298,393,0.1,0.21,Available,01:29:12 04/05/2026
+Forgefire Cape,Spiritforged,Epic,#190/221,403,0.2,0.32,Available,01:29:12 04/05/2026
+Miss Fortune - Captain,Origins,Epic,#162/298,98,4,8.13,Available,01:29:12 04/05/2026
+Machine Evangel,Origins,Rare,#239/298,232,0.29,0.66,Available,01:29:12 04/05/2026
+Grove of the God-Willow,Origins,Uncommon,#280/298,394,0.1,0.28,Available,01:29:12 04/05/2026
+Ancient Henge,Spiritforged,Epic,#117/221,150,0.94,0.93,Available,01:29:12 04/05/2026
+Corina Veraza,Spiritforged,Epic,#179/221,136,1.72,2,Available,01:29:12 04/05/2026
+Irelia - Fervent (Alternate Art),Spiritforged,Showcase,#057a/221,184,6.59,10.09,Available,01:29:12 04/05/2026
+Anivia - Primal,Origins,Rare,#148/298,208,0.32,0.57,Available,01:29:12 04/05/2026
+Draven - Showboat,Origins,Rare,#028/298,234,0.3,0.97,Available,01:29:12 04/05/2026
+Order Rune,Riftbound Organized Play Promotional Cards,Promo,#214b/298,74,4.04,5.25,Available,01:29:12 04/05/2026
+The Harrowing,Origins,Rare,#198/298,245,0.24,0.36,Available,01:29:12 04/05/2026
+Time Warp,Origins,Epic,#122/298,114,49.99,59.04,Available,01:29:12 04/05/2026
+Renata Glasc - Industrialist,Spiritforged,Rare,#171/221,530,0.15,0.23,Available,01:29:12 04/05/2026
+Fury Rune (Alternate Art),Origins,Showcase,#007a/298,118,5.97,6.69,Available,01:29:12 04/05/2026
+King's Edict,Origins,Rare,#237/298,335,0.1,0.26,Available,01:29:12 04/05/2026
+Pit Crew,Origins,Common,#091/298,675,0.01,0.14,Available,01:29:12 04/05/2026
+Jax - Unrelenting,Spiritforged,Epic,#119/221,202,0.88,1.25,Available,01:29:12 04/05/2026
+Fiora - Worthy,Spiritforged,Epic,#180/221,280,0.3,0.43,Available,01:29:12 04/05/2026
+Azir - Ascendant,Spiritforged,Rare,#050/221,550,0.1,0.24,Available,01:29:12 04/05/2026
+Leona - Determined,Origins,Rare,#238/298,237,0.43,0.67,Available,01:29:12 04/05/2026
+Battering Ram,Spiritforged,Uncommon,#012/221,609,0.05,0.13,Available,01:29:12 04/05/2026
+Void Gate,Origins,Uncommon,#296/298,322,0.1,0.25,Available,01:29:12 04/05/2026
+The Candlelit Sanctum,Origins,Uncommon,#291/298,315,0.1,0.26,Available,01:29:12 04/05/2026
+Rabadon's Deathcrown,Spiritforged,Epic,#191/221,389,0.3,0.41,Available,01:29:12 04/05/2026
+Void Seeker,Origins,Uncommon,#024/298,588,0.07,0.21,Available,01:29:12 04/05/2026
+Twisted Fate - Gambler,Origins,Rare,#200/298,285,0.19,0.37,Available,01:29:12 04/05/2026
+Factory Recall,Spiritforged,Uncommon,#135/221,644,0.05,0.13,Available,01:29:12 04/05/2026
+Warwick - Hunter,Origins,Rare,#159/298,234,0.49,0.74,Available,01:29:12 04/05/2026
+Garbage Grabber,Origins,Uncommon,#099/298,456,0.08,0.18,Available,01:29:12 04/05/2026
+Ezreal - Prodigy (Alternate Art),Spiritforged,Showcase,#149a/221,218,10.99,14.58,Available,01:29:12 04/05/2026
+Seat of Power,Spiritforged,Uncommon,#217/221,683,0.02,0.08,Available,01:29:12 04/05/2026
+Void Hatchling,Spiritforged,Uncommon,#018/221,661,0.01,0.12,Available,01:29:12 04/05/2026
+Poro Snax,Spiritforged,Uncommon,#046/221,625,0.04,0.16,Available,01:29:12 04/05/2026
+Disarming Rake,Spiritforged,Common,#032/221,834,0.01,0.06,Available,01:29:12 04/05/2026
+Sivir - Mercenary,Spiritforged,Rare,#143/221,559,0.05,0.22,Available,01:29:12 04/05/2026
+Azir - Sovereign (Alternate Art),Spiritforged,Showcase,#177a/221,153,2,3,Available,01:29:12 04/05/2026
+Miss Fortune - Buccaneer,Origins,Rare,#193/298,278,0.2,0.46,Available,01:29:12 04/05/2026
+Immortal Phoenix,Origins,Epic,#037/298,123,16.32,19.69,Available,01:29:12 04/05/2026
+Viktor - Leader,Riftbound Organized Play Promotional Cards,Promo,#246/298,49,9,12,Available,01:29:12 04/05/2026
+Shurelya's Requiem,Spiritforged,Epic,#192/221,380,0.27,0.38,Available,01:29:12 04/05/2026
+The Zero Drive,Spiritforged,Epic,#090/221,156,2.14,2.33,Available,01:29:12 04/05/2026
+Spirit Wheel,Spiritforged,Rare,#144/221,636,0.08,0.14,Available,01:29:12 04/05/2026
+Unsung Hero,Spiritforged,Uncommon,#167/221,660,0.1,0.16,Available,01:29:12 04/05/2026
+Mageseeker Warden,Origins,Rare,#070/298,309,0.08,0.33,Available,01:29:12 04/05/2026
+Irelia - Graceful (Alternate Art),Spiritforged,Showcase,#141a/221,137,0.98,1.46,Available,01:29:12 04/05/2026
+World Atlas,Spiritforged,Rare,#086/221,616,0.1,0.2,Available,01:29:12 04/05/2026
+Rumble - Scrapper,Spiritforged,Epic,#089/221,170,0.49,0.76,Available,01:29:12 04/05/2026
+Rell - Magnetic,Spiritforged,Rare,#024/221,594,0.1,0.18,Available,01:29:12 04/05/2026
+Vayne - Hunter,Origins,Rare,#035/298,219,0.3,0.73,Available,01:29:12 04/05/2026
+Sett - Kingpin,Origins,Rare,#240/298,281,0.35,0.52,Available,01:29:12 04/05/2026
+Invert Timelines,Origins,Epic,#201/298,105,17.5,19.25,Available,01:29:12 04/05/2026
+Renata Glasc - Mastermind,Spiritforged,Epic,#088/221,249,0.49,0.95,Available,01:29:12 04/05/2026
+Riptide Rex,Origins,Common,#092/298,680,0.07,0.2,Available,01:29:12 04/05/2026
+Draven - Vanquisher,Spiritforged,Rare,#020/221,618,0.15,0.19,Available,01:29:12 04/05/2026
+Lucian - Gunslinger,Spiritforged,Epic,#028/221,229,0.39,0.79,Available,01:29:12 04/05/2026
+Siphon Power,Origins,Epic,#266/298,185,1.88,2.33,Available,01:29:12 04/05/2026
+Jinx - Demolitionist,Origins,Rare,#030/298,441,0.19,0.23,Available,01:29:12 04/05/2026
+Kog'Maw - Caustic,Origins,Rare,#190/298,281,0.23,0.38,Available,01:29:12 04/05/2026
+Windswept Hillock,Origins,Uncommon,#297/298,361,0.1,0.23,Available,01:29:12 04/05/2026
+Cannon Barrage,Origins,Common,#127/298,742,0.05,0.16,Available,01:29:12 04/05/2026
+Soulgorger,Origins,Rare,#196/298,245,0.19,0.49,Available,01:29:12 04/05/2026
+Ravenbloom Conservatory,Spiritforged,Uncommon,#215/221,680,0.02,0.14,Available,01:29:12 04/05/2026
+Eager Apprentice,Origins,Common,#084/298,889,0.01,0.08,Available,01:29:12 04/05/2026
+Zenith Blade,Origins,Epic,#262/298,108,13,15.55,Available,01:29:12 04/05/2026
+Vengeance,Origins,Uncommon,#229/298,448,0.2,0.26,Available,01:29:12 04/05/2026
+Yasuo - Remorseful,Origins,Rare,#076/298,243,0.3,0.49,Available,01:29:12 04/05/2026
+Karma - Channeler,Origins,Rare,#235/298,245,0.24,0.39,Available,01:29:12 04/05/2026
+Clockwork Keeper,Origins,Common,#044/298,814,0.09,0.18,Available,01:29:12 04/05/2026
+Lucian - Gunslinger (Alternate Art),Spiritforged,Showcase,#028a/221,178,0.9,0.85,Available,01:29:12 04/05/2026
+Guerilla Warfare,Origins,Epic,#264/298,149,3.5,5.23,Available,01:29:12 04/05/2026
+Lee Sin - Ascetic,Riftbound Organized Play Promotional Cards,Promo,#078/298,53,4.99,9.14,Available,01:29:12 04/05/2026
+Sivir - Ambitious,Spiritforged,Epic,#120/221,259,0.37,0.69,Available,01:29:12 04/05/2026
+Fiora - Peerless,Spiritforged,Rare,#110/221,646,0.03,0.15,Available,01:29:12 04/05/2026
+Caitlyn - Patrolling,Origins,Rare,#068/298,252,0.3,0.36,Available,01:29:12 04/05/2026
+Stormbringer,Origins,Epic,#250/298,103,5,7.75,Available,01:29:12 04/05/2026
+Ornn - Blacksmith,Spiritforged,Epic,#058/221,244,0.5,0.79,Available,01:29:12 04/05/2026
+Sunken Temple,Spiritforged,Uncommon,#218/221,626,0.03,0.13,Available,01:29:12 04/05/2026
+Master Yi - Honed,Origins: Proving Grounds,Epic,#009/024,54,0.99,4.64,Available,01:29:12 04/05/2026
+Cithria of Cloudfield,Origins,Uncommon,#139/298,744,0.05,0.14,Available,01:29:12 04/05/2026
+Aphelios - Exalted,Spiritforged,Rare,#049/221,472,0.15,0.29,Available,01:29:12 04/05/2026
+Mystic Reversal,Origins,Epic,#080/298,125,2.99,5.08,Available,01:29:12 04/05/2026
+Super Mega Death Rocket!,Origins,Epic,#252/298,137,8,10.86,Available,01:29:12 04/05/2026
+Arena Bar,Origins,Common,#124/298,767,0.03,0.13,Available,01:29:12 04/05/2026
+Viktor - Innovator,Origins,Rare,#117/298,369,0.18,0.24,Available,01:29:12 04/05/2026
+Doran's Blade,Spiritforged,Common,#095/221,949,0.01,0.08,Available,01:29:12 04/05/2026
+Kinkou Monk,Origins,Uncommon,#141/298,460,0.09,0.23,Available,01:29:12 04/05/2026
+Ahri - Inquisitive,Origins,Epic,#119/298,87,7,9.4,Available,01:29:12 04/05/2026
+Dragon's Rage,Origins,Epic,#258/298,150,1.2,2.84,Available,01:29:12 04/05/2026
+Carnivorous Snapvine,Origins,Rare,#149/298,194,0.48,0.56,Available,01:29:12 04/05/2026
+Altar of Memories,Spiritforged,Rare,#169/221,614,0.1,0.2,Available,01:29:12 04/05/2026
+Bard - Mercurial,Spiritforged,Rare,#079/221,586,0.05,0.17,Available,01:29:12 04/05/2026
+Renata Glasc - Mastermind (Alternate Art),Spiritforged,Showcase,#088a/221,160,1.25,1.38,Available,01:29:12 04/05/2026
+Volibear - Imposing,Origins,Rare,#158/298,247,0.24,0.46,Available,01:29:12 04/05/2026
+Jax - Unmatched,Spiritforged,Rare,#054/221,593,0.1,0.15,Available,01:29:12 04/05/2026
+Fox-Fire,Origins,Epic,#256/298,129,3,4.13,Available,01:29:12 04/05/2026
+Gem Jammer,Spiritforged,Common,#007/221,934,0.01,0.07,Available,01:29:12 04/05/2026
+Pickpocket,Spiritforged,Uncommon,#074/221,461,0.1,0.16,Available,01:29:12 04/05/2026
+Ezreal - Dashing (Alternate Art),Spiritforged,Showcase,#082a/221,136,1.16,1.74,Available,01:29:12 04/05/2026
+Get Excited!,Origins,Common,#008/298,822,0.01,0.12,Available,01:29:12 04/05/2026
+Draven - Audacious (Alternate Art),Spiritforged,Showcase,#148a/221,152,4.14,4.91,Available,01:29:12 04/05/2026
+Fiora - Worthy (Alternate Art),Spiritforged,Showcase,#180a/221,135,3.89,5.09,Available,01:29:12 04/05/2026
+Heimerdinger - Inventor,Origins,Rare,#111/298,208,0.24,0.56,Available,01:29:12 04/05/2026
+Mech // Buff,Spiritforged,Common,#T01,407,0.01,0.06,Available,01:29:12 04/05/2026
+Legion Rearguard,Origins,Common,#010/298,832,0.02,0.15,Available,01:29:12 04/05/2026
+Ezreal - Prodigal Explorer,Spiritforged,Rare,#199/221,679,0.08,0.12,Available,01:29:12 04/05/2026
+Fiora - Peerless (Alternate Art),Spiritforged,Showcase,#110a/221,162,0.89,1.82,Available,01:29:12 04/05/2026
+Calm Rune (Alternate Art),Origins,Showcase,#042a/298,103,7.05,8.95,Available,01:29:12 04/05/2026
+Morbid Return,Origins,Common,#170/298,795,0.04,0.11,Available,01:29:12 04/05/2026
+Beast Below,Spiritforged,Uncommon,#132/221,654,0.05,0.15,Available,01:29:12 04/05/2026
+Cloth Armor,Spiritforged,Common,#064/221,946,0.01,0.1,Available,01:29:12 04/05/2026
+Volibear - Furious,Origins,Epic,#041/298,130,1.2,2.66,Available,01:29:12 04/05/2026
+Against the Odds,Spiritforged,Common,#001/221,945,0.03,0.05,Available,01:29:12 04/05/2026
+Leona - Zealot,Origins,Epic,#079/298,100,2.95,3.58,Available,01:29:12 04/05/2026
+Body Rune (Alternate Art),Origins,Showcase,#126a/298,123,3.86,6.61,Available,01:29:12 04/05/2026
+Yasuo - Windrider,Origins,Epic,#205/298,117,2.45,3.91,Available,01:29:12 04/05/2026
+Rumble - Hotheaded,Spiritforged,Rare,#026/221,619,0.05,0.13,Available,01:29:12 04/05/2026
+Primal Strength,Origins,Rare,#154/298,299,0.2,0.44,Available,01:29:12 04/05/2026
+Rumble - Scrapper (Alternate Art),Spiritforged,Showcase,#089a/221,122,1.49,2.35,Available,01:29:12 04/05/2026
+Promising Future,Origins,Rare,#115/298,355,0.19,0.27,Available,01:29:12 04/05/2026
+Irelia - Graceful,Spiritforged,Rare,#141/221,605,0.05,0.14,Available,01:29:12 04/05/2026
+Lucian - Merciless (Alternate Art),Spiritforged,Showcase,#113a/221,137,2.99,5.43,Available,01:29:12 04/05/2026
+Possession,Origins,Epic,#203/298,134,2.69,3.57,Available,01:29:12 04/05/2026
+Trove Golem,Spiritforged,Rare,#174/221,553,0.08,0.18,Available,01:29:12 04/05/2026
+Darius - Executioner,Origins,Epic,#243/298,149,0.94,1.36,Available,01:29:12 04/05/2026
+Mind Rune (Alternate Art),Origins,Showcase,#089a/298,126,6,7.11,Available,01:29:12 04/05/2026
+Warmog's Armor,Spiritforged,Uncommon,#108/221,695,0.01,0.09,Available,01:29:12 04/05/2026
+Noxian Guillotine,Origins,Epic,#254/298,124,1.25,1.68,Available,01:29:12 04/05/2026
+Jinx - Rebel,Riftbound Organized Play Promotional Cards,Promo,#202/298,26,16.88,26.39,Available,01:29:12 04/05/2026
+Blastcone Fae,Origins,Uncommon,#097/298,439,0.13,0.24,Available,01:29:12 04/05/2026
+Startipped Peak,Origins,Uncommon,#288/298,479,0.1,0.2,Available,01:29:12 04/05/2026
+Ezreal - Dashing,Spiritforged,Rare,#082/221,612,0.1,0.18,Available,01:29:12 04/05/2026
+Spoils of War,Origins,Uncommon,#144/298,534,0.08,0.19,Available,01:29:12 04/05/2026
+Ornn - Blacksmith (Alternate Art),Spiritforged,Showcase,#058a/221,142,1.24,1.21,Available,01:29:12 04/05/2026
+Taric - Protector,Origins,Rare,#074/298,302,0.1,0.38,Available,01:29:12 04/05/2026
+Annie - Stubborn,Origins: Proving Grounds,Rare,#010/024,39,2.97,6.41,Available,01:29:12 04/05/2026
+Solari Shrine,Origins,Rare,#072/298,664,0.01,0.18,Available,01:29:12 04/05/2026
+Forge of the Future,Origins,Common,#212/298,988,0.01,0.11,Available,01:29:12 04/05/2026
+Hall of Legends,Spiritforged,Uncommon,#210/221,689,0.02,0.09,Available,01:29:12 04/05/2026
+Order Rune (Alternate Art),Origins,Showcase,#214a/298,97,6,7.62,Available,01:29:12 04/05/2026
+Wallop,Origins,Uncommon,#146/298,455,0.08,0.19,Available,01:29:12 04/05/2026
+Last Breath,Origins,Epic,#260/298,119,2.8,3.52,Available,01:29:12 04/05/2026
+Monastery of Hirana,Origins,Uncommon,#282/298,413,0.1,0.23,Available,01:29:12 04/05/2026
+Convergent Mutation,Origins,Rare,#108/298,569,0.03,0.27,Available,01:29:12 04/05/2026
+Sett - Brawler (Alternate Art),Origins,Showcase,#164a/298,76,24.99,33.94,Available,01:29:12 04/05/2026
+Dropboarder,Spiritforged,Uncommon,#072/221,641,0.03,0.13,Available,01:29:12 04/05/2026
+Sun Disc,Origins,Uncommon,#021/298,366,0.18,0.26,Available,01:29:12 04/05/2026
+Sivir - Battle Mistress,Spiritforged,Rare,#203/221,679,0.05,0.19,Available,01:29:12 04/05/2026
+Rune Prison,Origins,Common,#050/298,640,0.04,0.14,Available,01:29:12 04/05/2026
+Icathian Rain,Origins,Epic,#248/298,167,6.99,8.86,Available,01:29:12 04/05/2026
+Kai'Sa - Daughter of the Void,Origins,Rare,#247/298,260,0.3,0.38,Available,01:29:12 04/05/2026
+Commander Ledros,Origins,Rare,#231/298,263,0.04,0.32,Available,01:29:12 04/05/2026
+Viktor - Herald of the Arcane,Origins,Rare,#265/298,400,0.2,0.31,Available,01:29:12 04/05/2026
+Volibear - Relentless Storm,Origins,Rare,#249/298,391,0.18,0.28,Available,01:29:12 04/05/2026
+Teemo - Swift Scout,Origins,Rare,#263/298,261,0.15,0.48,Available,01:29:12 04/05/2026
+Sigil of the Storm,Origins,Uncommon,#287/298,411,0.1,0.17,Available,01:29:12 04/05/2026
+Divine Judgment,Origins,Epic,#244/298,164,3.01,6.3,Available,01:29:12 04/05/2026
+Fae Dragon,Spiritforged,Uncommon,#101/221,759,0.05,0.08,Available,01:29:12 04/05/2026
+Mistfall,Origins,Rare,#152/298,711,0.01,0.17,Available,01:29:12 04/05/2026
+Hextech Anomaly,Spiritforged,Rare,#083/221,603,0.1,0.12,Available,01:29:12 04/05/2026
+Lucian - Purifier,Spiritforged,Rare,#183/221,658,0.01,0.17,Available,01:29:12 04/05/2026
+Sky Splitter,Origins,Common,#014/298,685,0.04,0.13,Available,01:29:12 04/05/2026
+Udyr - Wildman,Origins,Rare,#157/298,406,0.1,0.26,Available,01:29:12 04/05/2026
+Sunlit Guardian,Origins,Common,#054/298,692,0.03,0.13,Available,01:29:12 04/05/2026
+Kayn - Unleashed,Origins,Rare,#189/298,277,0.29,0.42,Available,01:29:12 04/05/2026
+Ember Monk,Origins,Common,#167/298,674,0.09,0.15,Available,01:29:12 04/05/2026
+Lee Sin - Centered,Origins,Rare,#151/298,407,0.1,0.2,Available,01:29:12 04/05/2026
+Jinx - Loose Cannon,Origins,Rare,#251/298,425,0.2,0.2,Available,01:29:12 04/05/2026
+Malzahar - Fanatic,Origins,Rare,#113/298,257,0.24,0.47,Available,01:29:12 04/05/2026
+Hexdrinker,Spiritforged,Uncommon,#102/221,739,0.05,0.1,Available,01:29:12 04/05/2026
+Detonate,Spiritforged,Common,#005/221,893,0.01,0.05,Available,01:29:12 04/05/2026
+Trifarian Gloryseeker,Origins,Common,#217/298,733,0.05,0.11,Available,01:29:12 04/05/2026
+Fortified Position,Origins,Uncommon,#279/298,482,0.1,0.17,Available,01:29:12 04/05/2026
+Wraith of Echoes,Origins,Rare,#118/298,463,0.03,0.21,Available,01:29:12 04/05/2026
+Miss Fortune - Bounty Hunter,Origins,Rare,#267/298,285,0.24,0.34,Available,01:29:12 04/05/2026
+Sivir - Mercenary (Alternate Art),Spiritforged,Showcase,#143a/221,160,0.89,1.42,Available,01:29:12 04/05/2026
+Master Yi - Wuju Bladesman (Starter),Origins: Proving Grounds,Rare,#019/024,17,8.98,17.89,Available,01:29:12 04/05/2026
+Treasure Hoard,Spiritforged,Uncommon,#220/221,673,0.02,0.11,Available,01:29:12 04/05/2026
+Blind Fury,Origins,Rare,#025/298,440,0.1,0.22,Available,01:29:12 04/05/2026
+Ornn - Forge God (Alternate Art),Spiritforged,Showcase,#085a/221,126,1.21,2.45,Available,01:29:12 04/05/2026
+Spirit's Refuge,Origins,Uncommon,#063/298,486,0.08,0.19,Available,01:29:12 04/05/2026
+Show of Strength,Spiritforged,Uncommon,#106/221,715,0.01,0.11,Available,01:29:12 04/05/2026
+Kraken Hunter,Origins,Rare,#150/298,384,0.08,0.25,Available,01:29:12 04/05/2026
+Jax - Unrelenting (Alternate Art),Spiritforged,Showcase,#119a/221,165,1.13,1.24,Available,01:29:12 04/05/2026
+Marching Orders,Spiritforged,Rare,#114/221,671,0.1,0.14,Available,01:29:12 04/05/2026
+Rek'Sai - Swarm Queen,Spiritforged,Rare,#170/221,671,0.1,0.16,Available,01:29:12 04/05/2026
+Overt Operation,Origins,Rare,#153/298,418,0.1,0.25,Available,01:29:12 04/05/2026
+Raging Firebrand,Origins,Rare,#031/298,382,0.11,0.23,Available,01:29:12 04/05/2026
+Sett - The Boss,Origins,Rare,#269/298,352,0.14,0.33,Available,01:29:12 04/05/2026
+Renata Glasc - Chem-Baroness,Spiritforged,Rare,#201/221,657,0.05,0.15,Available,01:29:12 04/05/2026
+Miss Fortune - Captain (Alternate Art),Origins,Showcase,#162a/298,96,7,16.86,Available,01:29:12 04/05/2026
+Solari Shieldbearer,Origins,Common,#051/298,733,0.03,0.1,Available,01:29:12 04/05/2026
+Navori Scout,Spiritforged,Common,#037/221,900,0.01,0.04,Available,01:29:12 04/05/2026
+Forecaster,Spiritforged,Common,#065/221,919,0.01,0.04,Available,01:29:12 04/05/2026
+Angle Shot,Spiritforged,Uncommon,#011/221,722,0.05,0.09,Available,01:29:12 04/05/2026
+Maddened Marauder,Origins,Rare,#191/298,497,0.09,0.21,Available,01:29:12 04/05/2026
+Long Sword (Top 8),Riftbound Organized Play Promotional Cards,Promo,#022/221,99,0.8,1.51,Available,01:29:12 04/05/2026
+Wizened Elder,Origins,Uncommon,#065/298,582,0.05,0.09,Available,01:29:12 04/05/2026
+Azir - Ascendant (Alternate Art),Spiritforged,Showcase,#050a/221,159,0.73,1.26,Available,01:29:12 04/05/2026
+Fading Memories,Origins,Uncommon,#180/298,559,0.05,0.18,Available,01:29:12 04/05/2026
+Dune Drake,Origins,Common,#131/298,788,0.02,0.09,Available,01:29:12 04/05/2026
+Noxian Drummer,Origins,Uncommon,#222/298,600,0.09,0.15,Available,01:29:12 04/05/2026
+Nami - Headstrong,Unleashed,Rare,#052/219,16,2.82,6.25,Available,01:29:12 04/05/2026
+Direwing,Spiritforged,Common,#094/221,894,0.02,0.07,Available,01:29:12 04/05/2026
+Disintegrate,Origins,Common,#005/298,819,0.01,0.11,Available,01:29:12 04/05/2026
+Minotaur Reckoner,Spiritforged,Uncommon,#014/221,625,0.09,0.18,Available,01:29:12 04/05/2026
+Jax - Unmatched (Alternate Art),Spiritforged,Showcase,#054a/221,152,0.88,1.28,Available,01:29:12 04/05/2026
+Jinx - Rebel (Alternate Art),Origins,Showcase,#202a/298,86,3.37,6.44,Available,01:29:12 04/05/2026
+Leona - Radiant Dawn,Origins,Rare,#261/298,352,0.2,0.38,Available,01:29:12 04/05/2026
+Mountain Drake,Origins,Uncommon,#142/298,583,0.04,0.12,Available,01:29:12 04/05/2026
+Draven - Vanquisher (Alternate Art),Spiritforged,Showcase,#020a/221,247,1,1.23,Available,01:29:12 04/05/2026
+Scuttle Crab,Unleashed,Rare,#053/219,10,3.09,3.38,Available,01:29:12 04/05/2026
+Cemetery Attendant,Origins,Common,#165/298,871,0.01,0.1,Available,01:29:12 04/05/2026
+Leona - Zealot (Alternate Art),Origins,Showcase,#079a/298,69,5.99,12.12,Available,01:29:12 04/05/2026
+Kato the Arm,Spiritforged,Rare,#112/221,614,0.01,0.15,Available,01:29:12 04/05/2026
+Cull,Spiritforged,Uncommon,#134/221,754,0.05,0.12,Available,01:29:12 04/05/2026
+Sivir - Ambitious (Alternate Art),Spiritforged,Showcase,#120a/221,184,0.98,1.55,Available,01:29:12 04/05/2026
+Body Rune (R04b),Riftbound Organized Play Promotional Cards,Promo,#R04b,54,7.49,9.06,Available,01:29:12 04/05/2026
+Iron Ballista,Origins,Uncommon,#017/298,476,0.05,0.22,Available,01:29:12 04/05/2026
+Teemo - Scout (Alternate Art),Origins,Showcase,#197a/298,60,7.5,11.2,Available,01:29:12 04/05/2026
+Jae Medarda,Spiritforged,Rare,#142/221,641,0.03,0.14,Available,01:29:12 04/05/2026
+Assembly Rig,Spiritforged,Rare,#019/221,684,0.03,0.11,Available,01:29:12 04/05/2026
+Mind Rune (R03b),Riftbound Organized Play Promotional Cards,Promo,#R03b,59,13.67,15.3,Available,01:29:12 04/05/2026
+Feral Strength,Spiritforged,Common,#034/221,899,0.02,0.05,Available,01:29:12 04/05/2026
+Kai'Sa - Survivor (Alternate Art),Origins,Showcase,#039a/298,91,55.49,76.99,Available,01:29:12 04/05/2026
+Renata Glasc - Industrialist (Alternate Art),Spiritforged,Showcase,#171a/221,160,0.5,1.01,Available,01:29:12 04/05/2026
+Ahri - Inquisitive (Alternate Art),Origins,Showcase,#119a/298,97,8.75,13.45,Available,01:29:12 04/05/2026
+The Papertree,Spiritforged,Uncommon,#219/221,696,0.01,0.08,Available,01:29:12 04/05/2026
+Unlicensed Armory,Origins,Uncommon,#023/298,467,0.08,0.17,Available,01:29:12 04/05/2026
+Chaos Rune (R05b),Riftbound Organized Play Promotional Cards,Promo,#R05b,50,18.68,20.96,Available,01:29:12 04/05/2026
+Portal Rescue,Origins,Uncommon,#102/298,475,0.06,0.16,Available,01:29:12 04/05/2026
+Jax - Grandmaster At Arms,Spiritforged,Rare,#193/221,661,0.01,0.14,Available,01:29:12 04/05/2026
+Guardian Angel (Top 8),Riftbound Organized Play Promotional Cards,Promo,#051/221,67,4,4.43,Available,01:29:12 04/05/2026
+Needlessly Large Yordle,Spiritforged,Rare,#055/221,672,0.05,0.12,Available,01:29:12 04/05/2026
+Darius - Hand of Noxus,Origins,Rare,#253/298,429,0.1,0.26,Available,01:29:12 04/05/2026
+Star-Crossed,Unleashed,Common,#128/219,12,0.49,0.53,Available,01:29:12 04/05/2026
+Calm Rune (R02b),Riftbound Organized Play Promotional Cards,Promo,#R02b,34,15.18,17.96,Available,01:29:12 04/05/2026
+Bandle Tree,Origins,Uncommon,#278/298,528,0.04,0.17,Available,01:29:12 04/05/2026
+Lux - Crownguard,Origins: Proving Grounds,Epic,#014/024,46,2.48,6.66,Available,01:29:12 04/05/2026
+Albus Ferros,Origins,Rare,#230/298,708,0.05,0.1,Available,01:29:12 04/05/2026
+Annie - Fiery,Origins: Proving Grounds,Epic,#001/024,46,0.95,3.34,Available,01:29:12 04/05/2026
+Ravenborn Tome,Origins,Rare,#032/298,637,0.01,0.13,Available,01:29:12 04/05/2026
+Solari Chief,Origins,Uncommon,#225/298,514,0.1,0.22,Available,01:29:12 04/05/2026
+Ava Achiever,Origins,Rare,#107/298,345,0.19,0.34,Available,01:29:12 04/05/2026
+Wielder of Water,Origins,Common,#055/298,858,0.03,0.12,Available,01:29:12 04/05/2026
+Last Stand,Origins,Rare,#069/298,315,0.1,0.28,Available,01:29:12 04/05/2026
+Lee Sin - Blind Monk,Origins,Rare,#257/298,510,0.08,0.22,Available,01:29:12 04/05/2026
+Orb of Regret,Origins,Common,#090/298,1038,0.01,0.06,Available,01:29:12 04/05/2026
+Rumble - Hotheaded (Alternate Art),Spiritforged,Showcase,#026a/221,199,1.35,1.36,Available,01:29:12 04/05/2026
+Sprite Fountain,Unleashed,Uncommon,#078/219,7,0.98,1.13,Available,01:29:12 04/05/2026
+Back to Back,Origins,Common,#206/298,872,0.01,0.08,Available,01:29:12 04/05/2026
+Marai Spire,Spiritforged,Uncommon,#211/221,676,0.01,0.09,Available,01:29:12 04/05/2026
+Energy Conduit,Origins,Uncommon,#098/298,489,0.08,0.2,Available,01:29:12 04/05/2026
+Teemo - Strategist (Alternate Art),Origins,Showcase,#121a/298,72,4.1,8.63,Available,01:29:12 04/05/2026
+Stand United,Origins,Common,#053/298,843,0.01,0.08,Available,01:29:12 04/05/2026
+Flame Chompers,Origins,Common,#006/298,842,0.01,0.05,Available,01:29:12 04/05/2026
+Forge of the Fluft,Spiritforged,Uncommon,#208/221,677,0.03,0.07,Available,01:29:12 04/05/2026
+Apprentice Smith,Spiritforged,Uncommon,#041/221,663,0.05,0.09,Available,01:29:12 04/05/2026
+Mushroom Pouch,Origins,Uncommon,#101/298,651,0.04,0.12,Available,01:29:12 04/05/2026
+Volibear - Furious (Alternate Art),Origins,Showcase,#041a/298,125,2.85,3.97,Available,01:29:12 04/05/2026
+Blazing Scorcher,Origins,Common,#001/298,896,0.01,0.11,Available,01:29:12 04/05/2026
+Sudden Storm,Spiritforged,Uncommon,#017/221,674,0.03,0.12,Available,01:29:12 04/05/2026
+Highlander,Origins: Proving Grounds,Epic,#020/024,51,0.25,1.39,Available,01:29:12 04/05/2026
+Ornn's Forge,Spiritforged,Uncommon,#213/221,715,0.01,0.07,Available,01:29:12 04/05/2026
+Pakaa Cub,Origins,Common,#135/298,860,0.01,0.08,Available,01:29:12 04/05/2026
+Miss Fortune - Buccaneer (Alternate Art),Origins,Showcase,#193a/298,81,3.7,5.72,Available,01:29:12 04/05/2026
+Royal Guard,Spiritforged,Common,#157/221,904,0.01,0.05,Available,01:29:12 04/05/2026
+Cruel Patron,Origins,Common,#208/298,846,0.03,0.09,Available,01:29:12 04/05/2026
+Trusty Ramhound,Spiritforged,Common,#159/221,914,0.02,0.03,Available,01:29:12 04/05/2026
+Darius - Trifarian (Alternate Art),Origins,Showcase,#027a/298,116,4.99,11.43,Available,01:29:12 04/05/2026
+Fury Rune (R01b),Riftbound Organized Play Promotional Cards,Promo,#R01b,68,13.69,15.1,Available,01:29:12 04/05/2026
+Yasuo - Windrider (Alternate Art),Origins,Showcase,#205a/298,91,4.5,6.19,Available,01:29:12 04/05/2026
+Void Drone,Spiritforged,Common,#010/221,899,0.02,0.05,Available,01:29:12 04/05/2026
+Mega-Mech,Origins,Common,#088/298,832,0.01,0.1,Available,01:29:12 04/05/2026
+Ornn - Fire Below the Mountain,Spiritforged,Rare,#189/221,668,0.01,0.1,Available,01:29:12 04/05/2026
+Edge of Night (Top 8),Riftbound Organized Play Promotional Cards,Promo,#139/221,51,1.72,1.75,Available,01:29:12 04/05/2026
+Stormclaw Ursine,Origins,Common,#137/298,861,0.02,0.14,Available,01:29:12 04/05/2026
+Viktor - Innovator (Alternate Art),Origins,Showcase,#117a/298,101,3.19,4.13,Available,01:29:12 04/05/2026
+Magma Wurm,Origins,Common,#011/298,837,0.01,0.13,Available,01:29:12 04/05/2026
+Recruit the Vanguard,Origins: Proving Grounds,Uncommon,#015/024,59,1.25,3.69,Available,01:29:12 04/05/2026
+Forgotten Monument,Spiritforged,Uncommon,#209/221,714,0.02,0.08,Available,01:29:12 04/05/2026
+Symbol of the Solari,Origins,Uncommon,#227/298,600,0.09,0.12,Available,01:29:12 04/05/2026
+Abandon,Unleashed,Uncommon,#131/219,15,0.48,1.04,Available,01:29:12 04/05/2026
+Hallowed Tomb,Origins,Uncommon,#281/298,530,0.05,0.17,Available,01:29:12 04/05/2026
+Viktor - Leader (Alternate Art),Origins,Showcase,#246a/298,103,3.94,6.11,Available,01:29:12 04/05/2026
+Poro Herder,Origins,Uncommon,#061/298,533,0.05,0.15,Available,01:29:12 04/05/2026
+Altar to Unity,Origins,Uncommon,#275/298,623,0.04,0.12,Available,01:29:12 04/05/2026
+Yasuo - Unforgiven,Origins,Rare,#259/298,360,0.1,0.34,Available,01:29:12 04/05/2026
+Temporal Portal,Spiritforged,Uncommon,#078/221,740,0.02,0.08,Available,01:29:12 04/05/2026
+Rumble - Mechanized Menace,Spiritforged,Rare,#181/221,681,0.01,0.09,Available,01:29:12 04/05/2026
+Gemcraft Seer,Origins,Uncommon,#100/298,608,0.07,0.15,Available,01:29:12 04/05/2026
+Reckoner's Arena,Origins,Uncommon,#286/298,577,0.05,0.13,Available,01:29:12 04/05/2026
+Rek'Sai - Swarm Queen (Alternate Art),Spiritforged,Showcase,#170a/221,185,0.79,1.27,Available,01:29:12 04/05/2026
+Ancient Warmonger,Spiritforged,Uncommon,#131/221,703,0.01,0.06,Available,01:29:12 04/05/2026
+Wildclaw Shaman,Origins,Uncommon,#147/298,671,0.03,0.09,Available,01:29:12 04/05/2026
+Annie - Dark Child (Starter),Origins: Proving Grounds,Rare,#017/024,74,14.74,14.9,Available,01:29:12 04/05/2026
+Ahri - Alluring (Alternate Art),Origins,Showcase,#066a/298,57,6,10.59,Available,01:29:12 04/05/2026
+Zaunite Bouncer,Origins,Uncommon,#188/298,535,0.1,0.18,Available,01:29:12 04/05/2026
+Kai'Sa - Evolutionary (Alternate Art),Origins,Showcase,#112a/298,61,5.41,9.67,Available,01:29:12 04/05/2026
+Sacrifice,Unleashed,Rare,#173/219,9,2,4.41,Available,01:29:12 04/05/2026
+Jinx - Demolitionist (Alternate Art),Origins,Showcase,#030a/298,109,2.55,4.21,Available,01:29:12 04/05/2026
+Doran's Ring,Spiritforged,Common,#124/221,996,0.01,0.07,Available,01:29:12 04/05/2026
+Darius - Executioner (Alternate Art),Origins,Showcase,#243a/298,106,2.95,4.04,Available,01:29:12 04/05/2026
+Whirlwind,Origins,Uncommon,#187/298,587,0.05,0.15,Available,01:29:12 04/05/2026
+Volibear - Imposing (Alternate Art),Origins,Showcase,#158a/298,111,3.33,4.29,Available,01:29:12 04/05/2026
+Eager Drakehound,Spiritforged,Common,#006/221,897,0.02,0.06,Available,01:29:12 04/05/2026
+Azir - Emperor of the Sands (Overnumbered),Spiritforged,Showcase,#247/221,55,64.99,76.74,Available,01:29:12 04/05/2026
+Breakneck Mech,Spiritforged,Uncommon,#071/221,685,0.02,0.11,Available,01:29:12 04/05/2026
+Leona - Determined (Alternate Art),Origins,Showcase,#238a/298,112,3.51,4.97,Available,01:29:12 04/05/2026
+Vanguard Helm,Origins,Uncommon,#228/298,617,0.03,0.15,Available,01:29:12 04/05/2026
+Reinforce,Origins,Uncommon,#062/298,570,0.06,0.17,Available,01:29:12 04/05/2026
+Bushwhack,Spiritforged,Common,#004/221,899,0.02,0.07,Available,01:29:12 04/05/2026
+Shadow's Call,Unleashed,Uncommon,#165/219,15,0.96,1.23,Available,01:29:12 04/05/2026
+Aspiring Engineer,Spiritforged,Common,#061/221,881,0.01,0.03,Available,01:29:12 04/05/2026
+The Grand Plaza,Origins,Uncommon,#293/298,594,0.1,0.12,Available,01:29:12 04/05/2026
+Sett - Kingpin (Alternate Art),Origins,Showcase,#240a/298,135,1.45,1.77,Available,01:29:12 04/05/2026
+Guardian of the Passage,Spiritforged,Common,#035/221,897,0.01,0.04,Available,01:29:12 04/05/2026
+Ornn - Fire Below the Mountain (Overnumbered),Spiritforged,Showcase,#244/221,73,39.98,48.57,Available,01:29:12 04/05/2026
+Soraka - Wanderer (Overnumbered),Spiritforged,Showcase,#239/221,56,41.01,55.49,Available,01:29:12 04/05/2026
+Veiled Temple,Spiritforged,Uncommon,#221/221,734,0.01,0.08,Available,01:29:12 04/05/2026
+Order Rune (R06b),Riftbound Organized Play Promotional Cards,Promo,#R06b,71,9.68,11.83,Available,01:29:12 04/05/2026
+Tibbers,Origins: Proving Grounds,Epic,#018/024,45,0.25,1.3,Available,01:29:12 04/05/2026
+Back-Alley Bar,Origins,Uncommon,#277/298,581,0.04,0.15,Available,01:29:12 04/05/2026
+Vex - Apathetic,Unleashed,Epic,#150/219,7,9.99,12.96,Available,01:29:12 04/05/2026
+Boneshiver,Riftbound Organized Play Promotional Cards,Promo,#118a/221,61,40,60.31,Available,01:29:12 04/05/2026
+Dangerous Duo,Origins,Uncommon,#016/298,808,0.01,0.09,Available,01:29:12 04/05/2026
+Eclipse,Unleashed,Common,#063/219,18,0.28,0.67,Available,01:29:12 04/05/2026
+Karma - Channeler (Overnumbered),Spiritforged,Showcase,#237/221,70,18,32.37,Available,01:29:12 04/05/2026
+Strike Down,Spiritforged,Uncommon,#107/221,748,0.01,0.07,Available,01:29:12 04/05/2026
+Experimental Hexplate,Spiritforged,Uncommon,#073/221,696,0.01,0.08,Available,01:29:12 04/05/2026
+Repulse,Unleashed,Uncommon,#106/219,13,0.94,1.39,Available,01:29:12 04/05/2026
+Production Surge,Spiritforged,Uncommon,#076/221,696,0.02,0.08,Available,01:29:12 04/05/2026
+Armed Assailant,Spiritforged,Common,#002/221,933,0.01,0.02,Available,01:29:12 04/05/2026
+Buhru Captain,Spiritforged,Common,#091/221,902,0.01,0.07,Available,01:29:12 04/05/2026
+Sai Scout,Origins,Common,#174/298,858,0.01,0.07,Available,01:29:12 04/05/2026
+Chemtech Cask,Spiritforged,Common,#063/221,931,0.01,0.05,Available,01:29:12 04/05/2026
+Rumble - Mechanized Menace (Overnumbered),Spiritforged,Showcase,#240/221,84,30,38.78,Available,01:29:12 04/05/2026
+Stealthy Pursuer,Origins,Common,#177/298,832,0.05,0.11,Available,01:29:12 04/05/2026
+Emperor's Dais,Spiritforged,Uncommon,#207/221,694,0.01,0.07,Available,01:29:12 04/05/2026
+Captain Farron,Origins,Uncommon,#015/298,613,0.05,0.21,Available,01:29:12 04/05/2026
+Scrapyard Champion,Origins,Uncommon,#020/298,574,0.08,0.12,Available,01:29:12 04/05/2026
+Fight or Flight,Origins,Common,#168/298,664,0.03,0.26,Available,01:29:12 04/05/2026
+Navori Fighting Pit,Origins,Uncommon,#283/298,590,0.05,0.13,Available,01:29:12 04/05/2026
+Sett - Brawler (Overnumbered),Spiritforged,Showcase,#232/221,49,78.99,88.08,Available,01:29:12 04/05/2026
+Temptation,Spiritforged,Common,#129/221,935,0.01,0.06,Available,01:29:12 04/05/2026
+Peak Guardian,Origins,Uncommon,#223/298,602,0.09,0.18,Available,01:29:12 04/05/2026
+Serrated Dirk,Spiritforged,Common,#009/221,947,0.01,0.03,Available,01:29:12 04/05/2026
+Pirate's Haven,Origins,Uncommon,#143/298,547,0.06,0.15,Available,01:29:12 04/05/2026
+Eminent Benefactor,Spiritforged,Common,#152/221,905,0.01,0.02,Available,01:29:12 04/05/2026
+Chemtech Enforcer,Origins,Common,#003/298,1093,0.01,0.06,Available,01:29:12 04/05/2026
+Rengar - Trophy Hunter,Unleashed,Epic,#120/219,6,16.99,17.16,Available,01:29:12 04/05/2026
+Loyal Pup,Spiritforged,Common,#126/221,874,0.01,0.05,Available,01:29:12 04/05/2026
+Grim Resolve,Unleashed,Common,#095/219,16,0.48,0.63,Available,01:29:12 04/05/2026
+Bilgewater Bully,Origins,Common,#125/298,874,0.01,0.07,Available,01:29:12 04/05/2026
+Zaun Punk,Spiritforged,Common,#160/221,892,0.01,0.06,Available,01:29:12 04/05/2026
+Raging Soul,Origins,Uncommon,#019/298,729,0.01,0.08,Available,01:29:12 04/05/2026
+Black Market Broker,Spiritforged,Common,#121/221,949,0.01,0.07,Available,01:29:12 04/05/2026
+Recurve Bow,Spiritforged,Uncommon,#016/221,758,0.03,0.07,Available,01:29:12 04/05/2026
+Annie - Dark Child,Riftbound Organized Play Promotional Cards,Promo,#017/024,22,31.68,32,Available,01:29:12 04/05/2026
+Master Yi - Meditative,Origins: Proving Grounds,Rare,#004/024,72,0.49,1.56,Available,01:29:12 04/05/2026
+Kai'Sa - Daughter of the Void (Overnumbered),Origins,Showcase,#299/298,31,87,211.93,Available,01:29:12 04/05/2026
+The Dreaming Tree,Origins,Uncommon,#292/298,198,0.34,0.43,Available,01:29:12 04/05/2026
+Fiora - Grand Duelist (Overnumbered),Spiritforged,Showcase,#251/221,48,74.98,89.83,Available,01:29:12 04/05/2026
+Lee Sin - Centered (Alternate Art),Origins,Showcase,#151a/298,128,1.95,1.98,Available,01:29:12 04/05/2026
+Tactical Retreat,Unleashed,Rare,#175/219,18,5.6,7.23,Available,01:29:12 04/05/2026
+Lee Sin - Ascetic (Alternate Art),Origins,Showcase,#078a/298,104,3,4.64,Available,01:29:12 04/05/2026
+Yone - Blademaster (Overnumbered),Spiritforged,Showcase,#233/221,56,34.99,55.35,Available,01:29:12 04/05/2026
+Dauntless Vanguard,Spiritforged,Common,#093/221,918,0.01,0.05,Available,01:29:12 04/05/2026
+Sandshifter,Spiritforged,Common,#158/221,917,0.01,0.05,Available,01:29:12 04/05/2026
+Harpoon Squad,Spiritforged,Uncommon,#137/221,733,0.02,0.08,Available,01:29:12 04/05/2026
+Moonfall,Unleashed,Epic,#198/219,12,13.38,18.56,Available,01:29:12 04/05/2026
+Vanguard Sergeant,Origins,Common,#219/298,864,0.01,0.05,Available,01:29:12 04/05/2026
+Gearhead,Spiritforged,Common,#068/221,896,0.02,0.04,Available,01:29:12 04/05/2026
+Yasuo - Windrider (Overnumbered),Spiritforged,Showcase,#235/221,52,35.99,43.97,Available,01:29:12 04/05/2026
+Lucian - Purifier (Overnumbered),Spiritforged,Showcase,#241/221,63,39.99,52.06,Available,01:29:12 04/05/2026
+Lux - Illuminated,Origins: Proving Grounds,Rare,#006/024,47,0.49,1.59,Available,01:29:12 04/05/2026
+Master Yi - Wuju Bladesman,Riftbound Organized Play Promotional Cards,Promo,#019/024,26,35.01,36.4,Available,01:29:12 04/05/2026
+Bonds of Strength,Spiritforged,Common,#151/221,954,0.01,0.05,Available,01:29:12 04/05/2026
+Bubble Bot,Spiritforged,Common,#062/221,887,0.01,0.04,Available,01:29:12 04/05/2026
+Eclipse Herald,Origins,Uncommon,#059/298,526,0.07,0.18,Available,01:29:12 04/05/2026
+Undercover Agent,Origins,Common,#178/298,881,0.01,0.07,Available,01:29:12 04/05/2026
+Fae Porter,Spiritforged,Common,#125/221,916,0.01,0.04,Available,01:29:12 04/05/2026
+Aphelios - Exalted (Overnumbered),Spiritforged,Showcase,#224/221,76,44.99,58.93,Available,01:29:12 04/05/2026
+Reaver's Row,Origins,Uncommon,#285/298,492,0.06,0.16,Available,01:29:12 04/05/2026
+Royal Entourage,Spiritforged,Common,#039/221,920,0.01,0.03,Available,01:29:12 04/05/2026
+Darius - Executioner (Overnumbered),Spiritforged,Showcase,#236/221,81,24.99,38.39,Available,01:29:12 04/05/2026
+Draven - Glorious Executioner (Overnumbered),Spiritforged,Showcase,#242/221,97,65.99,81.73,Available,01:29:12 04/05/2026
+Lux - Lady of Luminosity (Starter),Origins: Proving Grounds,Rare,#021/024,43,11.99,14.24,Available,01:29:12 04/05/2026
+Yasuo - Remorseful (Alternate Art),Origins,Showcase,#076a/298,108,2.8,3.98,Available,01:29:12 04/05/2026
+Incinerate,Origins: Proving Grounds,Common,#003/024,45,0.49,1.11,Available,01:29:12 04/05/2026
+Blast of Power,Origins: Proving Grounds,Common,#012/024,80,3.18,3.6,Available,01:29:12 04/05/2026
+Laurent Bladekeeper,Spiritforged,Common,#096/221,956,0.02,0.03,Available,01:29:12 04/05/2026
+Blast Corps Cadet,Spiritforged,Uncommon,#013/221,728,0.02,0.08,Available,01:29:12 04/05/2026
+Frostcoat Cub,Spiritforged,Common,#067/221,883,0.01,0.03,Available,01:29:12 04/05/2026
+Ezreal - Prodigal Explorer (Overnumbered),Spiritforged,Showcase,#248/221,62,73.99,86.1,Available,01:29:12 04/05/2026
+Sivir - Battle Mistress (Overnumbered),Spiritforged,Showcase,#250/221,67,25.99,48.02,Available,01:29:12 04/05/2026
+Garen - Commander,Origins: Proving Grounds,Epic,#013/024,72,0.49,1.89,Available,01:29:12 04/05/2026
+Laurent Duelist,Spiritforged,Common,#156/221,919,0.01,0.02,Available,01:29:12 04/05/2026
+Teemo - Swift Scout (Overnumbered),Origins,Showcase,#307/298,37,54,92.07,Available,01:29:12 04/05/2026
+Jaull-Fish,Spiritforged,Uncommon,#103/221,725,0.03,0.07,Available,01:29:12 04/05/2026
+Minefield,Spiritforged,Uncommon,#212/221,750,0.01,0.06,Available,01:29:12 04/05/2026
+Jeweled Colossus,Origins,Common,#086/298,877,0.01,0.06,Available,01:29:12 04/05/2026
+Back Off,Unleashed,Uncommon,#042/219,14,0.49,0.9,Available,01:29:12 04/05/2026
+Legion Quartermaster,Spiritforged,Uncommon,#044/221,711,0.01,0.09,Available,01:29:12 04/05/2026
+Final Spark,Origins: Proving Grounds,Epic,#022/024,61,0.46,2.92,Available,01:29:12 04/05/2026
+Prize of Progress,Spiritforged,Uncommon,#075/221,718,0.02,0.05,Available,01:29:12 04/05/2026
+Ruined Rex,Unleashed,Common,#067/219,14,0.47,0.7,Available,01:29:12 04/05/2026
+Ribbon Dancer,Spiritforged,Common,#038/221,911,0.01,0.07,Available,01:29:12 04/05/2026
+Corrupt Enforcer,Spiritforged,Common,#123/221,893,0.01,0.05,Available,01:29:12 04/05/2026
+Scrapheap,Origins,Uncommon,#182/298,448,0.12,0.23,Available,01:29:12 04/05/2026
+Lux - Lady of Luminosity,Riftbound Organized Play Promotional Cards,Promo,#021/024,60,20.68,29.23,Available,01:29:12 04/05/2026
+Simian Ancestor,Spiritforged,Uncommon,#047/221,694,0.01,0.07,Available,01:29:12 04/05/2026
+Turn to Dust,Unleashed,Common,#070/219,13,0.49,0.63,Available,01:29:12 04/05/2026
+Yasuo - Unforgiven (Overnumbered),Origins,Showcase,#305/298,48,48.95,74.71,Available,01:29:12 04/05/2026
+Guardian Angel (Champion),Riftbound Organized Play Promotional Cards,Promo,#051/221,10,84.63,84.63,Available,01:29:12 04/05/2026
+Renata Glasc - Chem-Baroness (Overnumbered),Spiritforged,Showcase,#249/221,87,34.99,44.16,Available,01:29:12 04/05/2026
+Shipyard Skulker,Origins,Common,#175/298,846,0.01,0.05,Available,01:29:12 04/05/2026
+Power Nexus,Spiritforged,Uncommon,#214/221,698,0.02,0.1,Available,01:29:12 04/05/2026
+Irelia - Blade Dancer (Overnumbered),Spiritforged,Showcase,#246/221,57,85.99,110.21,Available,01:29:12 04/05/2026
+Mirror Image,Unleashed,Epic,#200/219,18,27.98,40.04,Available,01:29:12 04/05/2026
+Sett - The Boss (Overnumbered),Origins,Showcase,#310/298,34,33.5,81.18,Available,01:29:12 04/05/2026
+Black Rose Dignitary,Unleashed,Common,#152/219,16,0.31,0.72,Available,01:29:12 04/05/2026
+Ahri - Nine-Tailed Fox (Overnumbered),Origins,Showcase,#303/298,27,105,202.42,Available,01:29:12 04/05/2026
+Irelia - Fervent (Overnumbered),Spiritforged,Showcase,#225/221,39,149.99,169.48,Available,01:29:12 04/05/2026
+Teemo - Strategist (Overnumbered),Spiritforged,Showcase,#230/221,37,37.99,55.27,Available,01:29:12 04/05/2026
+Vayne - Hunter (Overnumbered),Spiritforged,Showcase,#223/221,51,64.99,93.92,Available,01:29:12 04/05/2026
+Brazen Buccaneer,Origins,Common,#002/298,918,0.01,0.06,Available,01:29:12 04/05/2026
+Ahri - Alluring (Launch Exclusive),Riftbound Promotional Cards,Promo,#066/298,56,44.98,89.18,Available,01:29:12 04/05/2026
+Void Assault,Unleashed,Epic,#202/219,13,4.99,7.76,Available,01:29:12 04/05/2026
+Yuumi - Magical Cat,Unleashed,Rare,#056/219,25,1.91,7.02,Available,01:29:12 04/05/2026
+Hwei - Brooding Painter,Unleashed,Rare,#080/219,19,2.98,5.58,Available,01:29:12 04/05/2026
+Rek'sai - Void Burrower (Overnumbered),Spiritforged,Showcase,#243/221,59,59.98,76.84,Available,01:29:12 04/05/2026
+Garen - Might of Demacia (Starter),Origins: Proving Grounds,Rare,#023/024,30,0.49,2.17,Available,01:29:12 04/05/2026
+Crackshot Corsair,Origins,Common,#130/298,835,0.02,0.05,Available,01:29:12 04/05/2026
+Teemo - Scout (GG EZ),Riftbound Organized Play Promotional Cards,Promo,#197b/298,36,400,549.52,Available,01:29:12 04/05/2026
+Garen - Rugged,Origins: Proving Grounds,Rare,#007/024,60,0.25,1.25,Available,01:29:12 04/05/2026
+Obelisk of Power,Origins,Uncommon,#284/298,230,0.2,0.45,Available,01:29:12 04/05/2026
+Firestorm,Origins: Proving Grounds,Uncommon,#002/024,71,0.1,0.49,Available,01:29:12 04/05/2026
+Lunar Boon,Unleashed,Common,#125/219,17,0.33,0.86,Available,01:29:12 04/05/2026
+Darius - Hand of Noxus (Overnumbered),Origins,Showcase,#302/298,46,38,54.73,Available,01:29:12 04/05/2026
+Decisive Strike,Origins: Proving Grounds,Epic,#024/024,71,0.1,1,Available,01:29:12 04/05/2026
+Yordle Explorer,Spiritforged,Common,#100/221,944,0.01,0.06,Available,01:29:12 04/05/2026
+Seal of Focus (Overnumbered),Spiritforged,Showcase,#226/221,42,40,62.26,Available,01:29:12 04/05/2026
+Petricite Monument,Spiritforged,Uncommon,#104/221,719,0.04,0.09,Available,01:29:12 04/05/2026
+Seal of Rage (Overnumbered),Spiritforged,Showcase,#222/221,40,55,67.1,Available,01:29:12 04/05/2026
+Seal of Unity (Overnumbered),Spiritforged,Showcase,#238/221,58,74,87.63,Available,01:29:12 04/05/2026
+Combat Chef,Spiritforged,Common,#092/221,945,0.01,0.03,Available,01:29:12 04/05/2026
+Elder Dragon,Unleashed,Epic,#118/219,17,59.99,80.93,Available,01:29:12 04/05/2026
+Ahri - Inquisitive (Overnumbered),Spiritforged,Showcase,#227/221,41,199.98,308.38,Available,01:29:12 04/05/2026
+Noxus Saboteur,Origins,Uncommon,#018/298,577,0.05,0.2,Available,01:29:12 04/05/2026
+Edge of Night (Champion),Riftbound Organized Play Promotional Cards,Promo,#139/221,12,80,74.9,Available,01:29:12 04/05/2026
+Galio - Indefatigable,Unleashed,Rare,#171/219,26,2.49,7.47,Available,01:29:12 04/05/2026
+Playful Phantom,Origins,Common,#049/298,850,0.01,0.05,Available,01:29:12 04/05/2026
+The Grand Plaza,Riftbound Promotional Cards,Promo,#293a/298,22,14,16.07,Available,01:29:12 04/05/2026
+Vi - Peacekeeper,Unleashed,Rare,#176/219,17,2.5,4.97,Available,01:29:12 04/05/2026
+Crescent Strike,Unleashed,Uncommon,#072/219,22,0.45,0.97,Available,01:29:12 04/05/2026
+Kinkou Initiate,Unleashed,Common,#097/219,18,0.47,0.8,Available,01:29:12 04/05/2026
+Keeper's Verdict,Unleashed,Epic,#204/219,16,2.99,5.24,Available,01:29:12 04/05/2026
+Sentinel Adept,Spiritforged,Common,#008/221,908,0.01,0.05,Available,01:29:12 04/05/2026
+Petty Officer,Origins,Common,#215/298,874,0.01,0.06,Available,01:29:12 04/05/2026
+Bard - Mercurial (Overnumbered),Spiritforged,Showcase,#228/221,56,29.99,44.04,Available,01:29:12 04/05/2026
+Sprite Burst,Unleashed,Common,#069/219,17,0.47,0.54,Available,01:29:12 04/05/2026
+Shepherd's Heirloom,Unleashed,Common,#158/219,14,0.34,0.65,Available,01:29:12 04/05/2026
+Perched Grimwyrm,Spiritforged,Uncommon,#015/221,708,0.01,0.05,Available,01:29:12 04/05/2026
+Nidalee - Cat Form,Unleashed,Rare,#114/219,20,3.99,5.67,Available,01:29:12 04/05/2026
+Jax - Grandmaster At Arms (Overnumbered),Spiritforged,Showcase,#245/221,73,42.99,60.76,Available,01:29:12 04/05/2026
+Lee Sin - Blind Monk (Overnumbered),Origins,Showcase,#304/298,50,33,81.33,Available,01:29:12 04/05/2026
+Ashe - Focused,Unleashed,Rare,#169/219,18,6.05,9.78,Available,01:29:12 04/05/2026
+Viktor - Herald of the Arcane (Overnumbered),Origins,Showcase,#308/298,40,60,123.82,Available,01:29:12 04/05/2026
+Leona - Radiant Dawn (Overnumbered),Origins,Showcase,#306/298,41,35,84.93,Available,01:29:12 04/05/2026
+Sprite Queen,Unleashed,Rare,#084/219,25,3.21,6.64,Available,01:29:12 04/05/2026
+Miss Fortune - Bounty Hunter (Overnumbered),Origins,Showcase,#309/298,35,63.5,175.91,Available,01:29:12 04/05/2026
+Master Bingwen,Spiritforged,Common,#127/221,894,0.01,0.03,Available,01:29:12 04/05/2026
+Volibear - Relentless Storm (Overnumbered),Origins,Showcase,#300/298,48,30,76.1,Available,01:29:12 04/05/2026
+Existential Dread,Unleashed,Uncommon,#134/219,12,0.49,0.73,Available,01:29:12 04/05/2026
+Seal of Discord (Overnumbered),Spiritforged,Showcase,#234/221,98,67,96.11,Available,01:29:12 04/05/2026
+Heedless Resurrection,Unleashed,Rare,#142/219,16,5.45,6.54,Available,01:29:12 04/05/2026
+Gentlemen's Duel,Origins: Proving Grounds,Common,#008/024,79,0.1,0.48,Available,01:29:12 04/05/2026
+Lilting Lullaby,Unleashed,Epic,#190/219,12,13.99,16.25,Available,01:29:12 04/05/2026
+Irresistible Faefolk,Unleashed,Rare,#112/219,20,6.44,6.91,Available,01:29:12 04/05/2026
+Bandle Tree,Riftbound Promotional Cards,Promo,#278a/298,13,30.9,32.42,Available,01:29:12 04/05/2026
+Dusk Rose Lab,Unleashed,Uncommon,#209/219,16,0.49,1.07,Available,01:29:12 04/05/2026
+Garen - Might of Demacia,Riftbound Organized Play Promotional Cards,Promo,#023/024,63,5.59,7.11,Available,01:29:12 04/05/2026
+Kha'Zix - Mutating Horror,Unleashed,Rare,#143/219,24,0.45,1.02,Available,01:29:12 04/05/2026
+Star Spring,Unleashed,Uncommon,#215/219,16,0.45,0.85,Available,01:29:12 04/05/2026
+Bone Skewer,Unleashed,Rare,#139/219,18,3.94,7,Available,01:29:12 04/05/2026
+LeBlanc - Fragmented,Unleashed,Rare,#172/219,20,11.35,15.97,Available,01:29:12 04/05/2026
+Dragonsoul Sage,Unleashed,Common,#093/219,18,0.32,0.79,Available,01:29:12 04/05/2026
+Seal of Strength (Overnumbered),Spiritforged,Showcase,#231/221,59,59.99,76.15,Available,01:29:12 04/05/2026
+Vanguard Attendant,Origins: Proving Grounds,Common,#016/024,89,0.1,0.31,Available,01:29:12 04/05/2026
+Bewitching Spirit,Unleashed,Common,#121/219,21,0.34,0.78,Available,01:29:12 04/05/2026
+Viktor - Leader,Riftbound Promotional Cards,Promo,#246a/298,17,55,58.08,Available,01:29:12 04/05/2026
+Gentle Gemdragon,Unleashed,Uncommon,#104/219,18,0.94,1.31,Available,01:29:12 04/05/2026
+Seal of Insight (Overnumbered),Spiritforged,Showcase,#229/221,51,67.99,78.23,Available,01:29:12 04/05/2026
+Aspirant's Climb,Riftbound Promotional Cards,Promo,#276a/298,13,48.65,48.54,Available,01:29:12 04/05/2026
+Zephyr Sage,Origins: Proving Grounds,Uncommon,#005/024,92,0.1,0.35,Available,01:29:12 04/05/2026
+Forbidding Waste,Unleashed,Uncommon,#210/219,17,0.49,1.08,Available,01:29:12 04/05/2026
+Jinx - Loose Cannon (Overnumbered),Origins,Showcase,#301/298,33,42.5,104.71,Available,01:29:12 04/05/2026
+Diana - Lunari,Unleashed,Rare,#079/219,32,3.27,6.86,Available,01:29:12 04/05/2026
+Soul Sword,Unleashed,Common,#039/219,14,0.28,0.55,Available,01:29:12 04/05/2026
+Warwick - Hunter,Riftbound Promotional Cards,Promo,#159a/298,16,17,19.25,Available,01:29:12 04/05/2026
+Alpha Strike,Unleashed,Epic,#192/219,20,12.99,17.35,Available,01:29:12 04/05/2026
+Stare Down,Unleashed,Uncommon,#107/219,12,0.49,0.96,Available,01:29:12 04/05/2026
+Abandoned Hall,Unleashed,Uncommon,#205/219,17,0.49,0.75,Available,01:29:12 04/05/2026
+Smoke and Mirrors,Unleashed,Rare,#083/219,18,5.37,5.59,Available,01:29:12 04/05/2026
+Caitlyn - Patrolling,Riftbound Promotional Cards,Promo,#068a/298,20,29.99,35.15,Available,01:29:12 04/05/2026
+Master Yi - Tempered,Unleashed,Rare,#113/219,23,5.1,7.83,Available,01:29:12 04/05/2026
+Arachnoid Horror,Unleashed,Epic,#117/219,12,9.99,13.19,Available,01:29:12 04/05/2026
+Safety Inspector,Unleashed,Uncommon,#164/219,13,0.49,0.79,Available,01:29:12 04/05/2026
+Gemhand Hunter,Unleashed,Common,#094/219,17,0.34,0.37,Available,01:29:12 04/05/2026
+Concentrate,Unleashed,Common,#091/219,19,0.28,0.48,Available,01:29:12 04/05/2026
+Scryer's Bloom,Unleashed,Uncommon,#136/219,17,0.45,0.89,Available,01:29:12 04/05/2026
+Atakhan,Unleashed,Rare,#170/219,27,2.99,9.53,Available,01:29:12 04/05/2026
+Sinister Poro,Unleashed,Uncommon,#137/219,13,0.49,1.15,Available,01:29:12 04/05/2026
+Evelynn - Entrancing,Unleashed,Rare,#141/219,24,2.99,5.74,Available,01:29:12 04/05/2026
+Grim Apothecary,Unleashed,Rare,#021/219,25,3.07,7.13,Available,01:29:12 04/05/2026
+Deadly Flourish,Unleashed,Uncommon,#073/219,14,0.45,0.74,Available,01:29:12 04/05/2026
+Hextech Gauntlets,Unleashed,Epic,#188/219,23,3.99,6.35,Available,01:29:12 04/05/2026
+Smite,Unleashed,Common,#007/219,17,0.28,0.5,Available,01:29:12 04/05/2026
+The Ruination,Unleashed,Epic,#180/219,20,17.97,41.07,Available,01:29:12 04/05/2026
+Demacian Diplomat,Unleashed,Common,#092/219,22,0.28,0.57,Available,01:29:12 04/05/2026
+Jhin - Murderous Artist,Unleashed,Rare,#022/219,31,3.56,13.01,Available,01:29:12 04/05/2026
+Crimson Pigeons,Unleashed,Common,#154/219,15,0.3,0.37,Available,01:29:12 04/05/2026
+Yasuo - Windrider (Signature),Spiritforged,Showcase,#235,16,373.94,394.86,Available,01:29:12 04/05/2026
+Pyke - Dockside Butcher,Unleashed,Epic,#028/219,18,13.37,22.82,Available,01:29:12 04/05/2026
+Friendship,Unleashed,Uncommon,#046/219,15,0.49,1.11,Available,01:29:12 04/05/2026
+Shard of Undoing,Unleashed,Rare,#174/219,19,2.79,5.33,Available,01:29:12 04/05/2026
+LeBlanc - Deceiver,Unleashed,Rare,#199/219,26,2.08,3.52,Available,01:29:12 04/05/2026
+Inferna,Unleashed,Common,#002/219,18,0.47,0.67,Available,01:29:12 04/05/2026
+Jhin - Meticulous Killer,Unleashed,Epic,#089/219,20,5.97,6.99,Available,01:29:12 04/05/2026
+Rift Herald,Unleashed,Epic,#179/219,27,14.99,25.39,Available,01:29:12 04/05/2026
+Thrill of the Hunt,Unleashed,Epic,#184/219,21,12.99,20.63,Available,01:29:12 04/05/2026
+Vaults of Helia,Unleashed,Uncommon,#219/219,18,0.96,1.15,Available,01:29:12 04/05/2026
+Mutated Mouser,Unleashed,Common,#036/219,20,0.28,0.43,Available,01:29:12 04/05/2026
+Teemo - Swift Scout (Alternate Art),Riftbound Promotional Cards,Promo,#263a/298,34,139.99,180.95,Available,01:29:12 04/05/2026
+Amateur Recital,Unleashed,Uncommon,#207/219,16,0.49,0.83,Available,01:29:12 04/05/2026
+Blood Rose,Unleashed,Rare,#109/219,23,1.98,3,Available,01:29:12 04/05/2026
+Wuju Apprentice,Unleashed,Common,#040/219,18,0.35,0.36,Available,01:29:12 04/05/2026
+Carrion Dredger,Unleashed,Common,#153/219,19,0.3,0.82,Available,01:29:12 04/05/2026
+Frozen Fortress,Unleashed,Uncommon,#212/219,19,0.45,0.76,Available,01:29:12 04/05/2026
+Vi - Destructive,Riftbound Promotional Cards,Promo,#036a/298,22,84.8,88.03,Available,01:29:12 04/05/2026
+Hunter's Machete,Unleashed,Common,#096/219,16,0.28,0.66,Available,01:29:12 04/05/2026
+Baron Nashor,Unleashed,Epic,#147/219,19,49.99,85.99,Available,01:29:12 04/05/2026
+Loyal Poro,Unleashed,Common,#156/219,17,0.34,1.13,Available,01:29:12 04/05/2026
+The Academy,Unleashed,Uncommon,#216/219,18,0.45,1.04,Available,01:29:12 04/05/2026
+"Allay, Eager Admirer",Unleashed,Uncommon,#041/219,18,0.45,0.46,Available,01:29:12 04/05/2026
+Enthralling Protector,Unleashed,Uncommon,#162/219,17,0.3,0.31,Available,01:29:12 04/05/2026
+Vilemaw,Unleashed,Epic,#060/219,15,29.99,55.74,Available,01:29:12 04/05/2026
+Gardens of Becoming,Unleashed,Uncommon,#213/219,18,0.49,0.56,Available,01:29:12 04/05/2026
+Petal Pixie,Unleashed,Common,#076/219,13,0.3,0.65,Available,01:29:12 04/05/2026
+Stalking Wolf,Unleashed,Uncommon,#166/219,14,0.94,1.23,Available,01:29:12 04/05/2026
+Crowd Favorite,Unleashed,Uncommon,#102/219,21,0.45,0.48,Available,01:29:12 04/05/2026
+Voracious Gromp,Unleashed,Common,#100/219,18,0.29,0.59,Available,01:29:12 04/05/2026
+Sett - Brawler (Signature),Spiritforged,Showcase,#232,23,390,530.88,Available,01:29:12 04/05/2026
+Disposal Order,Unleashed,Uncommon,#103/219,12,0.47,0.82,Available,01:29:12 04/05/2026
+LeBlanc - Everywhere At Once,Unleashed,Epic,#090/219,17,27.99,42.59,Available,01:29:12 04/05/2026
+Master Yi - Unstoppable,Unleashed,Epic,#059/219,20,13.99,22.05,Available,01:29:12 04/05/2026
+Rengar - Trophy Hunter (Alternate Art),Unleashed,Showcase,#120a/219,6,37.95,42.32,Available,01:29:12 04/05/2026
+Darius - Executioner (Signature),Spiritforged,Showcase,#236,28,321.99,391.02,Available,01:29:12 04/05/2026
+Ivern - Friend to All,Unleashed,Epic,#177/219,19,14.99,27.47,Available,01:29:12 04/05/2026
+Lillia - Fae Fawn,Unleashed,Rare,#082/219,19,5.2,10.08,Available,01:29:12 04/05/2026
+Nilah - Joyful Ascetic,Unleashed,Rare,#115/219,23,3.48,6.76,Available,01:29:12 04/05/2026
+Frisky Hunter,Unleashed,Common,#033/219,19,0.28,0.59,Available,01:29:12 04/05/2026
+Yone - Blademaster (Signature),Spiritforged,Showcase,#233,31,300,514.62,Available,01:29:12 04/05/2026
+Lillia - Bashful Bloom,Unleashed,Rare,#189/219,18,0.75,2.24,Available,01:29:12 04/05/2026
+Death from Below,Unleashed,Epic,#186/219,23,17.99,22.17,Available,01:29:12 04/05/2026
+Lotus Trap,Unleashed,Uncommon,#013/219,14,0.45,1.49,Available,01:29:12 04/05/2026
+Double Trouble,Unleashed,Common,#032/219,20,0.35,0.42,Available,01:29:12 04/05/2026
+Upstage Comedy,Unleashed,Common,#009/219,16,0.47,0.78,Available,01:29:12 04/05/2026
+The List,Unleashed,Uncommon,#138/219,12,0.98,1.21,Available,01:29:12 04/05/2026
+Void Gate (Oversized),Origins: Proving Grounds,Uncommon,#296/298,24,1.24,2.4,Available,01:29:12 04/05/2026
+Ultrasoft Poro,Unleashed,Common,#160/219,17,0.3,0.77,Available,01:29:12 04/05/2026
+Soul Harvest,Unleashed,Common,#159/219,18,0.31,0.87,Available,01:29:12 04/05/2026
+Soul Shepherd,Unleashed,Uncommon,#077/219,13,0.49,0.99,Available,01:29:12 04/05/2026
+Combat Experience,Unleashed,Common,#031/219,20,0.35,0.38,Available,01:29:12 04/05/2026
+Undying Loyalty,Unleashed,Uncommon,#168/219,15,0.49,1.18,Available,01:29:12 04/05/2026
+Enthusiastic Promoter,Unleashed,Uncommon,#043/219,14,0.46,0.45,Available,01:29:12 04/05/2026
+Icevale Archer,Unleashed,Common,#065/219,21,0.28,0.87,Available,01:29:12 04/05/2026
+Trifarian War Camp (Oversized),Origins: Proving Grounds,Uncommon,#294/298,22,2.38,3.82,Available,01:29:12 04/05/2026
+Vi - Piltover Enforcer,Unleashed,Rare,#187/219,23,0.3,1.96,Available,01:29:12 04/05/2026
+Bard - Mercurial (Signature),Spiritforged,Showcase,#228,19,250,426.84,Available,01:29:12 04/05/2026
+Fresh Beans,Unleashed,Uncommon,#011/219,18,0.45,1.09,Available,01:29:12 04/05/2026
+Forgotten Signpost,Unleashed,Common,#045/219,16,0.28,0.65,Available,01:29:12 04/05/2026
+Frigid Jewel,Unleashed,Uncommon,#074/219,15,0.39,0.44,Available,01:29:12 04/05/2026
+Daisy!,Unleashed,Epic,#196/219,28,12.99,23.65,Available,01:29:12 04/05/2026
+Inviolus Vox,Unleashed,Epic,#027/219,16,9.99,14.29,Available,01:29:12 04/05/2026
+Startipped Peak (Oversized),Origins: Proving Grounds,Uncommon,#288/298,26,3,5.38,Available,01:29:12 04/05/2026
+Keeper of Masks,Unleashed,Rare,#081/219,25,2.67,5.66,Available,01:29:12 04/05/2026
+Pyke - Returned,Unleashed,Rare,#145/219,21,6.73,8.57,Available,01:29:12 04/05/2026
+Starhound,Unleashed,Uncommon,#167/219,14,0.49,1.23,Available,01:29:12 04/05/2026
+Vex - Apathetic (Alternate Art),Unleashed,Showcase,#150a/219,8,36.38,39.96,Available,01:29:12 04/05/2026
+Vex - Mocking,Unleashed,Rare,#055/219,24,1.88,4.22,Available,01:29:12 04/05/2026
+Fortified Position (Oversized),Origins: Proving Grounds,Uncommon,#279/298,26,2.56,3.88,Available,01:29:12 04/05/2026
+Teemo - Strategist (Signature),Spiritforged,Showcase,#230,24,473.98,543.87,Available,01:29:12 04/05/2026
+Altar of Blood,Unleashed,Uncommon,#206/219,19,0.45,0.82,Available,01:29:12 04/05/2026
+Black Flame Altar,Unleashed,Uncommon,#208/219,18,0.45,0.99,Available,01:29:12 04/05/2026
+Shadow,Unleashed,Epic,#194/219,19,4.99,7.98,Available,01:29:12 04/05/2026
+Alpha Wildclaw,Unleashed,Epic,#057/219,22,17.97,25.17,Available,01:29:12 04/05/2026
+Karma - Channeler (Signature),Spiritforged,Showcase,#237,35,290,300.53,Available,01:29:12 04/05/2026
+Aphelios - Exalted (Signature),Spiritforged,Showcase,#224,26,360,529.46,Available,01:29:12 04/05/2026
+Katarina - Reckless,Unleashed,Rare,#023/219,20,2.01,2.11,Available,01:29:12 04/05/2026
+Herald of Spring,Unleashed,Common,#034/219,22,0.35,0.34,Available,01:29:12 04/05/2026
+Heroic Charge,Unleashed,Common,#155/219,18,0.3,0.3,Available,01:29:12 04/05/2026
+Wily Newtfish,Unleashed,Uncommon,#108/219,13,0.3,0.4,Available,01:29:12 04/05/2026
+Vex - Gloomist,Unleashed,Rare,#193/219,23,0.72,1.46,Available,01:29:12 04/05/2026
+Rengar - Pridestalker,Unleashed,Rare,#183/219,19,0.75,2.92,Available,01:29:12 04/05/2026
+Scrutinizing Sergeant,Unleashed,Common,#157/219,20,0.3,0.3,Available,01:29:12 04/05/2026
+LeBlanc - Fragmented (Alternate Art),Unleashed,Showcase,#172a/219,8,30,40,Available,01:29:12 04/05/2026
+Kha'Zix - Mutating Horror (Alternate Art),Unleashed,Showcase,#143a/219,3,13.94,13.92,Available,01:29:12 04/05/2026
+Tricksy Tentacles,Unleashed,Rare,#054/219,19,4.12,4.06,Available,01:29:12 04/05/2026
+Downstage Dramatics,Unleashed,Common,#061/219,18,0.28,1.06,Available,01:29:12 04/05/2026
+Vault Breaker,Unleashed,Common,#010/219,20,0.35,0.32,Available,01:29:12 04/05/2026
+Leona - Radiant Dawn (Signature),Origins,Showcase,#306,9,499.69,726.2,Available,01:29:12 04/05/2026
+Angler Beast,Unleashed,Uncommon,#132/219,18,0.45,0.99,Available,01:29:12 04/05/2026
+Kha'Zix - Voidreaver,Unleashed,Rare,#201/219,25,0.57,2.26,Available,01:29:12 04/05/2026
+Call to Battle,Unleashed,Uncommon,#101/219,17,0.45,0.47,Available,01:29:12 04/05/2026
+Ivern - Nurturer,Unleashed,Rare,#051/219,29,2.13,10.49,Available,01:29:12 04/05/2026
+Mosstomper,Unleashed,Uncommon,#047/219,14,0.49,0.99,Available,01:29:12 04/05/2026
+Diana - Scorn of the Moon,Unleashed,Rare,#197/219,24,1.12,2.88,Available,01:29:12 04/05/2026
+Poppy - Paragon,Unleashed,Rare,#116/219,17,4,4.06,Available,01:29:12 04/05/2026
+Pyke - Bloodharbor Ripper,Unleashed,Rare,#185/219,25,0.98,3.49,Available,01:29:12 04/05/2026
+Heimerdinger - Inventor,Riftbound Promotional Cards,Promo,#111a/298,19,25.04,25.04,Available,01:29:12 04/05/2026
+Bandle Soldier,Unleashed,Common,#151/219,21,0.3,0.35,Available,01:29:12 04/05/2026
+Crescent Guardian,Unleashed,Common,#122/219,20,0.28,0.99,Available,01:29:12 04/05/2026
+Kha'Zix - Evolving Hunter,Unleashed,Epic,#119/219,14,7.99,10.94,Available,01:29:12 04/05/2026
+Elder Dragon (Alternate Art),Unleashed,Showcase,#118a/219,8,83.62,140,Available,01:29:12 04/05/2026
+Chakram Dancer,Unleashed,Uncommon,#071/219,18,0.45,1.48,Available,01:29:12 04/05/2026
+Blighted Battleaxe,Unleashed,Rare,#019/219,20,3.94,10,Available,01:29:12 04/05/2026
+Honeyfruit,Unleashed,Rare,#049/219,25,4.99,13.07,Available,01:29:12 04/05/2026
+Undying Legion,Unleashed,Rare,#025/219,24,1.99,1.99,Available,01:29:12 04/05/2026
+Diana - No Longer Human,Unleashed,Epic,#149/219,17,14.99,50.99,Available,01:29:12 04/05/2026
+Trapping Grounds,Unleashed,Uncommon,#217/219,15,0.45,0.97,Available,01:29:12 04/05/2026
+Vi - Peacekeeper (Alternate Art),Unleashed,Showcase,#176a/219,7,31,38.74,Available,01:29:12 04/05/2026
+Trevor Snoozebottom,Unleashed,Uncommon,#048/219,16,0.43,0.39,Available,01:29:12 04/05/2026
+Vi - Hotheaded,Unleashed,Epic,#030/219,24,7.99,25,Available,01:29:12 04/05/2026
+Dancing Grenade,Unleashed,Rare,#020/219,22,2.49,8,Available,01:29:12 04/05/2026
+Valley of Idols,Unleashed,Uncommon,#218/219,13,0.45,0.95,Available,01:29:12 04/05/2026
+Soraka - Wanderer (Signature),Spiritforged,Showcase,#239,24,497.99,776.48,Available,01:29:12 04/05/2026
+Divining Shells,Unleashed,Uncommon,#161/219,14,0.45,1.48,Available,01:29:12 04/05/2026
+Mister Root,Unleashed,Common,#127/219,16,0.3,0.25,Available,01:29:12 04/05/2026
+Skyward Strike,Unleashed,Common,#038/219,18,0.35,0.35,Available,01:29:12 04/05/2026
+Clash of Giants,Unleashed,Rare,#110/219,25,1.82,1.89,Available,01:29:12 04/05/2026
+Targonian Visionary,Unleashed,Common,#098/219,17,0.35,0.49,Available,01:29:12 04/05/2026
+Isolate,Unleashed,Common,#124/219,19,0.3,0.77,Available,01:29:12 04/05/2026
+Ripper's Bay,Unleashed,Uncommon,#214/219,15,0.45,2.53,Available,01:29:12 04/05/2026
+Zilean - Time Mage,Unleashed,Rare,#086/219,18,2.92,6.47,Available,01:29:12 04/05/2026
+Diana - Lunari (Alternate Art),Unleashed,Showcase,#079a/219,5,8,8.74,Available,01:29:12 04/05/2026
+Master Yi - Unstoppable (Alternate Art),Unleashed,Showcase,#059a/219,6,34.95,39.98,Available,01:29:12 04/05/2026
+Poppy - Keeper of the Hammer,Unleashed,Rare,#203/219,21,0.55,0.77,Available,01:29:12 04/05/2026
+Scorchclaw,Unleashed,Uncommon,#016/219,17,0.43,0.39,Available,01:29:12 04/05/2026
+Red Brambleback (Alternate Art),Unleashed,Showcase,#029a/219,12,39.98,60,Available,01:29:12 04/05/2026
+Darius - Hand of Noxus (Signature),Origins,Showcase,#302,11,399.99,624.35,Available,01:29:12 04/05/2026
+Sumpworks Map,Unleashed,Rare,#085/219,25,1.24,2.24,Available,01:29:12 04/05/2026
+Spectral Centaur,Unleashed,Common,#068/219,17,0.37,0.37,Available,01:29:12 04/05/2026
+Master Yi - Wuju Master,Unleashed,Rare,#191/219,24,0.75,2.96,Available,01:29:12 04/05/2026
+Rift Herald (Alternate Art),Unleashed,Showcase,#179a/219,10,50,69,Available,01:29:12 04/05/2026
+Forgotten Library,Unleashed,Uncommon,#211/219,17,0.47,0.95,Available,01:29:12 04/05/2026
+Blue Sentinel (Alternate Art),Unleashed,Showcase,#087a/219,12,32.95,60,Available,01:29:12 04/05/2026
+Blast Cone,Unleashed,Uncommon,#133/219,18,0.35,0.39,Available,01:29:12 04/05/2026
+Shadow Watcher,Unleashed,Common,#037/219,18,0.35,0.35,Available,01:29:12 04/05/2026
+Master Yi - Tempered (Alternate Art),Unleashed,Showcase,#113a/219,10,13.39,16.67,Available,01:29:12 04/05/2026
+Gutter Palace,Unleashed,Epic,#088/219,23,2.99,4.24,Available,01:29:12 04/05/2026
+Vi - Hotheaded (Alternate Art),Unleashed,Showcase,#030a/219,11,26.99,33.5,Available,01:29:12 04/05/2026
+Vayne - Hunter (Signature),Spiritforged,Showcase,#223,21,849.88,1108.74,Available,01:29:12 04/05/2026
+Ivern - Green Father,Unleashed,Rare,#195/219,26,0.76,5,Available,01:29:12 04/05/2026
+Red Brambleback,Unleashed,Epic,#029/219,17,14.99,31.45,Available,01:29:12 04/05/2026
+Cursed Sarcophagus,Unleashed,Epic,#148/219,18,9.99,12.93,Available,01:29:12 04/05/2026
+Diana - No Longer Human (Alternate Art),Unleashed,Showcase,#149a/219,6,68.99,69.21,Available,01:29:12 04/05/2026
+Diana - Scorn of the Moon (Overnumbered),Unleashed,Showcase,#234/219,1,215,174.99,Available,01:29:12 04/05/2026
+Pyke - Bloodharbor Ripper (Overnumbered),Unleashed,Showcase,#228/219,2,150.97,150.65,Available,01:29:12 04/05/2026
+Lee Sin - Blind Monk (Signature),Origins,Showcase,#304,8,869,816.66,Available,01:29:12 04/05/2026
+Jinx - Loose Cannon (Signature),Origins,Showcase,#301,11,940.3,972.52,Available,01:29:12 04/05/2026
+Mageseeker Investigator,Unleashed,Uncommon,#163/219,14,0.45,0.49,Available,01:29:12 04/05/2026
+Lord Broadmane,Unleashed,Uncommon,#012/219,16,0.43,0.39,Available,01:29:12 04/05/2026
+Flurry of Feathers,Unleashed,Uncommon,#044/219,16,0.43,0.39,Available,01:29:12 04/05/2026
+Baron Nashor (Alternate Art),Unleashed,Showcase,#147a/219,14,129.99,199.99,Available,01:29:12 04/05/2026
+Imposing Challenger,Unleashed,Uncommon,#105/219,17,0.49,0.49,Available,01:29:12 04/05/2026
+Jhin - Virtuoso,Unleashed,Rare,#181/219,23,0.24,1.65,Available,01:29:12 04/05/2026
+LeBlanc - Everywhere At Once (Alternate Art),Unleashed,Showcase,#090a/219,11,39.97,49.99,Available,01:29:12 04/05/2026
+Viktor - Herald of the Arcane (Signature),Origins,Showcase,#308,12,389.99,802.53,Available,01:29:12 04/05/2026
+Teemo - Swift Scout (Signature),Origins,Showcase,#307,9,890,896.64,Available,01:29:12 04/05/2026
+Kha'Zix - Evolving Hunter (Alternate Art),Unleashed,Showcase,#119a/219,12,26.39,0,Available,01:29:12 04/05/2026
+Master Yi - Wuju Bladesman (Metal),Riftbound Organized Play Promotional Cards,Promo,#019/024,7,1699.99,1935,Available,01:29:12 04/05/2026
+Ahri - Nine-Tailed Fox (Signature),Origins,Showcase,#303,7,2339.99,1946.02,Available,01:29:12 04/05/2026
+Poppy - Defender of the Meek (Alternate Art),Unleashed,Showcase,#178a/219,13,28.43,0,Available,01:29:12 04/05/2026
+Kai'Sa - Daughter of the Void (Metal),Riftbound Organized Play Promotional Cards,Promo,#247/298,6,2199.89,2499.5,Available,01:29:12 04/05/2026
+Poppy - Defender of the Meek,Unleashed,Epic,#178/219,18,9.97,40,Available,01:29:12 04/05/2026
+Garen - Might of Demacia (Metal),Riftbound Organized Play Promotional Cards,Promo,#023/024,3,1700,1349.99,Available,01:29:12 04/05/2026
+Jhin - Meticulous Killer (Alternate Art),Unleashed,Showcase,#089a/219,7,44.98,0,Available,01:29:12 04/05/2026
+Curtain Call,Unleashed,Epic,#182/219,23,13.99,40,Available,01:29:12 04/05/2026
+Yasuo - Unforgiven (Metal),Riftbound Organized Play Promotional Cards,Promo,#259/298,5,1898.94,0,Available,01:29:12 04/05/2026
+Volibear - Relentless Storm (Signature),Origins,Showcase,#300,6,699,718.75,Available,01:29:12 04/05/2026
+LeBlanc - Deceiver (Overnumbered),Unleashed,Showcase,#235/219,2,147.48,147.48,Available,01:29:12 04/05/2026
+Pyke - Dockside Butcher (Alternate Art),Unleashed,Showcase,#028a/219,8,36.45,0,Available,01:29:12 04/05/2026
+Blue Sentinel,Unleashed,Epic,#087/219,19,12.99,0,Available,01:29:12 04/05/2026
+Irelia - Fervent (Signature),Spiritforged,Showcase,#225,18,1297.67,1648,Available,01:29:12 04/05/2026
+Teemo - Swift Scout (Metal),Riftbound Organized Play Promotional Cards,Promo,#263/298,6,2099.99,1,Available,01:29:12 04/05/2026
+Lee Sin - Blind Monk (Metal),Riftbound Organized Play Promotional Cards,Promo,#257/298,8,988.9,1299.99,Available,01:29:12 04/05/2026
+Jinx - Loose Cannon (Metal),Riftbound Organized Play Promotional Cards,Promo,#251/298,5,1999.99,1874,Available,01:29:12 04/05/2026
+Miss Fortune - Bounty Hunter (Metal),Riftbound Organized Play Promotional Cards,Promo,#267/298,3,1237.5,0,Available,01:29:12 04/05/2026
+Viktor - Herald of the Arcane (Metal),Riftbound Organized Play Promotional Cards,Promo,#265/298,8,1802.69,0,Available,01:29:12 04/05/2026
+Ivern - Friend to All (Alternate Art),Unleashed,Showcase,#177a/219,8,38.73,0,Available,01:29:12 04/05/2026
+Miss Fortune - Bounty Hunter (Signature),Origins,Showcase,#309,6,450,1025.51,Available,01:29:12 04/05/2026
+Lillia - Fae Fawn (Alternate Art),Unleashed,Showcase,#082a/219,5,19.53,0,Available,01:29:12 04/05/2026
+LeBlanc - Deceiver (Signature),Unleashed,Showcase,#235,0,1300,1300,Out of Stock,01:29:12 04/05/2026
+Syndra - Transcendent,Unleashed,Rare,#146/219,22,5.21,9.56,Available,01:29:12 04/05/2026
+Darius - Hand of Noxus (Metal),Riftbound Organized Play Promotional Cards,Promo,#253/298,3,742.5,1023.97,Available,01:29:12 04/05/2026
+Lux - Lady of Luminosity (Metal),Riftbound Organized Play Promotional Cards,Rare,#021/024,2,1287,0,Available,01:29:12 04/05/2026
+Vex - Gloomist (Overnumbered),Unleashed,Showcase,#232/219,1,204.94,189.95,Available,01:29:12 04/05/2026
+Lucian - Purifier (Metal),Riftbound Organized Play Promotional Cards,Promo,#183/221,2,1549.99,0,Available,01:29:12 04/05/2026
+Rek'sai - Void Burrower (Metal),Riftbound Organized Play Promotional Cards,Promo,#187/221,1,1649.98,0,Available,01:29:12 04/05/2026
+Rumble - Mechanized Menace (Metal),Riftbound Organized Play Promotional Cards,Promo,#181/221,1,1399.99,0,Available,01:29:12 04/05/2026
+Kai'Sa - Daughter of the Void (Signature),Origins,Showcase,#299,4,2899.99,2331.96,Available,01:29:12 04/05/2026
+Irelia - Blade Dancer (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#195/221,4,2000,0,Available,01:29:12 04/05/2026
+Sett - The Boss (Signature),Origins,Showcase,#310,11,699.98,841.62,Available,01:29:12 04/05/2026
+Rengar - Unseen (Alternate Art),Unleashed,Showcase,#024a/219,10,30.73,0,Available,01:29:12 04/05/2026
+Lillia - Protector of Dreams (Alternate Art),Unleashed,Showcase,#058a/219,13,25,26.23,Available,01:29:12 04/05/2026
+Ahri - Inquisitive (Signature),Spiritforged,Showcase,#227,14,1395,2740.35,Available,01:29:12 04/05/2026
+Azir - Emperor of the Sands (Metal),Riftbound Organized Play Promotional Cards,Promo,#197/221,0,0,0,Out of Stock,01:29:12 04/05/2026
+Ornn - Fire Below the Mountain (Metal),Riftbound Organized Play Promotional Cards,Promo,#189/221,0,0,0,Out of Stock,01:29:12 04/05/2026
+Ahri - Nine-Tailed Fox (Metal),Riftbound Organized Play Promotional Cards,Promo,#255/298,6,3712.5,4999.99,Available,01:29:12 04/05/2026
+Draven - Glorious Executioner (Metal),Riftbound Organized Play Promotional Cards,Promo,#185/221,5,1399.69,0,Available,01:29:12 04/05/2026
+Volibear - Relentless Storm (Metal),Riftbound Organized Play Promotional Cards,Promo,#249/298,6,1300,1500.2,Available,01:29:12 04/05/2026
+Rengar - Unseen,Unleashed,Rare,#024/219,23,7.94,30,Available,01:29:12 04/05/2026
+Yasuo - Unforgiven (Signature),Origins,Showcase,#305,12,930,781.11,Available,01:29:12 04/05/2026
+Yasuo - Unforgiven (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#259/298,0,0,0,Out of Stock,01:29:12 04/05/2026
+Leona - Radiant Dawn (Metal),Riftbound Organized Play Promotional Cards,Promo,#261/298,7,1089,0,Available,01:29:12 04/05/2026
+Master Yi - Wuju Bladesman (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#019/024,0,0,0,Out of Stock,01:29:12 04/05/2026
+Lucian - Purifier (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#183/221,0,0,0,Out of Stock,01:29:12 04/05/2026
+Rumble - Mechanized Menace (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#181/221,0,0,0,Out of Stock,01:29:12 04/05/2026
+Vi - Piltover Enforcer (Signature),Unleashed,Showcase,#229,0,0,0,Out of Stock,01:29:12 04/05/2026
+Annie - Dark Child (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#017/024,0,0,0,Out of Stock,01:29:12 04/05/2026
+Sivir - Battle Mistress (Metal),Riftbound Organized Play Promotional Cards,Promo,#203/221,2,1699.98,0,Available,01:29:12 04/05/2026
+Ahri - Nine-Tailed Fox (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#255/298,1,4499.99,0,Available,01:29:12 04/05/2026
+Rengar - Pridestalker (Signature),Unleashed,Rare,#227,1,1499,0,Available,01:29:12 04/05/2026
+Lillia - Bashful Bloom (Overnumbered),Unleashed,Showcase,#230/219,4,140,0,Available,01:29:12 04/05/2026
+Ivern - Nurturer (Alternate Art),Unleashed,Showcase,#051a/219,10,11.94,0,Available,01:29:12 04/05/2026
+Pouty Poro (Overnumbered),Unleashed,Showcase,#220/219,5,175,0,Available,01:29:12 04/05/2026
+Conscription,Unleashed,Rare,#140/219,24,1.82,0,Available,01:29:12 04/05/2026
+Square Up,Unleashed,Uncommon,#017/219,15,0.49,0,Available,01:29:12 04/05/2026
+Lee Sin - Blind Monk (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#257/298,0,0,0,Out of Stock,01:29:12 04/05/2026
+Vex - Gloomist (Signature),Unleashed,Showcase,#232,2,1374.99,0,Available,01:29:12 04/05/2026
+Poppy - Keeper of the Hammer (Signature),Unleashed,Showcase,#237,2,799.99,0,Available,01:29:12 04/05/2026
+Azir - Emperor of the Sands (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#197/221,4,1643.68,0,Available,01:29:12 04/05/2026
+Pyke - Returned (Alternate Art),Unleashed,Showcase,#145a/219,9,35,0,Available,01:29:12 04/05/2026
+Insightful Investigator,Unleashed,Uncommon,#135/219,17,0.45,0,Available,01:29:12 04/05/2026
+Daring Poro (Overnumbered),Unleashed,Showcase,#225/219,3,295,0,Available,01:29:12 04/05/2026
+Revna the Lorekeeper,Unleashed,Common,#005/219,16,0.35,0,Available,01:29:12 04/05/2026
+Maduli the Gatekeeper,Unleashed,Rare,#144/219,24,1.26,0,Available,01:29:12 04/05/2026
+Walking Roost,Unleashed,Common,#130/219,19,0.3,0,Available,01:29:12 04/05/2026
+Monch,Unleashed,Common,#035/219,18,0.35,0,Available,01:29:12 04/05/2026
+Iascylla,Unleashed,Rare,#050/219,23,1.87,0,Available,01:29:12 04/05/2026
+Kha'Zix - Voidreaver (Signature),Unleashed,Showcase,#236,0,0,0,Out of Stock,01:29:12 04/05/2026
+Sett - The Boss (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#269/298,3,1399.99,0,Available,01:29:12 04/05/2026
+Mystic Poro (Overnumbered),Unleashed,Showcase,#224/219,10,200,0,Available,01:29:12 04/05/2026
+Yeti Brawler,Unleashed,Uncommon,#018/219,14,0.3,0,Available,01:29:12 04/05/2026
+Dramatic Visionary,Unleashed,Common,#062/219,16,0.35,0,Available,01:29:12 04/05/2026
+Gustwalker,Unleashed,Uncommon,#075/219,20,0.45,0,Available,01:29:12 04/05/2026
+Darius - Hand of Noxus (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#253/298,0,0,0,Out of Stock,01:29:12 04/05/2026
+Miss Fortune - Bounty Hunter (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#267/298,0,0,0,Out of Stock,01:29:12 04/05/2026
+Rek'sai - Void Burrower (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#187/221,1,1299.99,0,Available,01:29:12 04/05/2026
+Sett - The Boss (Metal),Riftbound Organized Play Promotional Cards,Promo,#269/298,5,1212.75,0,Available,01:29:12 04/05/2026
+Jhin - Virtuoso (Signature),Unleashed,Showcase,#226,1,2000,0,Available,01:29:12 04/05/2026
+Ivern - Green Father (Signature),Unleashed,Showcase,#233,4,1100,0,Available,01:29:12 04/05/2026
+Moonlight Affliction,Unleashed,Common,#066/219,14,0.35,0,Available,01:29:12 04/05/2026
+Poppy - Paragon (Alternate Art),Unleashed,Showcase,#116a/219,10,17.94,0,Available,01:29:12 04/05/2026
+Fate Weaver,Unleashed,Common,#064/219,21,0.35,0,Available,01:29:12 04/05/2026
+Lillia - Bashful Bloom (Signature),Unleashed,Showcase,#230,0,0,0,Out of Stock,01:29:12 04/05/2026
+Irelia - Blade Dancer (Metal),Riftbound Organized Play Promotional Cards,Promo,#195/221,2,2099.99,0,Available,01:29:12 04/05/2026
+Garen - Might of Demacia (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#023/024,0,0,0,Out of Stock,01:29:12 04/05/2026
+Annie - Dark Child (Metal),Riftbound Organized Play Promotional Cards,Promo,#017/024,6,1469.69,0,Available,01:29:12 04/05/2026
+Jax - Grandmaster At Arms (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#193/221,0,0,0,Out of Stock,01:29:12 04/05/2026
+Vicious Snapjaws,Unleashed,Common,#129/219,13,0.3,0,Available,01:29:12 04/05/2026
+Viktor - Herald of the Arcane (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#265/298,1,1500,0,Available,01:29:12 04/05/2026
+Fiora - Grand Duelist (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#205/221,1,1499.99,0,Available,01:29:12 04/05/2026
+Rengar - Pridestalker (Overnumbered),Unleashed,Rare,#227/219,4,134.99,0,Available,01:29:12 04/05/2026
+Master Yi - Wuju Master (Signature),Unleashed,Showcase,#231,1,1500,0,Available,01:29:12 04/05/2026
+Baron Nashor (Ultimate),Unleashed,Showcase,#238/219,2,7968.99,0,Available,01:29:12 04/05/2026
+Vi - Piltover Enforcer (Overnumbered),Unleashed,Showcase,#229/219,5,260.99,0,Available,01:29:12 04/05/2026
+Vilemaw (Alternate Art),Unleashed,Showcase,#060a/219,13,78,0,Available,01:29:12 04/05/2026
+Mischevious Marai,Unleashed,Common,#003/219,14,0.35,0,Available,01:29:12 04/05/2026
+Towering Pairofant,Unleashed,Common,#008/219,16,0.35,0,Available,01:29:12 04/05/2026
+Monster Harpoon,Unleashed,Uncommon,#014/219,14,0.49,0,Available,01:29:12 04/05/2026
+Jax - Grandmaster At Arms (Metal),Riftbound Organized Play Promotional Cards,Promo,#193/221,2,1199.99,0,Available,01:29:12 04/05/2026
+Leona - Radiant Dawn (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#261/298,0,0,0,Out of Stock,01:29:12 04/05/2026
+Renata Glasc - Chem-Baroness (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#201/221,1,1099.99,0,Available,01:29:12 04/05/2026
+Volibear - Relentless Storm (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#249/298,1,4999.99,0,Available,01:29:12 04/05/2026
+Ornn - Fire Below the Mountain (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#189/221,0,0,0,Out of Stock,01:29:12 04/05/2026
+Ezreal - Prodigal Explorer (Metal),Riftbound Organized Play Promotional Cards,Promo,#199/221,6,1547.69,0,Available,01:29:12 04/05/2026
+Draven - Glorious Executioner (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#185/221,0,0,0,Out of Stock,01:29:12 04/05/2026
+Jhin - Murderous Artist (Alternate Art),Unleashed,Showcase,#022a/219,13,35,0,Available,01:29:12 04/05/2026
+Jhin - Virtuoso (Overnumbered),Unleashed,Showcase,#226/219,7,219.95,0,Available,01:29:12 04/05/2026
+Vex - Mocking (Alternate Art),Unleashed,Showcase,#055a/219,7,47.8,0,Available,01:29:12 04/05/2026
+Arena Kingpin,Unleashed,Common,#001/219,19,0.35,0,Available,01:29:12 04/05/2026
+Ezreal - Prodigal Explorer (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#199/221,2,1300,0,Available,01:29:12 04/05/2026
+Lillia - Protector of Dreams,Unleashed,Epic,#058/219,16,8.99,10,Available,01:29:12 04/05/2026
+Plundering Poro (Overnumbered),Unleashed,Showcase,#222/219,5,599.85,0,Available,01:29:12 04/05/2026
+Diana - Scorn of the Moon (Signature),Unleashed,Showcase,#234,0,0,0,Out of Stock,01:29:12 04/05/2026
+Lux - Lady of Luminosity (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Rare,#021/024,0,0,0,Out of Stock,01:29:12 04/05/2026
+Kha'Zix - Voidreaver (Overnumbered),Unleashed,Showcase,#236/219,2,179.95,0,Available,01:29:12 04/05/2026
+Fiora - Grand Duelist (Metal),Riftbound Organized Play Promotional Cards,Promo,#205/221,3,1069.69,0,Available,01:29:12 04/05/2026
+Kai'Sa - Daughter of the Void (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#247/298,3,2494.99,0,Available,01:29:12 04/05/2026
+Veteran Poro (Overnumbered),Unleashed,Showcase,#223/219,7,169.98,0,Available,01:29:12 04/05/2026
+Prepared Neophyte,Unleashed,Common,#004/219,16,0.35,0,Available,01:29:12 04/05/2026
+Determined Sentry,Unleashed,Rare,#111/219,23,1.99,0,Available,01:29:12 04/05/2026
+Xerath - Freed,Unleashed,Rare,#026/219,20,2.67,0,Available,01:29:12 04/05/2026
+Right of Conquest,Unleashed,Uncommon,#015/219,17,0.28,0,Available,01:29:12 04/05/2026
+Sivir - Battle Mistress (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#203/221,3,1699.97,0,Available,01:29:12 04/05/2026
+Teemo - Swift Scout (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#263/298,1,6000,0,Available,01:29:12 04/05/2026
+Renata Glasc - Chem-Baroness (Metal),Riftbound Organized Play Promotional Cards,Promo,#201/221,2,1149.74,0,Available,01:29:12 04/05/2026
+Jinx - Loose Cannon (Metal) (Prize Wall),Riftbound Organized Play Promotional Cards,Promo,#251/298,1,1999.99,0,Available,01:29:12 04/05/2026
+Ivern - Green Father (Overnumbered),Unleashed,Showcase,#233/219,1,250,0,Available,01:29:12 04/05/2026
+Lonely Poro (Overnumbered),Unleashed,Showcase,#221/219,6,120,0,Available,01:29:12 04/05/2026
+Evershade Stalker,Unleashed,Common,#123/219,18,0.34,0,Available,01:29:12 04/05/2026
+Pyke - Bloodharbor Ripper (Signature),Unleashed,Showcase,#228,1,1999.95,0,Available,01:29:12 04/05/2026
+Poppy - Keeper of the Hammer (Overnumbered),Unleashed,Showcase,#237/219,3,345.96,0,Available,01:29:12 04/05/2026
+Master Yi - Wuju Master (Overnumbered),Unleashed,Showcase,#231/219,3,264,0,Available,01:29:12 04/05/2026
+Sharkling,Unleashed,Common,#006/219,17,0.35,0,Available,01:29:12 04/05/2026
+Megatusk,Unleashed,Common,#126/219,21,0.3,0,Available,01:29:12 04/05/2026
+Towering Combatant,Unleashed,Common,#099/219,16,0.35,0,Available,01:29:12 04/05/2026
